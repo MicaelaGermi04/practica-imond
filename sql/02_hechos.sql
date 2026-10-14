@@ -26,3 +26,76 @@
 
 
 -- TU TURNO: creá acá las tablas de hechos.
+
+-- ============================================
+-- FACT_SALES
+-- Una fila por pedido
+-- ============================================
+
+CREATE TABLE fact_sales (
+    order_id BIGINT NOT NULL PRIMARY KEY,
+    date_id INTEGER NOT NULL,
+    customer_id INTEGER NOT NULL,
+    channel_id INTEGER NOT NULL,
+    location_id INTEGER,
+    store_id INTEGER,
+    order_date TIMESTAMP NOT NULL,
+    status VARCHAR(20) NOT NULL
+        CHECK (status IN (
+            'CREATED',
+            'PAID',
+            'CANCELLED',
+            'FULFILLED',
+            'REFUNDED'
+        )),
+    currency_code CHAR(3),
+    subtotal DECIMAL(12,2) NOT NULL,
+    tax_amount DECIMAL(12,2) NOT NULL,
+    shipping_fee DECIMAL(12,2) NOT NULL,
+    total_amount DECIMAL(12,2) NOT NULL,
+
+    FOREIGN KEY (date_id)
+        REFERENCES dim_date(date_id),
+
+    FOREIGN KEY (customer_id)
+        REFERENCES dim_customer(customer_id),
+
+    FOREIGN KEY (channel_id)
+        REFERENCES dim_channel(channel_id),
+
+    FOREIGN KEY (location_id)
+        REFERENCES dim_location(location_id),
+
+    FOREIGN KEY (store_id)
+        REFERENCES dim_store(store_id)
+);
+INSERT INTO fact_sales (
+    order_id,
+    date_id,
+    customer_id,
+    channel_id,
+    location_id,
+    store_id,
+    order_date,
+    status,
+    currency_code,
+    subtotal,
+    tax_amount,
+    shipping_fee,
+    total_amount
+)
+SELECT
+    order_id,
+    CAST(STRFTIME(order_date, '%Y%m%d') AS INTEGER),
+    customer_id,
+    channel_id,
+    shipping_address_id,
+    store_id,
+    order_date,
+    status,
+    currency_code,
+    subtotal,
+    tax_amount,
+    shipping_fee,
+    total_amount
+FROM raw.sales_order;

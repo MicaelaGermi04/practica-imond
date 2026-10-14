@@ -11,7 +11,6 @@
 -- Para explorarlas antes de escribir nada:  python run_sql.py --explorar
 -- =====================================================================
 
-
 -- ---------------------------------------------------------------------
 -- EJEMPLO RESUELTO: dimensión producto
 -- ---------------------------------------------------------------------
@@ -46,19 +45,166 @@ FROM raw.product AS p
 LEFT JOIN raw.product_category AS c ON c.category_id = p.category_id   -- categoría
 LEFT JOIN raw.product_category AS f ON f.category_id = c.parent_id;    -- familia (categoría padre)
 
+-- ============================================
+-- DIM_DATE
+-- Granularidad: una fila por fecha
+-- ============================================
 
--- ---------------------------------------------------------------------
--- TU TURNO: el resto de las dimensiones
--- ---------------------------------------------------------------------
--- Pensá qué preguntas tiene que responder el dashboard (por fecha, canal,
--- provincia, producto, cliente, tienda...) y creá una dimensión para cada una.
---
--- Tips:
---   * Generar todas las fechas entre dos días:
---       SELECT CAST(range AS DATE) AS fecha
---       FROM range(DATE '2024-01-01', DATE '2025-10-01', INTERVAL 1 DAY);
---   * Partes de una fecha: year(fecha), month(fecha), monthname(fecha), dayname(fecha)
---   * Clave numérica para una fecha (ej. 20240131):
---       CAST(strftime(fecha, '%Y%m%d') AS INTEGER)
---   * Si algo puede venir vacío (ej. NPS anónimos, sin cliente), podés agregar
---     una fila "Desconocido" con clave -1 y usar COALESCE(clave, -1) en los hechos.
+CREATE TABLE dim_date (
+    date_id INTEGER NOT NULL PRIMARY KEY,
+    full_date DATE NOT NULL UNIQUE,
+    day INTEGER,
+    month INTEGER,
+    year INTEGER,
+    quarter INTEGER
+);
+
+INSERT INTO dim_date (
+    date_id,
+    full_date,
+    day,
+    month,
+    year,
+    quarter
+)
+SELECT
+    CAST(STRFTIME(fecha, '%Y%m%d') AS INTEGER),
+    CAST(fecha AS DATE),
+    DAY(fecha),
+    MONTH(fecha),
+    YEAR(fecha),
+    QUARTER(fecha)
+FROM generate_series(
+    DATE '2024-01-01',
+    DATE '2025-09-30',
+    INTERVAL 1 DAY
+) AS calendario(fecha);
+
+
+-- ============================================
+-- DIM_CHANNEL
+-- Granularidad: una fila por canal de venta
+-- ============================================
+
+CREATE TABLE dim_channel (
+    channel_id INTEGER NOT NULL PRIMARY KEY,
+    code VARCHAR(20) NOT NULL UNIQUE,
+    name VARCHAR(50) NOT NULL
+);
+
+INSERT INTO dim_channel (
+    channel_id,
+    code,
+    name
+)
+SELECT
+    channel_id,
+    code,
+    name
+FROM raw.channel;
+
+
+-- ============================================
+-- DIM_CUSTOMER
+-- Granularidad: una fila por cliente
+-- ============================================
+
+CREATE TABLE dim_customer (
+    customer_id INTEGER NOT NULL PRIMARY KEY,
+    email VARCHAR(120) UNIQUE,
+    first_name VARCHAR(80),
+    last_name VARCHAR(80),
+    phone VARCHAR(30),
+    status CHAR(1) DEFAULT 'A'
+        CHECK (status IN ('A', 'I')),
+    created_at TIMESTAMP NOT NULL
+);
+
+INSERT INTO dim_customer (
+    customer_id,
+    email,
+    first_name,
+    last_name,
+    phone,
+    status,
+    created_at
+)
+SELECT
+    customer_id,
+    email,
+    first_name,
+    last_name,
+    phone,
+    status,
+    created_at
+FROM raw.customer;
+
+
+-- ============================================
+-- DIM_LOCATION
+-- Granularidad: una fila por dirección
+-- ============================================
+
+CREATE TABLE dim_location (
+    location_id INTEGER NOT NULL PRIMARY KEY,
+    address_line VARCHAR(120),
+    city VARCHAR(80),
+    province_name VARCHAR(50),
+    province_code VARCHAR(10),
+    postal_code VARCHAR(20),
+    country_code CHAR(2)
+);
+
+INSERT INTO dim_location (
+    location_id,
+    address_line,
+    city,
+    province_name,
+    province_code,
+    postal_code,
+    country_code
+)
+SELECT
+    a.address_id,
+    a.line1,
+    a.city,
+    p.name,
+    p.code,
+    a.postal_code,
+    a.country_code
+FROM raw.address a
+LEFT JOIN raw.province p
+    ON a.province_id = p.province_id;
+
+
+-- ============================================
+-- DIM_STORE
+-- Granularidad: una fila por tienda física
+-- ============================================
+
+CREATE TABLE dim_store (
+    store_id INTEGER NOT NULL PRIMARY KEY,
+    store_name VARCHAR(80) NOT NULL,
+    address_id INTEGER,
+    city VARCHAR(80),
+    province_name VARCHAR(50)
+);
+
+INSERT INTO dim_store (
+    store_id,
+    store_name,
+    address_id,
+    city,
+    province_name
+)
+SELECT
+    s.store_id,
+    s.name,
+    s.address_id,
+    a.city,
+    p.name
+FROM raw.store s
+LEFT JOIN raw.address a
+    ON s.address_id = a.address_id
+LEFT JOIN raw.province p
+    ON a.province_id = p.province_id;

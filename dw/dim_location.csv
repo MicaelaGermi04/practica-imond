@@ -1,0 +1,3830 @@
+location_id,address_line,city,province_name,province_code,postal_code,country_code
+1,Av. 7 1045,La Plata,Buenos Aires,BA,1900,AR
+2,Av. Colón 480,Córdoba,Córdoba,CBA,5000,AR
+3,San Martín 850,Rosario,Santa Fe,SF,2000,AR
+4,Av. San Martín 1150,Mendoza,Mendoza,MZA,5500,AR
+1001,Laprida 3328,La Plata,Buenos Aires,BA,1900,AR
+1002,Chacabuco 2522,Rafaela,Santa Fe,SF,2300,AR
+1003,Independencia 1112,Santa Fe,Santa Fe,SF,3000,AR
+1004,9 de Julio 363,Córdoba,Córdoba,CBA,5000,AR
+1005,Entre Ríos 1034,Mar del Plata,Buenos Aires,BA,7600,AR
+1006,Dorrego 3385,San Rafael,Mendoza,MZA,5600,AR
+1007,Alem 4446,Mendoza,Mendoza,MZA,5500,AR
+1008,Laprida 4118,La Plata,Buenos Aires,BA,1900,AR
+1009,25 de Mayo 2439,Mendoza,Mendoza,MZA,5500,AR
+1010,Moreno 4593,Mendoza,Mendoza,MZA,5500,AR
+1011,Mitre 3298,Mendoza,Mendoza,MZA,5500,AR
+1012,Balcarce 2996,Córdoba,Córdoba,CBA,5000,AR
+1013,Av. Pellegrini 2459,La Plata,Buenos Aires,BA,1900,AR
+1014,Salta 4711,Quilmes,Buenos Aires,BA,1878,AR
+1015,Av. Pellegrini 3157,Córdoba,Córdoba,CBA,5000,AR
+1016,Tucumán 1450,Rafaela,Santa Fe,SF,2300,AR
+1017,Mitre 2472,Rosario,Santa Fe,SF,2000,AR
+1018,Av. Colón 200,Córdoba,Córdoba,CBA,5000,AR
+1019,Dorrego 2559,Quilmes,Buenos Aires,BA,1878,AR
+1020,Independencia 3053,La Plata,Buenos Aires,BA,1900,AR
+1021,Balcarce 4182,Quilmes,Buenos Aires,BA,1878,AR
+1022,25 de Mayo 1342,San Isidro,Buenos Aires,BA,1642,AR
+1023,Castelli 929,Santa Fe,Santa Fe,SF,3000,AR
+1024,Mitre 1233,La Plata,Buenos Aires,BA,1900,AR
+1025,Rivadavia 2406,San Isidro,Buenos Aires,BA,1642,AR
+1026,Sarmiento 3631,Quilmes,Buenos Aires,BA,1878,AR
+1027,Las Heras 434,Córdoba,Córdoba,CBA,5000,AR
+1028,Las Heras 3204,Rafaela,Santa Fe,SF,2300,AR
+1029,Güemes 676,San Rafael,Mendoza,MZA,5600,AR
+1030,Av. Colón 1732,San Isidro,Buenos Aires,BA,1642,AR
+1031,Brown 604,San Isidro,Buenos Aires,BA,1642,AR
+1032,Chacabuco 2920,Santa Fe,Santa Fe,SF,3000,AR
+1033,Sarmiento 4433,Bahía Blanca,Buenos Aires,BA,8000,AR
+1034,Sarmiento 2305,Córdoba,Córdoba,CBA,5000,AR
+1035,Alsina 3050,La Plata,Buenos Aires,BA,1900,AR
+1036,Las Heras 3657,Rosario,Santa Fe,SF,2000,AR
+1037,Balcarce 2661,San Isidro,Buenos Aires,BA,1642,AR
+1038,Chacabuco 4304,Bahía Blanca,Buenos Aires,BA,8000,AR
+1039,Balcarce 1661,Río Cuarto,Córdoba,CBA,5800,AR
+1040,Laprida 2557,San Isidro,Buenos Aires,BA,1642,AR
+1041,Balcarce 436,Mar del Plata,Buenos Aires,BA,7600,AR
+1042,Güemes 405,Mar del Plata,Buenos Aires,BA,7600,AR
+1043,Av. Pellegrini 4383,La Plata,Buenos Aires,BA,1900,AR
+1044,Belgrano 4572,Córdoba,Córdoba,CBA,5000,AR
+1045,Alem 3656,Córdoba,Córdoba,CBA,5000,AR
+1046,Alsina 803,Rosario,Santa Fe,SF,2000,AR
+1047,Av. Colón 1423,Quilmes,Buenos Aires,BA,1878,AR
+1048,Chacabuco 680,Córdoba,Córdoba,CBA,5000,AR
+1049,Alsina 3439,Rosario,Santa Fe,SF,2000,AR
+1050,9 de Julio 330,La Plata,Buenos Aires,BA,1900,AR
+1051,Balcarce 1619,San Isidro,Buenos Aires,BA,1642,AR
+1052,Mitre 543,Rosario,Santa Fe,SF,2000,AR
+1053,Las Heras 1404,San Rafael,Mendoza,MZA,5600,AR
+1054,Av. San Martín 4432,Quilmes,Buenos Aires,BA,1878,AR
+1055,España 2235,Bahía Blanca,Buenos Aires,BA,8000,AR
+1056,Mitre 3235,Córdoba,Córdoba,CBA,5000,AR
+1057,Tucumán 2891,La Plata,Buenos Aires,BA,1900,AR
+1058,Urquiza 3661,Quilmes,Buenos Aires,BA,1878,AR
+1059,Entre Ríos 3981,La Plata,Buenos Aires,BA,1900,AR
+1060,Entre Ríos 706,Quilmes,Buenos Aires,BA,1878,AR
+1061,Laprida 832,Quilmes,Buenos Aires,BA,1878,AR
+1062,Dorrego 3065,Rosario,Santa Fe,SF,2000,AR
+1063,Independencia 747,Mar del Plata,Buenos Aires,BA,7600,AR
+1064,Moreno 4820,San Rafael,Mendoza,MZA,5600,AR
+1065,Alsina 3174,La Plata,Buenos Aires,BA,1900,AR
+1066,España 3787,Santa Fe,Santa Fe,SF,3000,AR
+1067,Av. Pellegrini 1826,Godoy Cruz,Mendoza,MZA,5501,AR
+1068,Güemes 2181,Bahía Blanca,Buenos Aires,BA,8000,AR
+1069,9 de Julio 2169,Mendoza,Mendoza,MZA,5500,AR
+1070,Tucumán 2525,Quilmes,Buenos Aires,BA,1878,AR
+1071,Dorrego 2004,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1072,Castelli 3858,Rosario,Santa Fe,SF,2000,AR
+1073,Las Heras 4543,Córdoba,Córdoba,CBA,5000,AR
+1074,Moreno 3491,San Rafael,Mendoza,MZA,5600,AR
+1075,Sarmiento 1746,La Plata,Buenos Aires,BA,1900,AR
+1076,Pueyrredón 365,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1077,Laprida 3335,La Plata,Buenos Aires,BA,1900,AR
+1078,Balcarce 1022,San Rafael,Mendoza,MZA,5600,AR
+1079,Pueyrredón 3429,Córdoba,Córdoba,CBA,5000,AR
+1080,Av. Pellegrini 888,Córdoba,Córdoba,CBA,5000,AR
+1081,España 3165,Córdoba,Córdoba,CBA,5000,AR
+1082,Entre Ríos 4292,Quilmes,Buenos Aires,BA,1878,AR
+1083,Lavalle 546,Mendoza,Mendoza,MZA,5500,AR
+1084,Dorrego 179,Bahía Blanca,Buenos Aires,BA,8000,AR
+1085,Dorrego 4596,Rafaela,Santa Fe,SF,2300,AR
+1086,Belgrano 1145,La Plata,Buenos Aires,BA,1900,AR
+1087,Dorrego 3217,Bahía Blanca,Buenos Aires,BA,8000,AR
+1088,Salta 4018,Mar del Plata,Buenos Aires,BA,7600,AR
+1089,Entre Ríos 1077,Rafaela,Santa Fe,SF,2300,AR
+1090,Lavalle 3169,Quilmes,Buenos Aires,BA,1878,AR
+1091,Laprida 331,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1092,Tucumán 4306,Río Cuarto,Córdoba,CBA,5800,AR
+1093,Las Heras 3653,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1094,Lavalle 1476,Santa Fe,Santa Fe,SF,3000,AR
+1095,Av. San Martín 1960,Río Cuarto,Córdoba,CBA,5800,AR
+1096,Av. Pellegrini 4385,Quilmes,Buenos Aires,BA,1878,AR
+1097,9 de Julio 2964,Córdoba,Córdoba,CBA,5000,AR
+1098,Chacabuco 2595,Córdoba,Córdoba,CBA,5000,AR
+1099,Pueyrredón 1523,Córdoba,Córdoba,CBA,5000,AR
+1100,Lavalle 2366,Rosario,Santa Fe,SF,2000,AR
+1101,Mitre 1830,Córdoba,Córdoba,CBA,5000,AR
+1102,Belgrano 445,La Plata,Buenos Aires,BA,1900,AR
+1103,Chacabuco 3798,La Plata,Buenos Aires,BA,1900,AR
+1104,Italia 2449,Córdoba,Córdoba,CBA,5000,AR
+1105,Tucumán 2930,Mar del Plata,Buenos Aires,BA,7600,AR
+1106,Entre Ríos 1459,Mendoza,Mendoza,MZA,5500,AR
+1107,España 1691,Rosario,Santa Fe,SF,2000,AR
+1108,Brown 282,Santa Fe,Santa Fe,SF,3000,AR
+1109,Entre Ríos 940,Córdoba,Córdoba,CBA,5000,AR
+1110,Güemes 1964,Mendoza,Mendoza,MZA,5500,AR
+1111,Alsina 2378,Córdoba,Córdoba,CBA,5000,AR
+1112,Lavalle 4657,Quilmes,Buenos Aires,BA,1878,AR
+1113,9 de Julio 870,Mar del Plata,Buenos Aires,BA,7600,AR
+1114,España 517,Río Cuarto,Córdoba,CBA,5800,AR
+1115,Mitre 3633,La Plata,Buenos Aires,BA,1900,AR
+1116,Moreno 1567,Bahía Blanca,Buenos Aires,BA,8000,AR
+1117,Av. San Martín 4544,Córdoba,Córdoba,CBA,5000,AR
+1118,Alsina 3730,Córdoba,Córdoba,CBA,5000,AR
+1119,Alsina 940,Bahía Blanca,Buenos Aires,BA,8000,AR
+1120,Güemes 2381,Mendoza,Mendoza,MZA,5500,AR
+1121,España 1566,Córdoba,Córdoba,CBA,5000,AR
+1122,Salta 4957,Río Cuarto,Córdoba,CBA,5800,AR
+1123,España 389,Mar del Plata,Buenos Aires,BA,7600,AR
+1124,Castelli 2060,La Plata,Buenos Aires,BA,1900,AR
+1125,España 1251,Santa Fe,Santa Fe,SF,3000,AR
+1126,Independencia 4464,Quilmes,Buenos Aires,BA,1878,AR
+1127,Tucumán 1008,Córdoba,Córdoba,CBA,5000,AR
+1128,Salta 3819,Bahía Blanca,Buenos Aires,BA,8000,AR
+1129,Belgrano 2417,Córdoba,Córdoba,CBA,5000,AR
+1130,Balcarce 3499,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1131,Dorrego 354,Mar del Plata,Buenos Aires,BA,7600,AR
+1132,Av. Colón 2698,Córdoba,Córdoba,CBA,5000,AR
+1133,Laprida 1642,La Plata,Buenos Aires,BA,1900,AR
+1134,Brown 3974,Córdoba,Córdoba,CBA,5000,AR
+1135,Av. San Martín 4697,La Plata,Buenos Aires,BA,1900,AR
+1136,Av. San Martín 2238,Mar del Plata,Buenos Aires,BA,7600,AR
+1137,Av. Colón 1674,La Plata,Buenos Aires,BA,1900,AR
+1138,Independencia 3793,Bahía Blanca,Buenos Aires,BA,8000,AR
+1139,Chacabuco 3669,Córdoba,Córdoba,CBA,5000,AR
+1140,Alsina 4467,La Plata,Buenos Aires,BA,1900,AR
+1141,Urquiza 3497,Mar del Plata,Buenos Aires,BA,7600,AR
+1142,Lavalle 4416,Mar del Plata,Buenos Aires,BA,7600,AR
+1143,Laprida 1538,Córdoba,Córdoba,CBA,5000,AR
+1144,Alem 3204,Córdoba,Córdoba,CBA,5000,AR
+1145,Av. Colón 4385,Río Cuarto,Córdoba,CBA,5800,AR
+1146,Belgrano 2706,Quilmes,Buenos Aires,BA,1878,AR
+1147,Lavalle 4289,San Isidro,Buenos Aires,BA,1642,AR
+1148,Belgrano 886,Córdoba,Córdoba,CBA,5000,AR
+1149,Dorrego 3367,Córdoba,Córdoba,CBA,5000,AR
+1150,Sarmiento 4369,Santa Fe,Santa Fe,SF,3000,AR
+1151,Belgrano 2139,Mar del Plata,Buenos Aires,BA,7600,AR
+1152,Sarmiento 3226,Rosario,Santa Fe,SF,2000,AR
+1153,Alem 928,Córdoba,Córdoba,CBA,5000,AR
+1154,Independencia 2989,Santa Fe,Santa Fe,SF,3000,AR
+1155,Independencia 1586,Mendoza,Mendoza,MZA,5500,AR
+1156,Lavalle 3980,Quilmes,Buenos Aires,BA,1878,AR
+1157,Sarmiento 2458,Quilmes,Buenos Aires,BA,1878,AR
+1158,Las Heras 2868,Rosario,Santa Fe,SF,2000,AR
+1159,Av. San Martín 3725,Rosario,Santa Fe,SF,2000,AR
+1160,Belgrano 3952,Bahía Blanca,Buenos Aires,BA,8000,AR
+1161,Pueyrredón 172,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1162,Av. San Martín 2236,Rosario,Santa Fe,SF,2000,AR
+1163,25 de Mayo 1294,Córdoba,Córdoba,CBA,5000,AR
+1164,Rivadavia 428,Mar del Plata,Buenos Aires,BA,7600,AR
+1165,Av. Colón 4656,Córdoba,Córdoba,CBA,5000,AR
+1166,Av. Pellegrini 2747,Rafaela,Santa Fe,SF,2300,AR
+1167,25 de Mayo 4407,Bahía Blanca,Buenos Aires,BA,8000,AR
+1168,Av. Pellegrini 864,La Plata,Buenos Aires,BA,1900,AR
+1169,Av. San Martín 679,La Plata,Buenos Aires,BA,1900,AR
+1170,Güemes 4683,La Plata,Buenos Aires,BA,1900,AR
+1171,Laprida 4338,Córdoba,Córdoba,CBA,5000,AR
+1172,Brown 3628,Córdoba,Córdoba,CBA,5000,AR
+1173,Maipú 2506,Bahía Blanca,Buenos Aires,BA,8000,AR
+1174,Sarmiento 2172,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1175,Belgrano 1920,Santa Fe,Santa Fe,SF,3000,AR
+1176,Lavalle 2813,Mar del Plata,Buenos Aires,BA,7600,AR
+1177,Av. Pellegrini 1437,Rosario,Santa Fe,SF,2000,AR
+1178,25 de Mayo 372,Rafaela,Santa Fe,SF,2300,AR
+1179,Balcarce 1490,Santa Fe,Santa Fe,SF,3000,AR
+1180,Tucumán 1343,Córdoba,Córdoba,CBA,5000,AR
+1181,Castelli 1592,La Plata,Buenos Aires,BA,1900,AR
+1182,Chacabuco 3910,Mendoza,Mendoza,MZA,5500,AR
+1183,Dorrego 3294,La Plata,Buenos Aires,BA,1900,AR
+1184,Salta 3451,La Plata,Buenos Aires,BA,1900,AR
+1185,Av. San Martín 1148,Mar del Plata,Buenos Aires,BA,7600,AR
+1186,Brown 349,La Plata,Buenos Aires,BA,1900,AR
+1187,Las Heras 341,Río Cuarto,Córdoba,CBA,5800,AR
+1188,Laprida 4589,Rosario,Santa Fe,SF,2000,AR
+1189,Balcarce 1703,Rosario,Santa Fe,SF,2000,AR
+1190,Entre Ríos 4450,Bahía Blanca,Buenos Aires,BA,8000,AR
+1191,Laprida 3859,San Rafael,Mendoza,MZA,5600,AR
+1192,Güemes 3854,Santa Fe,Santa Fe,SF,3000,AR
+1193,Las Heras 2825,Córdoba,Córdoba,CBA,5000,AR
+1194,Chacabuco 1048,Quilmes,Buenos Aires,BA,1878,AR
+1195,Italia 3688,Rafaela,Santa Fe,SF,2300,AR
+1196,Alsina 2479,Quilmes,Buenos Aires,BA,1878,AR
+1197,Italia 4802,La Plata,Buenos Aires,BA,1900,AR
+1198,Sarmiento 2340,Quilmes,Buenos Aires,BA,1878,AR
+1199,Av. Colón 1323,Rosario,Santa Fe,SF,2000,AR
+1200,Salta 336,Mar del Plata,Buenos Aires,BA,7600,AR
+1201,Av. Colón 3122,La Plata,Buenos Aires,BA,1900,AR
+1202,Belgrano 4790,Mar del Plata,Buenos Aires,BA,7600,AR
+1203,Mitre 885,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1204,Laprida 845,Córdoba,Córdoba,CBA,5000,AR
+1205,Brown 3673,Rafaela,Santa Fe,SF,2300,AR
+1206,Laprida 801,San Isidro,Buenos Aires,BA,1642,AR
+1207,Dorrego 3543,Quilmes,Buenos Aires,BA,1878,AR
+1208,Mitre 2039,Rosario,Santa Fe,SF,2000,AR
+1209,Lavalle 2749,La Plata,Buenos Aires,BA,1900,AR
+1210,Alem 3975,La Plata,Buenos Aires,BA,1900,AR
+1211,Pueyrredón 4849,Río Cuarto,Córdoba,CBA,5800,AR
+1212,25 de Mayo 860,Quilmes,Buenos Aires,BA,1878,AR
+1213,Pueyrredón 562,Santa Fe,Santa Fe,SF,3000,AR
+1214,Tucumán 3449,Quilmes,Buenos Aires,BA,1878,AR
+1215,Chacabuco 4691,Quilmes,Buenos Aires,BA,1878,AR
+1216,Laprida 4109,Córdoba,Córdoba,CBA,5000,AR
+1217,9 de Julio 1702,San Rafael,Mendoza,MZA,5600,AR
+1218,Dorrego 802,Mar del Plata,Buenos Aires,BA,7600,AR
+1219,Independencia 624,Santa Fe,Santa Fe,SF,3000,AR
+1220,Dorrego 263,Quilmes,Buenos Aires,BA,1878,AR
+1221,Salta 4960,Quilmes,Buenos Aires,BA,1878,AR
+1222,Moreno 1718,La Plata,Buenos Aires,BA,1900,AR
+1223,Tucumán 2817,Río Cuarto,Córdoba,CBA,5800,AR
+1224,Maipú 865,Rosario,Santa Fe,SF,2000,AR
+1225,Mitre 4628,Quilmes,Buenos Aires,BA,1878,AR
+1226,Av. Pellegrini 3373,Quilmes,Buenos Aires,BA,1878,AR
+1227,Güemes 4423,Rosario,Santa Fe,SF,2000,AR
+1228,Av. Pellegrini 2462,Córdoba,Córdoba,CBA,5000,AR
+1229,Salta 2621,Córdoba,Córdoba,CBA,5000,AR
+1230,Tucumán 3300,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1231,Chacabuco 4535,San Rafael,Mendoza,MZA,5600,AR
+1232,Sarmiento 419,Río Cuarto,Córdoba,CBA,5800,AR
+1233,Dorrego 201,Santa Fe,Santa Fe,SF,3000,AR
+1234,Sarmiento 3026,Rosario,Santa Fe,SF,2000,AR
+1235,Balcarce 4091,San Isidro,Buenos Aires,BA,1642,AR
+1236,Balcarce 4291,Córdoba,Córdoba,CBA,5000,AR
+1237,Mitre 1707,Quilmes,Buenos Aires,BA,1878,AR
+1238,Dorrego 742,Rosario,Santa Fe,SF,2000,AR
+1239,Independencia 1435,Rosario,Santa Fe,SF,2000,AR
+1240,Av. Colón 4929,Córdoba,Córdoba,CBA,5000,AR
+1241,Mitre 4930,San Isidro,Buenos Aires,BA,1642,AR
+1242,Sarmiento 1209,Rosario,Santa Fe,SF,2000,AR
+1243,Castelli 1696,Rosario,Santa Fe,SF,2000,AR
+1244,Lavalle 2857,Río Cuarto,Córdoba,CBA,5800,AR
+1245,Urquiza 2648,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1246,Independencia 3478,Córdoba,Córdoba,CBA,5000,AR
+1247,Urquiza 4201,Quilmes,Buenos Aires,BA,1878,AR
+1248,Italia 4540,Rosario,Santa Fe,SF,2000,AR
+1249,Mitre 2764,Rosario,Santa Fe,SF,2000,AR
+1250,Alem 1812,Santa Fe,Santa Fe,SF,3000,AR
+1251,Güemes 2452,La Plata,Buenos Aires,BA,1900,AR
+1252,Laprida 3110,Córdoba,Córdoba,CBA,5000,AR
+1253,Av. Pellegrini 3955,Mendoza,Mendoza,MZA,5500,AR
+1254,Independencia 2715,Río Cuarto,Córdoba,CBA,5800,AR
+1255,Chacabuco 4465,La Plata,Buenos Aires,BA,1900,AR
+1256,Av. Pellegrini 1546,Mar del Plata,Buenos Aires,BA,7600,AR
+1257,España 3448,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1258,Av. San Martín 3940,Quilmes,Buenos Aires,BA,1878,AR
+1259,Salta 4562,Córdoba,Córdoba,CBA,5000,AR
+1260,Tucumán 232,Godoy Cruz,Mendoza,MZA,5501,AR
+1261,25 de Mayo 4401,Córdoba,Córdoba,CBA,5000,AR
+1262,Alsina 4678,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1263,Maipú 1614,Rosario,Santa Fe,SF,2000,AR
+1264,Av. Colón 1832,Córdoba,Córdoba,CBA,5000,AR
+1265,Balcarce 2464,Quilmes,Buenos Aires,BA,1878,AR
+1266,Rivadavia 4183,La Plata,Buenos Aires,BA,1900,AR
+1267,Av. Pellegrini 1662,Quilmes,Buenos Aires,BA,1878,AR
+1268,Alem 4553,Mendoza,Mendoza,MZA,5500,AR
+1269,Lavalle 952,La Plata,Buenos Aires,BA,1900,AR
+1270,Urquiza 278,La Plata,Buenos Aires,BA,1900,AR
+1271,25 de Mayo 3141,Córdoba,Córdoba,CBA,5000,AR
+1272,Pueyrredón 2020,Rosario,Santa Fe,SF,2000,AR
+1273,Tucumán 993,Santa Fe,Santa Fe,SF,3000,AR
+1274,Castelli 2246,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1275,Güemes 3984,Rosario,Santa Fe,SF,2000,AR
+1276,Belgrano 840,Córdoba,Córdoba,CBA,5000,AR
+1277,Av. Colón 4885,Mar del Plata,Buenos Aires,BA,7600,AR
+1278,Güemes 878,Mendoza,Mendoza,MZA,5500,AR
+1279,Güemes 2454,Río Cuarto,Córdoba,CBA,5800,AR
+1280,Av. Colón 1473,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1281,Alem 3108,La Plata,Buenos Aires,BA,1900,AR
+1282,España 1694,Mendoza,Mendoza,MZA,5500,AR
+1283,Entre Ríos 2211,Río Cuarto,Córdoba,CBA,5800,AR
+1284,Av. Colón 1547,Rosario,Santa Fe,SF,2000,AR
+1285,Pueyrredón 680,Córdoba,Córdoba,CBA,5000,AR
+1286,Pueyrredón 1784,Rosario,Santa Fe,SF,2000,AR
+1287,Italia 195,Mar del Plata,Buenos Aires,BA,7600,AR
+1288,25 de Mayo 737,Santa Fe,Santa Fe,SF,3000,AR
+1289,Maipú 4880,Córdoba,Córdoba,CBA,5000,AR
+1290,Castelli 2256,Rosario,Santa Fe,SF,2000,AR
+1291,Av. Colón 3517,Córdoba,Córdoba,CBA,5000,AR
+1292,Dorrego 3171,Godoy Cruz,Mendoza,MZA,5501,AR
+1293,Laprida 948,Godoy Cruz,Mendoza,MZA,5501,AR
+1294,Maipú 1362,Rosario,Santa Fe,SF,2000,AR
+1295,Castelli 377,Rosario,Santa Fe,SF,2000,AR
+1296,Independencia 3449,Córdoba,Córdoba,CBA,5000,AR
+1297,Lavalle 2996,Rafaela,Santa Fe,SF,2300,AR
+1298,Independencia 1534,Godoy Cruz,Mendoza,MZA,5501,AR
+1299,Salta 4542,Rosario,Santa Fe,SF,2000,AR
+1300,Lavalle 1459,Rafaela,Santa Fe,SF,2300,AR
+1301,Chacabuco 3362,La Plata,Buenos Aires,BA,1900,AR
+1302,Av. Colón 3888,Santa Fe,Santa Fe,SF,3000,AR
+1303,Laprida 1399,Santa Fe,Santa Fe,SF,3000,AR
+1304,Italia 4066,Rosario,Santa Fe,SF,2000,AR
+1305,Belgrano 3306,San Isidro,Buenos Aires,BA,1642,AR
+1306,Sarmiento 3405,Quilmes,Buenos Aires,BA,1878,AR
+1307,Italia 4509,San Rafael,Mendoza,MZA,5600,AR
+1308,Balcarce 780,Córdoba,Córdoba,CBA,5000,AR
+1309,Av. San Martín 4714,Córdoba,Córdoba,CBA,5000,AR
+1310,Moreno 208,La Plata,Buenos Aires,BA,1900,AR
+1311,Laprida 148,Rosario,Santa Fe,SF,2000,AR
+1312,Av. San Martín 3818,Santa Fe,Santa Fe,SF,3000,AR
+1313,Dorrego 4979,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1314,Moreno 389,Córdoba,Córdoba,CBA,5000,AR
+1315,25 de Mayo 1748,Rafaela,Santa Fe,SF,2300,AR
+1316,Brown 3393,San Isidro,Buenos Aires,BA,1642,AR
+1317,Chacabuco 1357,Córdoba,Córdoba,CBA,5000,AR
+1318,Sarmiento 840,Rosario,Santa Fe,SF,2000,AR
+1319,Italia 3222,Santa Fe,Santa Fe,SF,3000,AR
+1320,Balcarce 2903,Santa Fe,Santa Fe,SF,3000,AR
+1321,Dorrego 2362,Bahía Blanca,Buenos Aires,BA,8000,AR
+1322,Güemes 323,Rosario,Santa Fe,SF,2000,AR
+1323,Belgrano 4146,Mar del Plata,Buenos Aires,BA,7600,AR
+1324,Entre Ríos 2173,Rosario,Santa Fe,SF,2000,AR
+1325,Dorrego 1062,Córdoba,Córdoba,CBA,5000,AR
+1326,Güemes 3335,Godoy Cruz,Mendoza,MZA,5501,AR
+1327,Las Heras 2391,Mendoza,Mendoza,MZA,5500,AR
+1328,Entre Ríos 3503,Córdoba,Córdoba,CBA,5000,AR
+1329,Dorrego 3874,Mendoza,Mendoza,MZA,5500,AR
+1330,Laprida 2567,La Plata,Buenos Aires,BA,1900,AR
+1331,Güemes 2926,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1332,Balcarce 2401,Rosario,Santa Fe,SF,2000,AR
+1333,Alsina 1602,Rosario,Santa Fe,SF,2000,AR
+1334,Güemes 1069,Mar del Plata,Buenos Aires,BA,7600,AR
+1335,Castelli 4540,Mendoza,Mendoza,MZA,5500,AR
+1336,Sarmiento 2023,Mendoza,Mendoza,MZA,5500,AR
+1337,Laprida 3248,Rosario,Santa Fe,SF,2000,AR
+1338,Maipú 1122,San Isidro,Buenos Aires,BA,1642,AR
+1339,Chacabuco 2416,Río Cuarto,Córdoba,CBA,5800,AR
+1340,Castelli 4271,La Plata,Buenos Aires,BA,1900,AR
+1341,Moreno 4181,Mendoza,Mendoza,MZA,5500,AR
+1342,Pueyrredón 696,Rosario,Santa Fe,SF,2000,AR
+1343,Rivadavia 1940,Córdoba,Córdoba,CBA,5000,AR
+1344,9 de Julio 4826,Córdoba,Córdoba,CBA,5000,AR
+1345,Maipú 1001,Mendoza,Mendoza,MZA,5500,AR
+1346,Güemes 2257,Godoy Cruz,Mendoza,MZA,5501,AR
+1347,Chacabuco 4867,Río Cuarto,Córdoba,CBA,5800,AR
+1348,Salta 964,Rosario,Santa Fe,SF,2000,AR
+1349,Las Heras 4941,Godoy Cruz,Mendoza,MZA,5501,AR
+1350,Pueyrredón 1925,Mendoza,Mendoza,MZA,5500,AR
+1351,Belgrano 2725,Quilmes,Buenos Aires,BA,1878,AR
+1352,Balcarce 3506,Rosario,Santa Fe,SF,2000,AR
+1353,Av. San Martín 3812,La Plata,Buenos Aires,BA,1900,AR
+1354,Rivadavia 2535,Rosario,Santa Fe,SF,2000,AR
+1355,Chacabuco 2912,San Rafael,Mendoza,MZA,5600,AR
+1356,9 de Julio 3138,La Plata,Buenos Aires,BA,1900,AR
+1357,Brown 1694,La Plata,Buenos Aires,BA,1900,AR
+1358,Rivadavia 4630,Rosario,Santa Fe,SF,2000,AR
+1359,Mitre 1450,Córdoba,Córdoba,CBA,5000,AR
+1360,Av. San Martín 2709,Rafaela,Santa Fe,SF,2300,AR
+1361,Av. Colón 2579,Mar del Plata,Buenos Aires,BA,7600,AR
+1362,Brown 4091,Mar del Plata,Buenos Aires,BA,7600,AR
+1363,Balcarce 3969,Córdoba,Córdoba,CBA,5000,AR
+1364,Rivadavia 1835,Rosario,Santa Fe,SF,2000,AR
+1365,Maipú 4250,Santa Fe,Santa Fe,SF,3000,AR
+1366,Salta 2299,Bahía Blanca,Buenos Aires,BA,8000,AR
+1367,Laprida 3310,Mar del Plata,Buenos Aires,BA,7600,AR
+1368,Entre Ríos 1756,Córdoba,Córdoba,CBA,5000,AR
+1369,Güemes 1386,Rosario,Santa Fe,SF,2000,AR
+1370,25 de Mayo 3986,Godoy Cruz,Mendoza,MZA,5501,AR
+1371,Urquiza 3361,Río Cuarto,Córdoba,CBA,5800,AR
+1372,España 3251,Córdoba,Córdoba,CBA,5000,AR
+1373,España 1546,Mendoza,Mendoza,MZA,5500,AR
+1374,Laprida 922,Bahía Blanca,Buenos Aires,BA,8000,AR
+1375,Laprida 2883,Santa Fe,Santa Fe,SF,3000,AR
+1376,Alsina 1905,Godoy Cruz,Mendoza,MZA,5501,AR
+1377,Salta 1143,Mendoza,Mendoza,MZA,5500,AR
+1378,Tucumán 2364,San Rafael,Mendoza,MZA,5600,AR
+1379,Sarmiento 1664,Mar del Plata,Buenos Aires,BA,7600,AR
+1380,Av. Pellegrini 2521,Rosario,Santa Fe,SF,2000,AR
+1381,9 de Julio 3669,San Isidro,Buenos Aires,BA,1642,AR
+1382,Alem 1577,San Rafael,Mendoza,MZA,5600,AR
+1383,Rivadavia 2596,Mar del Plata,Buenos Aires,BA,7600,AR
+1384,Av. Pellegrini 1692,Rosario,Santa Fe,SF,2000,AR
+1385,Güemes 3291,Rosario,Santa Fe,SF,2000,AR
+1386,Alem 3809,Mendoza,Mendoza,MZA,5500,AR
+1387,Av. Colón 3063,Córdoba,Córdoba,CBA,5000,AR
+1388,Moreno 637,Mendoza,Mendoza,MZA,5500,AR
+1389,25 de Mayo 3385,Quilmes,Buenos Aires,BA,1878,AR
+1390,Salta 3005,Santa Fe,Santa Fe,SF,3000,AR
+1391,Pueyrredón 3071,Río Cuarto,Córdoba,CBA,5800,AR
+1392,Tucumán 2964,Mendoza,Mendoza,MZA,5500,AR
+1393,Tucumán 2428,Quilmes,Buenos Aires,BA,1878,AR
+1394,Alsina 4647,Mendoza,Mendoza,MZA,5500,AR
+1395,Brown 898,San Isidro,Buenos Aires,BA,1642,AR
+1396,Balcarce 381,San Isidro,Buenos Aires,BA,1642,AR
+1397,Lavalle 2183,Quilmes,Buenos Aires,BA,1878,AR
+1398,Alem 714,La Plata,Buenos Aires,BA,1900,AR
+1399,Entre Ríos 1563,Rosario,Santa Fe,SF,2000,AR
+1400,Maipú 788,Bahía Blanca,Buenos Aires,BA,8000,AR
+1401,Dorrego 3564,Mendoza,Mendoza,MZA,5500,AR
+1402,Salta 2973,Rosario,Santa Fe,SF,2000,AR
+1403,Chacabuco 4956,La Plata,Buenos Aires,BA,1900,AR
+1404,Las Heras 4642,Mar del Plata,Buenos Aires,BA,7600,AR
+1405,Balcarce 2986,Mendoza,Mendoza,MZA,5500,AR
+1406,Belgrano 1134,Córdoba,Córdoba,CBA,5000,AR
+1407,Pueyrredón 371,Mendoza,Mendoza,MZA,5500,AR
+1408,Urquiza 2432,La Plata,Buenos Aires,BA,1900,AR
+1409,Alsina 4164,San Rafael,Mendoza,MZA,5600,AR
+1410,Av. Colón 4127,Córdoba,Córdoba,CBA,5000,AR
+1411,Salta 2386,San Isidro,Buenos Aires,BA,1642,AR
+1412,Alem 1846,Rafaela,Santa Fe,SF,2300,AR
+1413,Chacabuco 3356,Godoy Cruz,Mendoza,MZA,5501,AR
+1414,Alem 4034,San Isidro,Buenos Aires,BA,1642,AR
+1415,Alem 1371,Santa Fe,Santa Fe,SF,3000,AR
+1416,Av. Pellegrini 3072,Córdoba,Córdoba,CBA,5000,AR
+1417,Tucumán 176,Godoy Cruz,Mendoza,MZA,5501,AR
+1418,Balcarce 2838,Bahía Blanca,Buenos Aires,BA,8000,AR
+1419,Salta 3903,Mar del Plata,Buenos Aires,BA,7600,AR
+1420,Urquiza 802,La Plata,Buenos Aires,BA,1900,AR
+1421,España 1055,Mar del Plata,Buenos Aires,BA,7600,AR
+1422,Salta 446,Rosario,Santa Fe,SF,2000,AR
+1423,9 de Julio 867,Córdoba,Córdoba,CBA,5000,AR
+1424,Pueyrredón 4000,Mendoza,Mendoza,MZA,5500,AR
+1425,Belgrano 2945,Santa Fe,Santa Fe,SF,3000,AR
+1426,Mitre 1594,La Plata,Buenos Aires,BA,1900,AR
+1427,Sarmiento 970,Rosario,Santa Fe,SF,2000,AR
+1428,Mitre 4891,Quilmes,Buenos Aires,BA,1878,AR
+1429,Lavalle 2368,Godoy Cruz,Mendoza,MZA,5501,AR
+1430,Las Heras 3532,Mendoza,Mendoza,MZA,5500,AR
+1431,Mitre 4165,Quilmes,Buenos Aires,BA,1878,AR
+1432,Balcarce 4679,Godoy Cruz,Mendoza,MZA,5501,AR
+1433,Pueyrredón 3207,La Plata,Buenos Aires,BA,1900,AR
+1434,9 de Julio 1437,Mendoza,Mendoza,MZA,5500,AR
+1435,Dorrego 4749,Mendoza,Mendoza,MZA,5500,AR
+1436,Mitre 1730,Godoy Cruz,Mendoza,MZA,5501,AR
+1437,Alem 3496,Mendoza,Mendoza,MZA,5500,AR
+1438,9 de Julio 1426,Mar del Plata,Buenos Aires,BA,7600,AR
+1439,Lavalle 3343,La Plata,Buenos Aires,BA,1900,AR
+1440,Pueyrredón 2008,Mendoza,Mendoza,MZA,5500,AR
+1441,Independencia 2683,Córdoba,Córdoba,CBA,5000,AR
+1442,Mitre 174,Río Cuarto,Córdoba,CBA,5800,AR
+1443,Balcarce 2671,San Rafael,Mendoza,MZA,5600,AR
+1444,Alem 1775,La Plata,Buenos Aires,BA,1900,AR
+1445,9 de Julio 3873,Godoy Cruz,Mendoza,MZA,5501,AR
+1446,Av. San Martín 476,Mendoza,Mendoza,MZA,5500,AR
+1447,Sarmiento 1008,La Plata,Buenos Aires,BA,1900,AR
+1448,España 757,Godoy Cruz,Mendoza,MZA,5501,AR
+1449,Laprida 617,Mendoza,Mendoza,MZA,5500,AR
+1450,Tucumán 1584,Mar del Plata,Buenos Aires,BA,7600,AR
+1451,Brown 2060,Mendoza,Mendoza,MZA,5500,AR
+1452,Brown 3681,Rosario,Santa Fe,SF,2000,AR
+1453,Dorrego 1079,Rosario,Santa Fe,SF,2000,AR
+1454,Balcarce 543,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1455,Urquiza 2082,Córdoba,Córdoba,CBA,5000,AR
+1456,Laprida 1786,Mendoza,Mendoza,MZA,5500,AR
+1457,Maipú 3896,Mendoza,Mendoza,MZA,5500,AR
+1458,Av. Colón 500,Quilmes,Buenos Aires,BA,1878,AR
+1459,Brown 3739,Rosario,Santa Fe,SF,2000,AR
+1460,Laprida 2161,La Plata,Buenos Aires,BA,1900,AR
+1461,Castelli 4285,Rosario,Santa Fe,SF,2000,AR
+1462,Italia 1535,Quilmes,Buenos Aires,BA,1878,AR
+1463,Chacabuco 1258,Santa Fe,Santa Fe,SF,3000,AR
+1464,Güemes 4201,Bahía Blanca,Buenos Aires,BA,8000,AR
+1465,25 de Mayo 3279,Mendoza,Mendoza,MZA,5500,AR
+1466,9 de Julio 3337,La Plata,Buenos Aires,BA,1900,AR
+1467,Italia 4448,Santa Fe,Santa Fe,SF,3000,AR
+1468,Güemes 487,La Plata,Buenos Aires,BA,1900,AR
+1469,Urquiza 2163,Rosario,Santa Fe,SF,2000,AR
+1470,Entre Ríos 883,Santa Fe,Santa Fe,SF,3000,AR
+1471,Balcarce 522,Córdoba,Córdoba,CBA,5000,AR
+1472,Av. Colón 1727,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1473,Salta 4960,La Plata,Buenos Aires,BA,1900,AR
+1474,Alem 3110,Godoy Cruz,Mendoza,MZA,5501,AR
+1475,Pueyrredón 4333,Córdoba,Córdoba,CBA,5000,AR
+1476,Salta 3171,La Plata,Buenos Aires,BA,1900,AR
+1477,Independencia 3657,Santa Fe,Santa Fe,SF,3000,AR
+1478,Mitre 3603,Río Cuarto,Córdoba,CBA,5800,AR
+1479,Pueyrredón 4496,Mar del Plata,Buenos Aires,BA,7600,AR
+1480,Mitre 4811,Rosario,Santa Fe,SF,2000,AR
+1481,25 de Mayo 2443,Mendoza,Mendoza,MZA,5500,AR
+1482,Sarmiento 3889,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1483,Lavalle 3885,Quilmes,Buenos Aires,BA,1878,AR
+1484,Av. San Martín 2844,San Isidro,Buenos Aires,BA,1642,AR
+1485,Güemes 2340,Santa Fe,Santa Fe,SF,3000,AR
+1486,Mitre 3827,Córdoba,Córdoba,CBA,5000,AR
+1487,Pueyrredón 145,Córdoba,Córdoba,CBA,5000,AR
+1488,Laprida 3734,Córdoba,Córdoba,CBA,5000,AR
+1489,Alem 4188,Quilmes,Buenos Aires,BA,1878,AR
+1490,Rivadavia 2523,San Isidro,Buenos Aires,BA,1642,AR
+1491,Rivadavia 4309,Córdoba,Córdoba,CBA,5000,AR
+1492,Chacabuco 4501,Mendoza,Mendoza,MZA,5500,AR
+1493,Independencia 3418,Godoy Cruz,Mendoza,MZA,5501,AR
+1494,Salta 4893,Mar del Plata,Buenos Aires,BA,7600,AR
+1495,Independencia 3812,Mendoza,Mendoza,MZA,5500,AR
+1496,9 de Julio 3412,Mar del Plata,Buenos Aires,BA,7600,AR
+1497,Urquiza 2545,La Plata,Buenos Aires,BA,1900,AR
+1498,Brown 3975,San Rafael,Mendoza,MZA,5600,AR
+1499,Lavalle 4091,San Isidro,Buenos Aires,BA,1642,AR
+1500,Balcarce 1592,Mendoza,Mendoza,MZA,5500,AR
+1501,Av. Colón 4632,Córdoba,Córdoba,CBA,5000,AR
+1502,Laprida 322,Córdoba,Córdoba,CBA,5000,AR
+1503,Güemes 3855,Rosario,Santa Fe,SF,2000,AR
+1504,Independencia 272,Mendoza,Mendoza,MZA,5500,AR
+1505,Tucumán 3491,Mar del Plata,Buenos Aires,BA,7600,AR
+1506,Belgrano 4213,Rosario,Santa Fe,SF,2000,AR
+1507,Salta 2560,Santa Fe,Santa Fe,SF,3000,AR
+1508,Brown 2388,Río Cuarto,Córdoba,CBA,5800,AR
+1509,Chacabuco 3912,Rosario,Santa Fe,SF,2000,AR
+1510,Maipú 2945,Santa Fe,Santa Fe,SF,3000,AR
+1511,Av. Colón 1375,Mendoza,Mendoza,MZA,5500,AR
+1512,Entre Ríos 647,Córdoba,Córdoba,CBA,5000,AR
+1513,Av. Pellegrini 3397,Córdoba,Córdoba,CBA,5000,AR
+1514,Laprida 919,San Rafael,Mendoza,MZA,5600,AR
+1515,Salta 3285,Rosario,Santa Fe,SF,2000,AR
+1516,Alsina 3549,Rosario,Santa Fe,SF,2000,AR
+1517,Alsina 2099,San Rafael,Mendoza,MZA,5600,AR
+1518,Maipú 3340,Córdoba,Córdoba,CBA,5000,AR
+1519,Chacabuco 2761,Rosario,Santa Fe,SF,2000,AR
+1520,Maipú 3265,Córdoba,Córdoba,CBA,5000,AR
+1521,Av. San Martín 2027,Godoy Cruz,Mendoza,MZA,5501,AR
+1522,Urquiza 834,Córdoba,Córdoba,CBA,5000,AR
+1523,Av. Colón 684,Córdoba,Córdoba,CBA,5000,AR
+1524,Entre Ríos 4678,Rosario,Santa Fe,SF,2000,AR
+1525,Entre Ríos 3990,Córdoba,Córdoba,CBA,5000,AR
+1526,Av. Pellegrini 3999,Mendoza,Mendoza,MZA,5500,AR
+1527,Tucumán 2434,Rafaela,Santa Fe,SF,2300,AR
+1528,Chacabuco 2290,Mendoza,Mendoza,MZA,5500,AR
+1529,Av. Colón 1793,La Plata,Buenos Aires,BA,1900,AR
+1530,Italia 1183,Rosario,Santa Fe,SF,2000,AR
+1531,Urquiza 2020,Godoy Cruz,Mendoza,MZA,5501,AR
+1532,Rivadavia 801,Córdoba,Córdoba,CBA,5000,AR
+1533,Av. San Martín 1487,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1534,Belgrano 1275,Córdoba,Córdoba,CBA,5000,AR
+1535,Entre Ríos 1678,Mendoza,Mendoza,MZA,5500,AR
+1536,Chacabuco 172,Rosario,Santa Fe,SF,2000,AR
+1537,Rivadavia 2255,Rosario,Santa Fe,SF,2000,AR
+1538,Av. San Martín 2825,Mendoza,Mendoza,MZA,5500,AR
+1539,Italia 3361,Mar del Plata,Buenos Aires,BA,7600,AR
+1540,Castelli 4788,Mendoza,Mendoza,MZA,5500,AR
+1541,Mitre 4528,Rosario,Santa Fe,SF,2000,AR
+1542,Alsina 3726,Córdoba,Córdoba,CBA,5000,AR
+1543,Av. Colón 3037,Córdoba,Córdoba,CBA,5000,AR
+1544,Laprida 3992,Mendoza,Mendoza,MZA,5500,AR
+1545,Italia 3806,Rosario,Santa Fe,SF,2000,AR
+1546,Independencia 3850,San Rafael,Mendoza,MZA,5600,AR
+1547,Italia 2242,Bahía Blanca,Buenos Aires,BA,8000,AR
+1548,Urquiza 2584,Rosario,Santa Fe,SF,2000,AR
+1549,Maipú 1786,Rosario,Santa Fe,SF,2000,AR
+1550,Salta 1217,Córdoba,Córdoba,CBA,5000,AR
+1551,Alsina 3949,Rosario,Santa Fe,SF,2000,AR
+1552,Brown 3418,Rosario,Santa Fe,SF,2000,AR
+1553,Tucumán 1554,Rosario,Santa Fe,SF,2000,AR
+1554,Las Heras 3827,Rosario,Santa Fe,SF,2000,AR
+1555,Chacabuco 1201,Córdoba,Córdoba,CBA,5000,AR
+1556,Alsina 1664,San Rafael,Mendoza,MZA,5600,AR
+1557,Moreno 2253,Córdoba,Córdoba,CBA,5000,AR
+1558,Alem 4321,Godoy Cruz,Mendoza,MZA,5501,AR
+1559,Lavalle 4392,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1560,Balcarce 3318,Córdoba,Córdoba,CBA,5000,AR
+1561,Lavalle 2129,Rosario,Santa Fe,SF,2000,AR
+1562,Maipú 4885,Quilmes,Buenos Aires,BA,1878,AR
+1563,Güemes 1071,Quilmes,Buenos Aires,BA,1878,AR
+1564,25 de Mayo 2402,La Plata,Buenos Aires,BA,1900,AR
+1565,Brown 320,Santa Fe,Santa Fe,SF,3000,AR
+1566,Sarmiento 3408,Córdoba,Córdoba,CBA,5000,AR
+1567,Av. Pellegrini 1511,La Plata,Buenos Aires,BA,1900,AR
+1568,Italia 4807,La Plata,Buenos Aires,BA,1900,AR
+1569,Chacabuco 3226,Godoy Cruz,Mendoza,MZA,5501,AR
+1570,Salta 3134,Córdoba,Córdoba,CBA,5000,AR
+1571,Salta 4961,Godoy Cruz,Mendoza,MZA,5501,AR
+1572,Italia 2831,Santa Fe,Santa Fe,SF,3000,AR
+1573,Moreno 2086,Bahía Blanca,Buenos Aires,BA,8000,AR
+1574,Balcarce 3061,Mendoza,Mendoza,MZA,5500,AR
+1575,Lavalle 403,Santa Fe,Santa Fe,SF,3000,AR
+1576,Av. San Martín 409,Río Cuarto,Córdoba,CBA,5800,AR
+1577,Av. Colón 1596,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1578,Rivadavia 717,Bahía Blanca,Buenos Aires,BA,8000,AR
+1579,Italia 2247,Bahía Blanca,Buenos Aires,BA,8000,AR
+1580,Pueyrredón 1753,Rosario,Santa Fe,SF,2000,AR
+1581,Laprida 2928,Godoy Cruz,Mendoza,MZA,5501,AR
+1582,Lavalle 760,Córdoba,Córdoba,CBA,5000,AR
+1583,Av. San Martín 1117,Mendoza,Mendoza,MZA,5500,AR
+1584,Chacabuco 4399,Rafaela,Santa Fe,SF,2300,AR
+1585,Tucumán 570,Córdoba,Córdoba,CBA,5000,AR
+1586,Güemes 3744,Bahía Blanca,Buenos Aires,BA,8000,AR
+1587,Pueyrredón 1187,Godoy Cruz,Mendoza,MZA,5501,AR
+1588,Urquiza 4696,Córdoba,Córdoba,CBA,5000,AR
+1589,Urquiza 3397,Santa Fe,Santa Fe,SF,3000,AR
+1590,Las Heras 654,La Plata,Buenos Aires,BA,1900,AR
+1591,Independencia 1312,Godoy Cruz,Mendoza,MZA,5501,AR
+1592,Alem 2736,San Isidro,Buenos Aires,BA,1642,AR
+1593,Lavalle 729,Mendoza,Mendoza,MZA,5500,AR
+1594,Independencia 4817,Godoy Cruz,Mendoza,MZA,5501,AR
+1595,Rivadavia 4701,Rosario,Santa Fe,SF,2000,AR
+1596,Independencia 1901,Mar del Plata,Buenos Aires,BA,7600,AR
+1597,Urquiza 3899,Córdoba,Córdoba,CBA,5000,AR
+1598,Tucumán 1724,Godoy Cruz,Mendoza,MZA,5501,AR
+1599,Entre Ríos 2167,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1600,25 de Mayo 1223,Córdoba,Córdoba,CBA,5000,AR
+1601,Güemes 4462,Godoy Cruz,Mendoza,MZA,5501,AR
+1602,Tucumán 2712,San Rafael,Mendoza,MZA,5600,AR
+1603,Belgrano 3939,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1604,Sarmiento 1300,Santa Fe,Santa Fe,SF,3000,AR
+1605,Alsina 3132,Rosario,Santa Fe,SF,2000,AR
+1606,Independencia 3028,Mendoza,Mendoza,MZA,5500,AR
+1607,Mitre 2570,Rosario,Santa Fe,SF,2000,AR
+1608,Av. Colón 449,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1609,Av. Pellegrini 4963,Córdoba,Córdoba,CBA,5000,AR
+1610,Independencia 2544,Mendoza,Mendoza,MZA,5500,AR
+1611,Brown 3413,San Isidro,Buenos Aires,BA,1642,AR
+1612,Av. Pellegrini 4895,Córdoba,Córdoba,CBA,5000,AR
+1613,España 4875,San Rafael,Mendoza,MZA,5600,AR
+1614,Chacabuco 4379,Rosario,Santa Fe,SF,2000,AR
+1615,Castelli 3821,Córdoba,Córdoba,CBA,5000,AR
+1616,Independencia 1750,Rosario,Santa Fe,SF,2000,AR
+1617,Av. San Martín 178,Mendoza,Mendoza,MZA,5500,AR
+1618,Italia 1027,Godoy Cruz,Mendoza,MZA,5501,AR
+1619,Rivadavia 4164,Quilmes,Buenos Aires,BA,1878,AR
+1620,Independencia 3391,Quilmes,Buenos Aires,BA,1878,AR
+1621,Belgrano 410,Santa Fe,Santa Fe,SF,3000,AR
+1622,Castelli 632,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1623,Italia 4085,Córdoba,Córdoba,CBA,5000,AR
+1624,Av. Colón 4889,Bahía Blanca,Buenos Aires,BA,8000,AR
+1625,Balcarce 4175,Rosario,Santa Fe,SF,2000,AR
+1626,Sarmiento 1160,La Plata,Buenos Aires,BA,1900,AR
+1627,Rivadavia 951,Santa Fe,Santa Fe,SF,3000,AR
+1628,Salta 319,Rosario,Santa Fe,SF,2000,AR
+1629,Las Heras 1852,La Plata,Buenos Aires,BA,1900,AR
+1630,Sarmiento 4358,Godoy Cruz,Mendoza,MZA,5501,AR
+1631,España 1312,Godoy Cruz,Mendoza,MZA,5501,AR
+1632,Av. San Martín 3043,Bahía Blanca,Buenos Aires,BA,8000,AR
+1633,Dorrego 1418,Rosario,Santa Fe,SF,2000,AR
+1634,Güemes 3654,Godoy Cruz,Mendoza,MZA,5501,AR
+1635,Pueyrredón 4403,San Isidro,Buenos Aires,BA,1642,AR
+1636,Italia 857,Godoy Cruz,Mendoza,MZA,5501,AR
+1637,Sarmiento 3607,Córdoba,Córdoba,CBA,5000,AR
+1638,Güemes 2004,Córdoba,Córdoba,CBA,5000,AR
+1639,Italia 2059,Quilmes,Buenos Aires,BA,1878,AR
+1640,Tucumán 2350,La Plata,Buenos Aires,BA,1900,AR
+1641,Pueyrredón 3944,Santa Fe,Santa Fe,SF,3000,AR
+1642,9 de Julio 1922,Rosario,Santa Fe,SF,2000,AR
+1643,Balcarce 648,Rosario,Santa Fe,SF,2000,AR
+1644,Lavalle 847,Córdoba,Córdoba,CBA,5000,AR
+1645,España 2979,La Plata,Buenos Aires,BA,1900,AR
+1646,Lavalle 3189,San Rafael,Mendoza,MZA,5600,AR
+1647,Dorrego 3852,Rosario,Santa Fe,SF,2000,AR
+1648,Laprida 1963,Bahía Blanca,Buenos Aires,BA,8000,AR
+1649,Brown 3653,Quilmes,Buenos Aires,BA,1878,AR
+1650,Mitre 2694,Córdoba,Córdoba,CBA,5000,AR
+1651,Entre Ríos 2428,Bahía Blanca,Buenos Aires,BA,8000,AR
+1652,Laprida 480,Rosario,Santa Fe,SF,2000,AR
+1653,Güemes 135,Mar del Plata,Buenos Aires,BA,7600,AR
+1654,Belgrano 3105,Rosario,Santa Fe,SF,2000,AR
+1655,Laprida 2300,Córdoba,Córdoba,CBA,5000,AR
+1656,Alem 2933,Godoy Cruz,Mendoza,MZA,5501,AR
+1657,Av. Pellegrini 3661,La Plata,Buenos Aires,BA,1900,AR
+1658,Independencia 3793,La Plata,Buenos Aires,BA,1900,AR
+1659,Salta 4063,San Isidro,Buenos Aires,BA,1642,AR
+1660,Alsina 2427,Santa Fe,Santa Fe,SF,3000,AR
+1661,Pueyrredón 2593,La Plata,Buenos Aires,BA,1900,AR
+1662,25 de Mayo 982,Mendoza,Mendoza,MZA,5500,AR
+1663,Mitre 1970,Santa Fe,Santa Fe,SF,3000,AR
+1664,Castelli 564,La Plata,Buenos Aires,BA,1900,AR
+1665,Las Heras 785,Quilmes,Buenos Aires,BA,1878,AR
+1666,Av. Pellegrini 4396,Rosario,Santa Fe,SF,2000,AR
+1667,Rivadavia 472,La Plata,Buenos Aires,BA,1900,AR
+1668,Chacabuco 1477,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1669,Independencia 1684,Córdoba,Córdoba,CBA,5000,AR
+1670,Dorrego 990,Córdoba,Córdoba,CBA,5000,AR
+1671,Mitre 3926,Córdoba,Córdoba,CBA,5000,AR
+1672,España 4068,Quilmes,Buenos Aires,BA,1878,AR
+1673,Chacabuco 2731,Quilmes,Buenos Aires,BA,1878,AR
+1674,Entre Ríos 1010,Bahía Blanca,Buenos Aires,BA,8000,AR
+1675,Güemes 4513,Quilmes,Buenos Aires,BA,1878,AR
+1676,Pueyrredón 3583,Bahía Blanca,Buenos Aires,BA,8000,AR
+1677,Chacabuco 3876,Córdoba,Córdoba,CBA,5000,AR
+1678,9 de Julio 2516,Mendoza,Mendoza,MZA,5500,AR
+1679,Balcarce 965,Rafaela,Santa Fe,SF,2300,AR
+1680,España 4779,La Plata,Buenos Aires,BA,1900,AR
+1681,Laprida 1315,Córdoba,Córdoba,CBA,5000,AR
+1682,Laprida 198,Rosario,Santa Fe,SF,2000,AR
+1683,Las Heras 2218,La Plata,Buenos Aires,BA,1900,AR
+1684,Sarmiento 1133,Rosario,Santa Fe,SF,2000,AR
+1685,Av. Colón 4906,Río Cuarto,Córdoba,CBA,5800,AR
+1686,Güemes 1263,Quilmes,Buenos Aires,BA,1878,AR
+1687,Lavalle 711,Mendoza,Mendoza,MZA,5500,AR
+1688,Rivadavia 3778,Mendoza,Mendoza,MZA,5500,AR
+1689,Lavalle 4575,Quilmes,Buenos Aires,BA,1878,AR
+1690,Av. Pellegrini 491,Santa Fe,Santa Fe,SF,3000,AR
+1691,Alem 1196,Rafaela,Santa Fe,SF,2300,AR
+1692,España 4806,Río Cuarto,Córdoba,CBA,5800,AR
+1693,Italia 1986,Mar del Plata,Buenos Aires,BA,7600,AR
+1694,Moreno 4966,San Isidro,Buenos Aires,BA,1642,AR
+1695,Moreno 2555,Rafaela,Santa Fe,SF,2300,AR
+1696,Av. Colón 2289,Rosario,Santa Fe,SF,2000,AR
+1697,Las Heras 366,Quilmes,Buenos Aires,BA,1878,AR
+1698,Av. Pellegrini 3704,Godoy Cruz,Mendoza,MZA,5501,AR
+1699,Alsina 221,San Isidro,Buenos Aires,BA,1642,AR
+1700,Brown 3528,Santa Fe,Santa Fe,SF,3000,AR
+1701,España 1002,Rafaela,Santa Fe,SF,2300,AR
+1702,Pueyrredón 4769,Rosario,Santa Fe,SF,2000,AR
+1703,España 3515,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1704,Entre Ríos 2160,Godoy Cruz,Mendoza,MZA,5501,AR
+1705,Independencia 1347,Santa Fe,Santa Fe,SF,3000,AR
+1706,Entre Ríos 1596,Rosario,Santa Fe,SF,2000,AR
+1707,25 de Mayo 1820,Mendoza,Mendoza,MZA,5500,AR
+1708,Maipú 1325,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1709,Brown 2876,Rosario,Santa Fe,SF,2000,AR
+1710,Av. Colón 2876,Mar del Plata,Buenos Aires,BA,7600,AR
+1711,Independencia 2619,Rafaela,Santa Fe,SF,2300,AR
+1712,25 de Mayo 2740,Bahía Blanca,Buenos Aires,BA,8000,AR
+1713,Belgrano 2844,Córdoba,Córdoba,CBA,5000,AR
+1714,Entre Ríos 3023,Quilmes,Buenos Aires,BA,1878,AR
+1715,Av. San Martín 156,Rosario,Santa Fe,SF,2000,AR
+1716,Pueyrredón 462,Rosario,Santa Fe,SF,2000,AR
+1717,Tucumán 4858,Mar del Plata,Buenos Aires,BA,7600,AR
+1718,Pueyrredón 4982,La Plata,Buenos Aires,BA,1900,AR
+1719,Pueyrredón 1264,Mendoza,Mendoza,MZA,5500,AR
+1720,Chacabuco 2592,Córdoba,Córdoba,CBA,5000,AR
+1721,Av. Pellegrini 2593,Quilmes,Buenos Aires,BA,1878,AR
+1722,Sarmiento 3192,Río Cuarto,Córdoba,CBA,5800,AR
+1723,Belgrano 3151,La Plata,Buenos Aires,BA,1900,AR
+1724,Balcarce 2540,La Plata,Buenos Aires,BA,1900,AR
+1725,Alsina 1423,Mar del Plata,Buenos Aires,BA,7600,AR
+1726,Lavalle 1075,Mar del Plata,Buenos Aires,BA,7600,AR
+1727,Lavalle 1636,Río Cuarto,Córdoba,CBA,5800,AR
+1728,Av. Colón 2921,Rosario,Santa Fe,SF,2000,AR
+1729,Italia 3418,Mendoza,Mendoza,MZA,5500,AR
+1730,Lavalle 4535,Mar del Plata,Buenos Aires,BA,7600,AR
+1731,Mitre 4409,Rosario,Santa Fe,SF,2000,AR
+1732,Pueyrredón 2798,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1733,Lavalle 914,Quilmes,Buenos Aires,BA,1878,AR
+1734,Rivadavia 1230,Mar del Plata,Buenos Aires,BA,7600,AR
+1735,Salta 4485,Santa Fe,Santa Fe,SF,3000,AR
+1736,Brown 1862,Rosario,Santa Fe,SF,2000,AR
+1737,25 de Mayo 444,Mar del Plata,Buenos Aires,BA,7600,AR
+1738,Sarmiento 4089,Córdoba,Córdoba,CBA,5000,AR
+1739,9 de Julio 4839,Mar del Plata,Buenos Aires,BA,7600,AR
+1740,Urquiza 3593,La Plata,Buenos Aires,BA,1900,AR
+1741,Belgrano 2957,Santa Fe,Santa Fe,SF,3000,AR
+1742,Alem 1631,Mar del Plata,Buenos Aires,BA,7600,AR
+1743,Mitre 4935,Río Cuarto,Córdoba,CBA,5800,AR
+1744,25 de Mayo 1075,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1745,Italia 1892,Río Cuarto,Córdoba,CBA,5800,AR
+1746,Italia 361,Córdoba,Córdoba,CBA,5000,AR
+1747,Av. San Martín 2556,Córdoba,Córdoba,CBA,5000,AR
+1748,Independencia 1959,Córdoba,Córdoba,CBA,5000,AR
+1749,Balcarce 918,La Plata,Buenos Aires,BA,1900,AR
+1750,Alem 783,Córdoba,Córdoba,CBA,5000,AR
+1751,Güemes 4365,Quilmes,Buenos Aires,BA,1878,AR
+1752,Dorrego 3268,Córdoba,Córdoba,CBA,5000,AR
+1753,Salta 3609,Rosario,Santa Fe,SF,2000,AR
+1754,España 3226,Quilmes,Buenos Aires,BA,1878,AR
+1755,Independencia 2293,Santa Fe,Santa Fe,SF,3000,AR
+1756,Dorrego 477,La Plata,Buenos Aires,BA,1900,AR
+1757,Castelli 1980,Rosario,Santa Fe,SF,2000,AR
+1758,Salta 3231,La Plata,Buenos Aires,BA,1900,AR
+1759,25 de Mayo 2313,Quilmes,Buenos Aires,BA,1878,AR
+1760,Av. Colón 4711,Santa Fe,Santa Fe,SF,3000,AR
+1761,España 2564,San Isidro,Buenos Aires,BA,1642,AR
+1762,Balcarce 4233,Córdoba,Córdoba,CBA,5000,AR
+1763,Belgrano 554,San Rafael,Mendoza,MZA,5600,AR
+1764,Balcarce 3213,Quilmes,Buenos Aires,BA,1878,AR
+1765,Entre Ríos 2181,Río Cuarto,Córdoba,CBA,5800,AR
+1766,Pueyrredón 2289,San Isidro,Buenos Aires,BA,1642,AR
+1767,Av. San Martín 4036,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1768,Tucumán 2638,La Plata,Buenos Aires,BA,1900,AR
+1769,Alem 3157,La Plata,Buenos Aires,BA,1900,AR
+1770,Italia 4566,Río Cuarto,Córdoba,CBA,5800,AR
+1771,Salta 376,San Isidro,Buenos Aires,BA,1642,AR
+1772,Independencia 1251,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1773,Tucumán 4559,Mar del Plata,Buenos Aires,BA,7600,AR
+1774,9 de Julio 715,La Plata,Buenos Aires,BA,1900,AR
+1775,Av. Colón 647,Quilmes,Buenos Aires,BA,1878,AR
+1776,Italia 4258,Quilmes,Buenos Aires,BA,1878,AR
+1777,Maipú 3147,Río Cuarto,Córdoba,CBA,5800,AR
+1778,Castelli 2906,La Plata,Buenos Aires,BA,1900,AR
+1779,Alem 639,Mendoza,Mendoza,MZA,5500,AR
+1780,Salta 835,Santa Fe,Santa Fe,SF,3000,AR
+1781,Sarmiento 2829,Mar del Plata,Buenos Aires,BA,7600,AR
+1782,9 de Julio 4645,Río Cuarto,Córdoba,CBA,5800,AR
+1783,Mitre 233,Santa Fe,Santa Fe,SF,3000,AR
+1784,Güemes 398,Rosario,Santa Fe,SF,2000,AR
+1785,Balcarce 1097,Santa Fe,Santa Fe,SF,3000,AR
+1786,Sarmiento 3744,Río Cuarto,Córdoba,CBA,5800,AR
+1787,9 de Julio 3320,Río Cuarto,Córdoba,CBA,5800,AR
+1788,Moreno 2738,La Plata,Buenos Aires,BA,1900,AR
+1789,Brown 641,Mendoza,Mendoza,MZA,5500,AR
+1790,Laprida 799,Bahía Blanca,Buenos Aires,BA,8000,AR
+1791,Sarmiento 3661,La Plata,Buenos Aires,BA,1900,AR
+1792,Alem 1903,Bahía Blanca,Buenos Aires,BA,8000,AR
+1793,Sarmiento 454,La Plata,Buenos Aires,BA,1900,AR
+1794,Mitre 4641,Córdoba,Córdoba,CBA,5000,AR
+1795,Av. San Martín 3528,La Plata,Buenos Aires,BA,1900,AR
+1796,Alsina 1038,Mendoza,Mendoza,MZA,5500,AR
+1797,Güemes 2317,Quilmes,Buenos Aires,BA,1878,AR
+1798,Av. Pellegrini 3594,San Isidro,Buenos Aires,BA,1642,AR
+1799,Salta 3934,Mar del Plata,Buenos Aires,BA,7600,AR
+1800,Tucumán 4872,Rosario,Santa Fe,SF,2000,AR
+1801,Chacabuco 4314,Quilmes,Buenos Aires,BA,1878,AR
+1802,Alem 1538,Mendoza,Mendoza,MZA,5500,AR
+1803,Alem 4637,Rosario,Santa Fe,SF,2000,AR
+1804,Urquiza 1529,Quilmes,Buenos Aires,BA,1878,AR
+1805,Av. Colón 2798,La Plata,Buenos Aires,BA,1900,AR
+1806,Alsina 2066,Quilmes,Buenos Aires,BA,1878,AR
+1807,Av. Colón 4347,Córdoba,Córdoba,CBA,5000,AR
+1808,Independencia 2528,Córdoba,Córdoba,CBA,5000,AR
+1809,Las Heras 4019,Quilmes,Buenos Aires,BA,1878,AR
+1810,Rivadavia 1043,Rafaela,Santa Fe,SF,2300,AR
+1811,Mitre 1952,Río Cuarto,Córdoba,CBA,5800,AR
+1812,Brown 2761,Rosario,Santa Fe,SF,2000,AR
+1813,Dorrego 421,Quilmes,Buenos Aires,BA,1878,AR
+1814,25 de Mayo 757,Rosario,Santa Fe,SF,2000,AR
+1815,9 de Julio 2327,Bahía Blanca,Buenos Aires,BA,8000,AR
+1816,Rivadavia 4996,Rosario,Santa Fe,SF,2000,AR
+1817,Av. Colón 4531,Mendoza,Mendoza,MZA,5500,AR
+1818,Italia 4881,Mendoza,Mendoza,MZA,5500,AR
+1819,Alsina 4208,Bahía Blanca,Buenos Aires,BA,8000,AR
+1820,Mitre 2084,San Isidro,Buenos Aires,BA,1642,AR
+1821,Lavalle 2916,Mendoza,Mendoza,MZA,5500,AR
+1822,Av. Colón 1901,Rosario,Santa Fe,SF,2000,AR
+1823,Av. Colón 1585,La Plata,Buenos Aires,BA,1900,AR
+1824,Urquiza 1932,Rosario,Santa Fe,SF,2000,AR
+1825,Av. Pellegrini 3076,Mendoza,Mendoza,MZA,5500,AR
+1826,Güemes 4217,La Plata,Buenos Aires,BA,1900,AR
+1827,Alem 1452,Mendoza,Mendoza,MZA,5500,AR
+1828,Güemes 1331,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1829,Dorrego 516,Rosario,Santa Fe,SF,2000,AR
+1830,Güemes 3483,Rosario,Santa Fe,SF,2000,AR
+1831,Lavalle 3009,San Isidro,Buenos Aires,BA,1642,AR
+1832,25 de Mayo 1620,Córdoba,Córdoba,CBA,5000,AR
+1833,Independencia 1327,Rosario,Santa Fe,SF,2000,AR
+1834,Dorrego 681,Bahía Blanca,Buenos Aires,BA,8000,AR
+1835,Av. Pellegrini 630,San Isidro,Buenos Aires,BA,1642,AR
+1836,Salta 858,Mar del Plata,Buenos Aires,BA,7600,AR
+1837,Rivadavia 3200,San Isidro,Buenos Aires,BA,1642,AR
+1838,Belgrano 501,Mar del Plata,Buenos Aires,BA,7600,AR
+1839,Lavalle 3925,La Plata,Buenos Aires,BA,1900,AR
+1840,25 de Mayo 2965,Río Cuarto,Córdoba,CBA,5800,AR
+1841,Mitre 3863,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1842,Dorrego 788,Mendoza,Mendoza,MZA,5500,AR
+1843,Güemes 2162,Mendoza,Mendoza,MZA,5500,AR
+1844,Lavalle 4088,La Plata,Buenos Aires,BA,1900,AR
+1845,Güemes 4771,Quilmes,Buenos Aires,BA,1878,AR
+1846,25 de Mayo 2054,Rafaela,Santa Fe,SF,2300,AR
+1847,Chacabuco 3520,Córdoba,Córdoba,CBA,5000,AR
+1848,Sarmiento 2020,Mar del Plata,Buenos Aires,BA,7600,AR
+1849,Sarmiento 1669,Bahía Blanca,Buenos Aires,BA,8000,AR
+1850,Entre Ríos 1211,Rosario,Santa Fe,SF,2000,AR
+1851,Mitre 2088,Mendoza,Mendoza,MZA,5500,AR
+1852,Belgrano 4006,Mendoza,Mendoza,MZA,5500,AR
+1853,Dorrego 1409,Rosario,Santa Fe,SF,2000,AR
+1854,25 de Mayo 717,Godoy Cruz,Mendoza,MZA,5501,AR
+1855,Las Heras 2114,San Rafael,Mendoza,MZA,5600,AR
+1856,Salta 2331,La Plata,Buenos Aires,BA,1900,AR
+1857,Salta 682,Rosario,Santa Fe,SF,2000,AR
+1858,Italia 1057,Córdoba,Córdoba,CBA,5000,AR
+1859,Castelli 2982,Santa Fe,Santa Fe,SF,3000,AR
+1860,Rivadavia 3684,Córdoba,Córdoba,CBA,5000,AR
+1861,Tucumán 2939,Río Cuarto,Córdoba,CBA,5800,AR
+1862,9 de Julio 1605,Río Cuarto,Córdoba,CBA,5800,AR
+1863,Italia 4850,La Plata,Buenos Aires,BA,1900,AR
+1864,9 de Julio 3767,Mendoza,Mendoza,MZA,5500,AR
+1865,Alem 3965,Mar del Plata,Buenos Aires,BA,7600,AR
+1866,Laprida 2508,Rosario,Santa Fe,SF,2000,AR
+1867,Güemes 748,Bahía Blanca,Buenos Aires,BA,8000,AR
+1868,Entre Ríos 179,San Isidro,Buenos Aires,BA,1642,AR
+1869,Maipú 3470,Córdoba,Córdoba,CBA,5000,AR
+1870,Lavalle 1701,Córdoba,Córdoba,CBA,5000,AR
+1871,Balcarce 874,Rosario,Santa Fe,SF,2000,AR
+1872,Salta 4227,San Isidro,Buenos Aires,BA,1642,AR
+1873,Moreno 592,La Plata,Buenos Aires,BA,1900,AR
+1874,Balcarce 2988,La Plata,Buenos Aires,BA,1900,AR
+1875,Balcarce 3250,Córdoba,Córdoba,CBA,5000,AR
+1876,Moreno 2429,Mendoza,Mendoza,MZA,5500,AR
+1877,Rivadavia 3246,Rosario,Santa Fe,SF,2000,AR
+1878,Dorrego 2915,Rosario,Santa Fe,SF,2000,AR
+1879,Castelli 3277,Rosario,Santa Fe,SF,2000,AR
+1880,Alsina 181,Córdoba,Córdoba,CBA,5000,AR
+1881,Independencia 3852,Godoy Cruz,Mendoza,MZA,5501,AR
+1882,Salta 4018,Córdoba,Córdoba,CBA,5000,AR
+1883,Las Heras 2684,Rosario,Santa Fe,SF,2000,AR
+1884,Belgrano 3028,San Isidro,Buenos Aires,BA,1642,AR
+1885,Italia 2379,La Plata,Buenos Aires,BA,1900,AR
+1886,Av. Colón 640,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1887,Belgrano 2783,Rafaela,Santa Fe,SF,2300,AR
+1888,Las Heras 1344,Córdoba,Córdoba,CBA,5000,AR
+1889,9 de Julio 1148,La Plata,Buenos Aires,BA,1900,AR
+1890,Dorrego 2331,Bahía Blanca,Buenos Aires,BA,8000,AR
+1891,Independencia 4057,Godoy Cruz,Mendoza,MZA,5501,AR
+1892,Pueyrredón 1475,Rosario,Santa Fe,SF,2000,AR
+1893,Av. Colón 2838,Río Cuarto,Córdoba,CBA,5800,AR
+1894,Castelli 1223,Quilmes,Buenos Aires,BA,1878,AR
+1895,Mitre 103,Rosario,Santa Fe,SF,2000,AR
+1896,Av. Colón 870,Santa Fe,Santa Fe,SF,3000,AR
+1897,9 de Julio 699,Córdoba,Córdoba,CBA,5000,AR
+1898,Mitre 3068,La Plata,Buenos Aires,BA,1900,AR
+1899,Güemes 554,Bahía Blanca,Buenos Aires,BA,8000,AR
+1900,Lavalle 4194,Godoy Cruz,Mendoza,MZA,5501,AR
+1901,Maipú 3785,San Rafael,Mendoza,MZA,5600,AR
+1902,Entre Ríos 1772,Mar del Plata,Buenos Aires,BA,7600,AR
+1903,Pueyrredón 1449,Río Cuarto,Córdoba,CBA,5800,AR
+1904,Av. San Martín 2356,Santa Fe,Santa Fe,SF,3000,AR
+1905,Dorrego 4554,Río Cuarto,Córdoba,CBA,5800,AR
+1906,Moreno 4601,Córdoba,Córdoba,CBA,5000,AR
+1907,Av. Pellegrini 4241,Córdoba,Córdoba,CBA,5000,AR
+1908,Güemes 4982,Rosario,Santa Fe,SF,2000,AR
+1909,Chacabuco 3213,Córdoba,Córdoba,CBA,5000,AR
+1910,Balcarce 1275,Río Cuarto,Córdoba,CBA,5800,AR
+1911,Alsina 526,Santa Fe,Santa Fe,SF,3000,AR
+1912,Maipú 2522,Río Cuarto,Córdoba,CBA,5800,AR
+1913,Av. San Martín 4194,La Plata,Buenos Aires,BA,1900,AR
+1914,Tucumán 2006,Córdoba,Córdoba,CBA,5000,AR
+1915,Tucumán 2455,Rafaela,Santa Fe,SF,2300,AR
+1916,Mitre 4163,Rosario,Santa Fe,SF,2000,AR
+1917,Alsina 3561,Córdoba,Córdoba,CBA,5000,AR
+1918,Castelli 3223,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1919,Italia 4263,Mendoza,Mendoza,MZA,5500,AR
+1920,Av. Pellegrini 3061,Rafaela,Santa Fe,SF,2300,AR
+1921,Castelli 380,Quilmes,Buenos Aires,BA,1878,AR
+1922,Dorrego 4237,Godoy Cruz,Mendoza,MZA,5501,AR
+1923,Entre Ríos 4812,Córdoba,Córdoba,CBA,5000,AR
+1924,Castelli 3088,Quilmes,Buenos Aires,BA,1878,AR
+1925,Av. San Martín 3780,San Rafael,Mendoza,MZA,5600,AR
+1926,Av. San Martín 1635,Quilmes,Buenos Aires,BA,1878,AR
+1927,Laprida 3608,Mar del Plata,Buenos Aires,BA,7600,AR
+1928,Italia 395,Córdoba,Córdoba,CBA,5000,AR
+1929,Alem 873,Santa Fe,Santa Fe,SF,3000,AR
+1930,Pueyrredón 3747,Córdoba,Córdoba,CBA,5000,AR
+1931,Sarmiento 3234,Córdoba,Córdoba,CBA,5000,AR
+1932,Av. Colón 1781,Mar del Plata,Buenos Aires,BA,7600,AR
+1933,Balcarce 4716,Córdoba,Córdoba,CBA,5000,AR
+1934,Belgrano 1313,Godoy Cruz,Mendoza,MZA,5501,AR
+1935,Pueyrredón 2533,Quilmes,Buenos Aires,BA,1878,AR
+1936,Tucumán 2676,Córdoba,Córdoba,CBA,5000,AR
+1937,Balcarce 3491,Córdoba,Córdoba,CBA,5000,AR
+1938,Castelli 2707,La Plata,Buenos Aires,BA,1900,AR
+1939,Av. San Martín 3559,San Rafael,Mendoza,MZA,5600,AR
+1940,España 397,Quilmes,Buenos Aires,BA,1878,AR
+1941,Dorrego 3375,Santa Fe,Santa Fe,SF,3000,AR
+1942,Av. Pellegrini 263,Godoy Cruz,Mendoza,MZA,5501,AR
+1943,España 620,Río Cuarto,Córdoba,CBA,5800,AR
+1944,Salta 4029,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1945,Entre Ríos 3710,La Plata,Buenos Aires,BA,1900,AR
+1946,Lavalle 1276,Santa Fe,Santa Fe,SF,3000,AR
+1947,Tucumán 4934,Rafaela,Santa Fe,SF,2300,AR
+1948,9 de Julio 482,Santa Fe,Santa Fe,SF,3000,AR
+1949,Italia 1167,San Isidro,Buenos Aires,BA,1642,AR
+1950,Brown 4617,Quilmes,Buenos Aires,BA,1878,AR
+1951,España 1945,Córdoba,Córdoba,CBA,5000,AR
+1952,Chacabuco 2479,Quilmes,Buenos Aires,BA,1878,AR
+1953,Belgrano 3839,San Isidro,Buenos Aires,BA,1642,AR
+1954,Sarmiento 4130,La Plata,Buenos Aires,BA,1900,AR
+1955,Castelli 4852,Mar del Plata,Buenos Aires,BA,7600,AR
+1956,Salta 3900,Mendoza,Mendoza,MZA,5500,AR
+1957,Laprida 409,Córdoba,Córdoba,CBA,5000,AR
+1958,Lavalle 4646,Córdoba,Córdoba,CBA,5000,AR
+1959,Pueyrredón 1398,Bahía Blanca,Buenos Aires,BA,8000,AR
+1960,Independencia 4022,Rafaela,Santa Fe,SF,2300,AR
+1961,Rivadavia 2503,Rafaela,Santa Fe,SF,2300,AR
+1962,Sarmiento 2468,La Plata,Buenos Aires,BA,1900,AR
+1963,Castelli 353,Quilmes,Buenos Aires,BA,1878,AR
+1964,Alsina 4466,Río Cuarto,Córdoba,CBA,5800,AR
+1965,Pueyrredón 3394,Rosario,Santa Fe,SF,2000,AR
+1966,Lavalle 2345,Rafaela,Santa Fe,SF,2300,AR
+1967,España 4327,Bahía Blanca,Buenos Aires,BA,8000,AR
+1968,Mitre 3857,Santa Fe,Santa Fe,SF,3000,AR
+1969,Güemes 1981,Quilmes,Buenos Aires,BA,1878,AR
+1970,Alsina 4535,Godoy Cruz,Mendoza,MZA,5501,AR
+1971,Chacabuco 3160,Mar del Plata,Buenos Aires,BA,7600,AR
+1972,Castelli 3884,La Plata,Buenos Aires,BA,1900,AR
+1973,Av. Pellegrini 326,San Isidro,Buenos Aires,BA,1642,AR
+1974,Av. Colón 1819,Córdoba,Córdoba,CBA,5000,AR
+1975,Sarmiento 2011,San Rafael,Mendoza,MZA,5600,AR
+1976,Alsina 1414,Bahía Blanca,Buenos Aires,BA,8000,AR
+1977,Mitre 1241,Rosario,Santa Fe,SF,2000,AR
+1978,Mitre 3442,San Isidro,Buenos Aires,BA,1642,AR
+1979,Alsina 689,La Plata,Buenos Aires,BA,1900,AR
+1980,Salta 1630,Bahía Blanca,Buenos Aires,BA,8000,AR
+1981,Av. Pellegrini 4811,San Isidro,Buenos Aires,BA,1642,AR
+1982,Av. San Martín 432,Bahía Blanca,Buenos Aires,BA,8000,AR
+1983,Salta 2430,Córdoba,Córdoba,CBA,5000,AR
+1984,Entre Ríos 4480,San Isidro,Buenos Aires,BA,1642,AR
+1985,Belgrano 1487,Santa Fe,Santa Fe,SF,3000,AR
+1986,Italia 2812,Río Cuarto,Córdoba,CBA,5800,AR
+1987,Entre Ríos 1188,Rosario,Santa Fe,SF,2000,AR
+1988,Rivadavia 3734,Rafaela,Santa Fe,SF,2300,AR
+1989,Mitre 2782,San Isidro,Buenos Aires,BA,1642,AR
+1990,Alem 3032,Santa Fe,Santa Fe,SF,3000,AR
+1991,Chacabuco 1085,San Isidro,Buenos Aires,BA,1642,AR
+1992,Dorrego 4980,Mar del Plata,Buenos Aires,BA,7600,AR
+1993,Italia 3281,Mar del Plata,Buenos Aires,BA,7600,AR
+1994,Alem 3051,Río Cuarto,Córdoba,CBA,5800,AR
+1995,Urquiza 2073,Villa Carlos Paz,Córdoba,CBA,5152,AR
+1996,Urquiza 2849,Quilmes,Buenos Aires,BA,1878,AR
+1997,Castelli 709,Santa Fe,Santa Fe,SF,3000,AR
+1998,Castelli 4776,Río Cuarto,Córdoba,CBA,5800,AR
+1999,Chacabuco 3451,Córdoba,Córdoba,CBA,5000,AR
+2000,9 de Julio 3327,Bahía Blanca,Buenos Aires,BA,8000,AR
+2001,Castelli 1131,La Plata,Buenos Aires,BA,1900,AR
+2002,Dorrego 2952,Bahía Blanca,Buenos Aires,BA,8000,AR
+2003,9 de Julio 1955,Córdoba,Córdoba,CBA,5000,AR
+2004,España 3947,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2005,Brown 1341,Rosario,Santa Fe,SF,2000,AR
+2006,Av. Pellegrini 2014,La Plata,Buenos Aires,BA,1900,AR
+2007,Moreno 4977,Córdoba,Córdoba,CBA,5000,AR
+2008,Pueyrredón 3960,La Plata,Buenos Aires,BA,1900,AR
+2009,Dorrego 4358,Rosario,Santa Fe,SF,2000,AR
+2010,Belgrano 3157,Mar del Plata,Buenos Aires,BA,7600,AR
+2011,Pueyrredón 2705,Río Cuarto,Córdoba,CBA,5800,AR
+2012,Av. Colón 1817,Godoy Cruz,Mendoza,MZA,5501,AR
+2013,Alem 3188,San Isidro,Buenos Aires,BA,1642,AR
+2014,Alem 902,Quilmes,Buenos Aires,BA,1878,AR
+2015,Maipú 1083,Río Cuarto,Córdoba,CBA,5800,AR
+2016,Alsina 1528,Bahía Blanca,Buenos Aires,BA,8000,AR
+2017,Tucumán 846,Mar del Plata,Buenos Aires,BA,7600,AR
+2018,Belgrano 4621,Santa Fe,Santa Fe,SF,3000,AR
+2019,Belgrano 1649,Santa Fe,Santa Fe,SF,3000,AR
+2020,9 de Julio 3251,Santa Fe,Santa Fe,SF,3000,AR
+2021,Av. San Martín 390,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2022,Güemes 3631,Córdoba,Córdoba,CBA,5000,AR
+2023,Salta 361,La Plata,Buenos Aires,BA,1900,AR
+2024,Av. Colón 1731,Córdoba,Córdoba,CBA,5000,AR
+2025,Las Heras 3792,Santa Fe,Santa Fe,SF,3000,AR
+2026,9 de Julio 3449,Mendoza,Mendoza,MZA,5500,AR
+2027,Chacabuco 4242,La Plata,Buenos Aires,BA,1900,AR
+2028,Sarmiento 4289,Río Cuarto,Córdoba,CBA,5800,AR
+2029,Güemes 1699,Mar del Plata,Buenos Aires,BA,7600,AR
+2030,Urquiza 4955,Quilmes,Buenos Aires,BA,1878,AR
+2031,España 3709,Mendoza,Mendoza,MZA,5500,AR
+2032,Alem 809,Mendoza,Mendoza,MZA,5500,AR
+2033,Laprida 2174,Río Cuarto,Córdoba,CBA,5800,AR
+2034,25 de Mayo 4417,Santa Fe,Santa Fe,SF,3000,AR
+2035,Italia 3971,Rosario,Santa Fe,SF,2000,AR
+2036,Castelli 407,Córdoba,Córdoba,CBA,5000,AR
+2037,Salta 3786,San Isidro,Buenos Aires,BA,1642,AR
+2038,Alsina 1863,Santa Fe,Santa Fe,SF,3000,AR
+2039,Urquiza 2606,Rafaela,Santa Fe,SF,2300,AR
+2040,Brown 3166,Rafaela,Santa Fe,SF,2300,AR
+2041,Av. Colón 2888,Mar del Plata,Buenos Aires,BA,7600,AR
+2042,Alem 4912,Rosario,Santa Fe,SF,2000,AR
+2043,Maipú 3855,Rosario,Santa Fe,SF,2000,AR
+2044,Alsina 2463,Santa Fe,Santa Fe,SF,3000,AR
+2045,Mitre 3144,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2046,Rivadavia 418,Rosario,Santa Fe,SF,2000,AR
+2047,Tucumán 2126,La Plata,Buenos Aires,BA,1900,AR
+2048,Dorrego 3247,Godoy Cruz,Mendoza,MZA,5501,AR
+2049,25 de Mayo 2306,La Plata,Buenos Aires,BA,1900,AR
+2050,España 4981,Rosario,Santa Fe,SF,2000,AR
+2051,Güemes 4633,Rosario,Santa Fe,SF,2000,AR
+2052,Belgrano 4356,Rosario,Santa Fe,SF,2000,AR
+2053,Balcarce 2377,Godoy Cruz,Mendoza,MZA,5501,AR
+2054,Independencia 4950,La Plata,Buenos Aires,BA,1900,AR
+2055,25 de Mayo 4456,Córdoba,Córdoba,CBA,5000,AR
+2056,Laprida 809,Mar del Plata,Buenos Aires,BA,7600,AR
+2057,Av. San Martín 3271,La Plata,Buenos Aires,BA,1900,AR
+2058,Independencia 3130,Quilmes,Buenos Aires,BA,1878,AR
+2059,España 3292,Godoy Cruz,Mendoza,MZA,5501,AR
+2060,Alem 4203,Santa Fe,Santa Fe,SF,3000,AR
+2061,Belgrano 2203,Córdoba,Córdoba,CBA,5000,AR
+2062,Italia 3544,Córdoba,Córdoba,CBA,5000,AR
+2063,Tucumán 1566,Córdoba,Córdoba,CBA,5000,AR
+2064,Brown 4324,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2065,Entre Ríos 1701,Santa Fe,Santa Fe,SF,3000,AR
+2066,Las Heras 4583,San Isidro,Buenos Aires,BA,1642,AR
+2067,Belgrano 3040,Rosario,Santa Fe,SF,2000,AR
+2068,Dorrego 503,Rosario,Santa Fe,SF,2000,AR
+2069,Alsina 1945,Córdoba,Córdoba,CBA,5000,AR
+2070,Pueyrredón 3776,Córdoba,Córdoba,CBA,5000,AR
+2071,Italia 2512,Córdoba,Córdoba,CBA,5000,AR
+2072,Maipú 4575,Rosario,Santa Fe,SF,2000,AR
+2073,Güemes 1062,La Plata,Buenos Aires,BA,1900,AR
+2074,Las Heras 4775,Bahía Blanca,Buenos Aires,BA,8000,AR
+2075,Sarmiento 159,Córdoba,Córdoba,CBA,5000,AR
+2076,Lavalle 2395,Bahía Blanca,Buenos Aires,BA,8000,AR
+2077,Chacabuco 1483,San Rafael,Mendoza,MZA,5600,AR
+2078,Entre Ríos 743,Santa Fe,Santa Fe,SF,3000,AR
+2079,Las Heras 1498,Rosario,Santa Fe,SF,2000,AR
+2080,Pueyrredón 2768,La Plata,Buenos Aires,BA,1900,AR
+2081,Av. Colón 2648,Mar del Plata,Buenos Aires,BA,7600,AR
+2082,Alsina 4908,San Isidro,Buenos Aires,BA,1642,AR
+2083,Las Heras 2816,La Plata,Buenos Aires,BA,1900,AR
+2084,Alem 1445,Mar del Plata,Buenos Aires,BA,7600,AR
+2085,Tucumán 1250,Santa Fe,Santa Fe,SF,3000,AR
+2086,Castelli 3725,Santa Fe,Santa Fe,SF,3000,AR
+2087,Balcarce 2602,San Isidro,Buenos Aires,BA,1642,AR
+2088,Tucumán 2305,Córdoba,Córdoba,CBA,5000,AR
+2089,25 de Mayo 963,Córdoba,Córdoba,CBA,5000,AR
+2090,Lavalle 3868,Córdoba,Córdoba,CBA,5000,AR
+2091,Castelli 1057,Quilmes,Buenos Aires,BA,1878,AR
+2092,Balcarce 4257,Rosario,Santa Fe,SF,2000,AR
+2093,Balcarce 4867,Córdoba,Córdoba,CBA,5000,AR
+2094,Mitre 1491,Córdoba,Córdoba,CBA,5000,AR
+2095,Castelli 3972,Rosario,Santa Fe,SF,2000,AR
+2096,Entre Ríos 2900,Rosario,Santa Fe,SF,2000,AR
+2097,Alsina 676,Córdoba,Córdoba,CBA,5000,AR
+2098,Rivadavia 244,Rosario,Santa Fe,SF,2000,AR
+2099,Mitre 2863,Bahía Blanca,Buenos Aires,BA,8000,AR
+2100,Balcarce 2077,La Plata,Buenos Aires,BA,1900,AR
+2101,Güemes 4433,La Plata,Buenos Aires,BA,1900,AR
+2102,Lavalle 3714,Rosario,Santa Fe,SF,2000,AR
+2103,Tucumán 1905,Bahía Blanca,Buenos Aires,BA,8000,AR
+2104,Castelli 768,Río Cuarto,Córdoba,CBA,5800,AR
+2105,Av. Pellegrini 4659,Bahía Blanca,Buenos Aires,BA,8000,AR
+2106,Moreno 3573,Mar del Plata,Buenos Aires,BA,7600,AR
+2107,Chacabuco 4316,Santa Fe,Santa Fe,SF,3000,AR
+2108,Maipú 4560,Mendoza,Mendoza,MZA,5500,AR
+2109,Independencia 3764,San Rafael,Mendoza,MZA,5600,AR
+2110,Alem 2463,Rafaela,Santa Fe,SF,2300,AR
+2111,Salta 454,Rosario,Santa Fe,SF,2000,AR
+2112,Italia 4952,Rafaela,Santa Fe,SF,2300,AR
+2113,Las Heras 4485,Bahía Blanca,Buenos Aires,BA,8000,AR
+2114,Urquiza 4162,Bahía Blanca,Buenos Aires,BA,8000,AR
+2115,Italia 1914,Córdoba,Córdoba,CBA,5000,AR
+2116,Brown 4706,Mendoza,Mendoza,MZA,5500,AR
+2117,Independencia 4322,Godoy Cruz,Mendoza,MZA,5501,AR
+2118,Moreno 3768,Rafaela,Santa Fe,SF,2300,AR
+2119,Av. Colón 130,Rosario,Santa Fe,SF,2000,AR
+2120,9 de Julio 3596,Río Cuarto,Córdoba,CBA,5800,AR
+2121,Laprida 3089,Bahía Blanca,Buenos Aires,BA,8000,AR
+2122,Av. San Martín 3943,Mendoza,Mendoza,MZA,5500,AR
+2123,Las Heras 315,Rosario,Santa Fe,SF,2000,AR
+2124,Laprida 1686,Córdoba,Córdoba,CBA,5000,AR
+2125,Brown 1342,Quilmes,Buenos Aires,BA,1878,AR
+2126,Belgrano 4988,Córdoba,Córdoba,CBA,5000,AR
+2127,Urquiza 3011,San Rafael,Mendoza,MZA,5600,AR
+2128,Laprida 1187,Rosario,Santa Fe,SF,2000,AR
+2129,Moreno 4083,Quilmes,Buenos Aires,BA,1878,AR
+2130,Sarmiento 4320,Rosario,Santa Fe,SF,2000,AR
+2131,Alem 3037,La Plata,Buenos Aires,BA,1900,AR
+2132,Laprida 4685,San Isidro,Buenos Aires,BA,1642,AR
+2133,Güemes 4601,Santa Fe,Santa Fe,SF,3000,AR
+2134,Laprida 377,Córdoba,Córdoba,CBA,5000,AR
+2135,Lavalle 3080,Rosario,Santa Fe,SF,2000,AR
+2136,Alsina 3991,Quilmes,Buenos Aires,BA,1878,AR
+2137,Las Heras 1571,Rafaela,Santa Fe,SF,2300,AR
+2138,Salta 4162,Quilmes,Buenos Aires,BA,1878,AR
+2139,España 2555,Rosario,Santa Fe,SF,2000,AR
+2140,Av. Pellegrini 3989,Quilmes,Buenos Aires,BA,1878,AR
+2141,Urquiza 891,San Rafael,Mendoza,MZA,5600,AR
+2142,Rivadavia 4585,La Plata,Buenos Aires,BA,1900,AR
+2143,Urquiza 347,Córdoba,Córdoba,CBA,5000,AR
+2144,Entre Ríos 203,Mar del Plata,Buenos Aires,BA,7600,AR
+2145,España 851,Santa Fe,Santa Fe,SF,3000,AR
+2146,Belgrano 809,Mendoza,Mendoza,MZA,5500,AR
+2147,Entre Ríos 3831,Godoy Cruz,Mendoza,MZA,5501,AR
+2148,Av. Pellegrini 846,Córdoba,Córdoba,CBA,5000,AR
+2149,Chacabuco 2548,La Plata,Buenos Aires,BA,1900,AR
+2150,Moreno 252,San Isidro,Buenos Aires,BA,1642,AR
+2151,Mitre 2403,Bahía Blanca,Buenos Aires,BA,8000,AR
+2152,Salta 3022,La Plata,Buenos Aires,BA,1900,AR
+2153,Chacabuco 3746,San Isidro,Buenos Aires,BA,1642,AR
+2154,Independencia 2331,Río Cuarto,Córdoba,CBA,5800,AR
+2155,Av. Colón 3800,San Rafael,Mendoza,MZA,5600,AR
+2156,Alem 4991,Bahía Blanca,Buenos Aires,BA,8000,AR
+2157,Belgrano 1144,San Isidro,Buenos Aires,BA,1642,AR
+2158,Av. Colón 512,La Plata,Buenos Aires,BA,1900,AR
+2159,Güemes 1299,Godoy Cruz,Mendoza,MZA,5501,AR
+2160,Castelli 4579,Mar del Plata,Buenos Aires,BA,7600,AR
+2161,Independencia 3823,Quilmes,Buenos Aires,BA,1878,AR
+2162,Lavalle 320,Rosario,Santa Fe,SF,2000,AR
+2163,Lavalle 1514,Bahía Blanca,Buenos Aires,BA,8000,AR
+2164,Pueyrredón 3974,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2165,Dorrego 1179,Mendoza,Mendoza,MZA,5500,AR
+2166,Urquiza 127,San Isidro,Buenos Aires,BA,1642,AR
+2167,Las Heras 3271,Córdoba,Córdoba,CBA,5000,AR
+2168,Tucumán 3110,Santa Fe,Santa Fe,SF,3000,AR
+2169,Italia 2752,Córdoba,Córdoba,CBA,5000,AR
+2170,Av. Pellegrini 1961,Córdoba,Córdoba,CBA,5000,AR
+2171,9 de Julio 1792,Godoy Cruz,Mendoza,MZA,5501,AR
+2172,Chacabuco 4696,Mendoza,Mendoza,MZA,5500,AR
+2173,Independencia 2982,Santa Fe,Santa Fe,SF,3000,AR
+2174,Balcarce 2322,Rosario,Santa Fe,SF,2000,AR
+2175,Belgrano 1102,San Isidro,Buenos Aires,BA,1642,AR
+2176,Entre Ríos 3392,La Plata,Buenos Aires,BA,1900,AR
+2177,Maipú 4469,La Plata,Buenos Aires,BA,1900,AR
+2178,Pueyrredón 1559,Godoy Cruz,Mendoza,MZA,5501,AR
+2179,Moreno 788,Quilmes,Buenos Aires,BA,1878,AR
+2180,9 de Julio 2696,San Isidro,Buenos Aires,BA,1642,AR
+2181,Chacabuco 2435,Quilmes,Buenos Aires,BA,1878,AR
+2182,España 1317,Mar del Plata,Buenos Aires,BA,7600,AR
+2183,Entre Ríos 3866,Rafaela,Santa Fe,SF,2300,AR
+2184,Maipú 3580,La Plata,Buenos Aires,BA,1900,AR
+2185,Las Heras 505,Córdoba,Córdoba,CBA,5000,AR
+2186,Rivadavia 3247,Quilmes,Buenos Aires,BA,1878,AR
+2187,Av. San Martín 2364,Rafaela,Santa Fe,SF,2300,AR
+2188,Av. San Martín 3132,San Isidro,Buenos Aires,BA,1642,AR
+2189,9 de Julio 4928,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2190,Lavalle 498,Quilmes,Buenos Aires,BA,1878,AR
+2191,Urquiza 1101,San Isidro,Buenos Aires,BA,1642,AR
+2192,Las Heras 3797,Mendoza,Mendoza,MZA,5500,AR
+2193,Alem 3471,La Plata,Buenos Aires,BA,1900,AR
+2194,Brown 1412,Santa Fe,Santa Fe,SF,3000,AR
+2195,25 de Mayo 3592,Rosario,Santa Fe,SF,2000,AR
+2196,Alem 3982,Córdoba,Córdoba,CBA,5000,AR
+2197,Tucumán 4590,La Plata,Buenos Aires,BA,1900,AR
+2198,25 de Mayo 1032,La Plata,Buenos Aires,BA,1900,AR
+2199,Alsina 3499,San Isidro,Buenos Aires,BA,1642,AR
+2200,Italia 423,Rosario,Santa Fe,SF,2000,AR
+2201,Las Heras 2489,Córdoba,Córdoba,CBA,5000,AR
+2202,Italia 1117,Quilmes,Buenos Aires,BA,1878,AR
+2203,Maipú 1503,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2204,Castelli 457,Mendoza,Mendoza,MZA,5500,AR
+2205,25 de Mayo 1744,Mendoza,Mendoza,MZA,5500,AR
+2206,Pueyrredón 1059,Godoy Cruz,Mendoza,MZA,5501,AR
+2207,Alsina 2829,Mendoza,Mendoza,MZA,5500,AR
+2208,9 de Julio 1647,Quilmes,Buenos Aires,BA,1878,AR
+2209,Av. Pellegrini 2352,San Rafael,Mendoza,MZA,5600,AR
+2210,Independencia 2639,La Plata,Buenos Aires,BA,1900,AR
+2211,Av. Pellegrini 4557,Santa Fe,Santa Fe,SF,3000,AR
+2212,Alsina 3677,Córdoba,Córdoba,CBA,5000,AR
+2213,Alsina 481,Rosario,Santa Fe,SF,2000,AR
+2214,9 de Julio 4373,San Rafael,Mendoza,MZA,5600,AR
+2215,Av. Pellegrini 3482,Mar del Plata,Buenos Aires,BA,7600,AR
+2216,Moreno 1896,San Isidro,Buenos Aires,BA,1642,AR
+2217,Pueyrredón 2056,San Isidro,Buenos Aires,BA,1642,AR
+2218,25 de Mayo 2170,Mendoza,Mendoza,MZA,5500,AR
+2219,Belgrano 283,Mendoza,Mendoza,MZA,5500,AR
+2220,Maipú 3288,Mar del Plata,Buenos Aires,BA,7600,AR
+2221,Independencia 1977,Córdoba,Córdoba,CBA,5000,AR
+2222,Pueyrredón 2183,Río Cuarto,Córdoba,CBA,5800,AR
+2223,España 2365,Mendoza,Mendoza,MZA,5500,AR
+2224,Salta 3531,San Isidro,Buenos Aires,BA,1642,AR
+2225,Güemes 4847,Santa Fe,Santa Fe,SF,3000,AR
+2226,Independencia 2908,Mar del Plata,Buenos Aires,BA,7600,AR
+2227,Pueyrredón 3596,Río Cuarto,Córdoba,CBA,5800,AR
+2228,Mitre 425,Córdoba,Córdoba,CBA,5000,AR
+2229,Alsina 3995,Mar del Plata,Buenos Aires,BA,7600,AR
+2230,9 de Julio 3312,Quilmes,Buenos Aires,BA,1878,AR
+2231,Belgrano 4268,La Plata,Buenos Aires,BA,1900,AR
+2232,Av. Colón 1411,Córdoba,Córdoba,CBA,5000,AR
+2233,Mitre 2315,Rosario,Santa Fe,SF,2000,AR
+2234,Chacabuco 4967,Quilmes,Buenos Aires,BA,1878,AR
+2235,Alem 3112,Rosario,Santa Fe,SF,2000,AR
+2236,Av. Colón 4530,Córdoba,Córdoba,CBA,5000,AR
+2237,Tucumán 1873,San Isidro,Buenos Aires,BA,1642,AR
+2238,Rivadavia 1938,Mendoza,Mendoza,MZA,5500,AR
+2239,España 4704,Santa Fe,Santa Fe,SF,3000,AR
+2240,Las Heras 2561,Mendoza,Mendoza,MZA,5500,AR
+2241,Tucumán 4886,Córdoba,Córdoba,CBA,5000,AR
+2242,Güemes 537,Mendoza,Mendoza,MZA,5500,AR
+2243,Castelli 3951,Mar del Plata,Buenos Aires,BA,7600,AR
+2244,Italia 3849,Córdoba,Córdoba,CBA,5000,AR
+2245,España 1989,Quilmes,Buenos Aires,BA,1878,AR
+2246,Pueyrredón 2158,Río Cuarto,Córdoba,CBA,5800,AR
+2247,Pueyrredón 3267,Mendoza,Mendoza,MZA,5500,AR
+2248,Castelli 1906,Córdoba,Córdoba,CBA,5000,AR
+2249,España 1384,Mar del Plata,Buenos Aires,BA,7600,AR
+2250,9 de Julio 4834,Mar del Plata,Buenos Aires,BA,7600,AR
+2251,Tucumán 454,Quilmes,Buenos Aires,BA,1878,AR
+2252,Italia 3478,Mar del Plata,Buenos Aires,BA,7600,AR
+2253,Moreno 3766,Mar del Plata,Buenos Aires,BA,7600,AR
+2254,Pueyrredón 3773,Córdoba,Córdoba,CBA,5000,AR
+2255,9 de Julio 650,Córdoba,Córdoba,CBA,5000,AR
+2256,Urquiza 1963,Rafaela,Santa Fe,SF,2300,AR
+2257,Av. Pellegrini 1125,Godoy Cruz,Mendoza,MZA,5501,AR
+2258,Belgrano 4668,Rosario,Santa Fe,SF,2000,AR
+2259,Urquiza 961,San Isidro,Buenos Aires,BA,1642,AR
+2260,Brown 4583,La Plata,Buenos Aires,BA,1900,AR
+2261,Chacabuco 2634,San Rafael,Mendoza,MZA,5600,AR
+2262,Independencia 3940,Córdoba,Córdoba,CBA,5000,AR
+2263,Brown 2218,Rosario,Santa Fe,SF,2000,AR
+2264,Laprida 2713,Rafaela,Santa Fe,SF,2300,AR
+2265,9 de Julio 3639,Mendoza,Mendoza,MZA,5500,AR
+2266,Belgrano 3865,Mar del Plata,Buenos Aires,BA,7600,AR
+2267,Dorrego 4061,Mendoza,Mendoza,MZA,5500,AR
+2268,Av. Pellegrini 989,Rosario,Santa Fe,SF,2000,AR
+2269,Mitre 1244,San Isidro,Buenos Aires,BA,1642,AR
+2270,Lavalle 1427,Río Cuarto,Córdoba,CBA,5800,AR
+2271,Maipú 3046,Rosario,Santa Fe,SF,2000,AR
+2272,Belgrano 3586,Córdoba,Córdoba,CBA,5000,AR
+2273,Tucumán 547,Quilmes,Buenos Aires,BA,1878,AR
+2274,Lavalle 3732,Quilmes,Buenos Aires,BA,1878,AR
+2275,Italia 3394,Rosario,Santa Fe,SF,2000,AR
+2276,Chacabuco 2723,Rosario,Santa Fe,SF,2000,AR
+2277,Mitre 1816,Río Cuarto,Córdoba,CBA,5800,AR
+2278,Balcarce 2225,Quilmes,Buenos Aires,BA,1878,AR
+2279,Av. San Martín 3960,Rosario,Santa Fe,SF,2000,AR
+2280,Belgrano 4762,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2281,Lavalle 356,San Isidro,Buenos Aires,BA,1642,AR
+2282,Belgrano 1818,San Isidro,Buenos Aires,BA,1642,AR
+2283,Av. Pellegrini 4210,Rosario,Santa Fe,SF,2000,AR
+2284,Rivadavia 4716,Quilmes,Buenos Aires,BA,1878,AR
+2285,Sarmiento 4486,Rosario,Santa Fe,SF,2000,AR
+2286,Maipú 3366,Río Cuarto,Córdoba,CBA,5800,AR
+2287,Belgrano 4192,La Plata,Buenos Aires,BA,1900,AR
+2288,Tucumán 2044,San Isidro,Buenos Aires,BA,1642,AR
+2289,Av. Pellegrini 2205,San Isidro,Buenos Aires,BA,1642,AR
+2290,Laprida 3946,Mendoza,Mendoza,MZA,5500,AR
+2291,Rivadavia 1008,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2292,Independencia 2164,Río Cuarto,Córdoba,CBA,5800,AR
+2293,Rivadavia 1026,Quilmes,Buenos Aires,BA,1878,AR
+2294,Urquiza 673,Córdoba,Córdoba,CBA,5000,AR
+2295,Castelli 4850,Mendoza,Mendoza,MZA,5500,AR
+2296,Mitre 1045,San Isidro,Buenos Aires,BA,1642,AR
+2297,Dorrego 3615,La Plata,Buenos Aires,BA,1900,AR
+2298,Belgrano 838,Mendoza,Mendoza,MZA,5500,AR
+2299,Entre Ríos 4148,Rafaela,Santa Fe,SF,2300,AR
+2300,9 de Julio 604,Godoy Cruz,Mendoza,MZA,5501,AR
+2301,Las Heras 1396,San Isidro,Buenos Aires,BA,1642,AR
+2302,Alem 3856,Mar del Plata,Buenos Aires,BA,7600,AR
+2303,Las Heras 1874,Quilmes,Buenos Aires,BA,1878,AR
+2304,Laprida 4546,Córdoba,Córdoba,CBA,5000,AR
+2305,Belgrano 3135,La Plata,Buenos Aires,BA,1900,AR
+2306,Alsina 2163,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2307,Av. San Martín 1932,Mar del Plata,Buenos Aires,BA,7600,AR
+2308,Güemes 455,Rosario,Santa Fe,SF,2000,AR
+2309,Mitre 353,San Rafael,Mendoza,MZA,5600,AR
+2310,Rivadavia 734,La Plata,Buenos Aires,BA,1900,AR
+2311,Salta 4962,Mar del Plata,Buenos Aires,BA,7600,AR
+2312,Salta 2783,San Isidro,Buenos Aires,BA,1642,AR
+2313,Laprida 3907,La Plata,Buenos Aires,BA,1900,AR
+2314,25 de Mayo 4803,Mar del Plata,Buenos Aires,BA,7600,AR
+2315,Urquiza 775,Córdoba,Córdoba,CBA,5000,AR
+2316,Pueyrredón 2618,Córdoba,Córdoba,CBA,5000,AR
+2317,Sarmiento 4137,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2318,9 de Julio 1326,Quilmes,Buenos Aires,BA,1878,AR
+2319,Lavalle 3570,Río Cuarto,Córdoba,CBA,5800,AR
+2320,Tucumán 213,Mendoza,Mendoza,MZA,5500,AR
+2321,Laprida 4346,La Plata,Buenos Aires,BA,1900,AR
+2322,Moreno 1376,Rosario,Santa Fe,SF,2000,AR
+2323,Chacabuco 4739,Rosario,Santa Fe,SF,2000,AR
+2324,Urquiza 3889,Mar del Plata,Buenos Aires,BA,7600,AR
+2325,Urquiza 3265,La Plata,Buenos Aires,BA,1900,AR
+2326,Av. Colón 3825,Mar del Plata,Buenos Aires,BA,7600,AR
+2327,Rivadavia 2421,Rosario,Santa Fe,SF,2000,AR
+2328,Maipú 4970,Córdoba,Córdoba,CBA,5000,AR
+2329,Alem 3438,Mendoza,Mendoza,MZA,5500,AR
+2330,Belgrano 937,Mar del Plata,Buenos Aires,BA,7600,AR
+2331,Sarmiento 2259,Río Cuarto,Córdoba,CBA,5800,AR
+2332,Alsina 1548,La Plata,Buenos Aires,BA,1900,AR
+2333,Entre Ríos 4049,Córdoba,Córdoba,CBA,5000,AR
+2334,Belgrano 743,Córdoba,Córdoba,CBA,5000,AR
+2335,Av. Pellegrini 269,Córdoba,Córdoba,CBA,5000,AR
+2336,9 de Julio 2966,San Isidro,Buenos Aires,BA,1642,AR
+2337,Pueyrredón 1238,Quilmes,Buenos Aires,BA,1878,AR
+2338,Dorrego 1496,Santa Fe,Santa Fe,SF,3000,AR
+2339,Alem 2650,La Plata,Buenos Aires,BA,1900,AR
+2340,Belgrano 4999,Rafaela,Santa Fe,SF,2300,AR
+2341,Urquiza 4338,Rafaela,Santa Fe,SF,2300,AR
+2342,Av. San Martín 2510,Santa Fe,Santa Fe,SF,3000,AR
+2343,Salta 936,Rafaela,Santa Fe,SF,2300,AR
+2344,Castelli 3052,San Rafael,Mendoza,MZA,5600,AR
+2345,Dorrego 249,Rafaela,Santa Fe,SF,2300,AR
+2346,Salta 1161,Rosario,Santa Fe,SF,2000,AR
+2347,Alsina 4120,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2348,Belgrano 4774,Córdoba,Córdoba,CBA,5000,AR
+2349,Tucumán 1041,Santa Fe,Santa Fe,SF,3000,AR
+2350,Av. Pellegrini 3395,Godoy Cruz,Mendoza,MZA,5501,AR
+2351,Sarmiento 1876,La Plata,Buenos Aires,BA,1900,AR
+2352,España 2082,La Plata,Buenos Aires,BA,1900,AR
+2353,Rivadavia 2621,La Plata,Buenos Aires,BA,1900,AR
+2354,Rivadavia 594,Mendoza,Mendoza,MZA,5500,AR
+2355,Av. Pellegrini 1368,Río Cuarto,Córdoba,CBA,5800,AR
+2356,25 de Mayo 3204,Godoy Cruz,Mendoza,MZA,5501,AR
+2357,Pueyrredón 3914,Rosario,Santa Fe,SF,2000,AR
+2358,Dorrego 2732,Rosario,Santa Fe,SF,2000,AR
+2359,Las Heras 2904,Río Cuarto,Córdoba,CBA,5800,AR
+2360,Av. San Martín 4814,Mar del Plata,Buenos Aires,BA,7600,AR
+2361,Lavalle 1382,Mar del Plata,Buenos Aires,BA,7600,AR
+2362,Av. Pellegrini 4893,San Isidro,Buenos Aires,BA,1642,AR
+2363,Alsina 391,Rosario,Santa Fe,SF,2000,AR
+2364,Av. San Martín 303,La Plata,Buenos Aires,BA,1900,AR
+2365,Castelli 2993,Bahía Blanca,Buenos Aires,BA,8000,AR
+2366,Alem 2617,San Isidro,Buenos Aires,BA,1642,AR
+2367,Italia 242,Mar del Plata,Buenos Aires,BA,7600,AR
+2368,Maipú 1716,Godoy Cruz,Mendoza,MZA,5501,AR
+2369,Av. Pellegrini 3316,San Isidro,Buenos Aires,BA,1642,AR
+2370,25 de Mayo 213,Córdoba,Córdoba,CBA,5000,AR
+2371,Tucumán 1369,San Rafael,Mendoza,MZA,5600,AR
+2372,Alsina 865,La Plata,Buenos Aires,BA,1900,AR
+2373,Independencia 4306,Quilmes,Buenos Aires,BA,1878,AR
+2374,Alsina 540,Quilmes,Buenos Aires,BA,1878,AR
+2375,Laprida 4314,Córdoba,Córdoba,CBA,5000,AR
+2376,Balcarce 3619,Córdoba,Córdoba,CBA,5000,AR
+2377,Laprida 701,Bahía Blanca,Buenos Aires,BA,8000,AR
+2378,Laprida 4775,San Rafael,Mendoza,MZA,5600,AR
+2379,Güemes 4322,Godoy Cruz,Mendoza,MZA,5501,AR
+2380,Alsina 2056,Rosario,Santa Fe,SF,2000,AR
+2381,Av. Pellegrini 4138,San Isidro,Buenos Aires,BA,1642,AR
+2382,Balcarce 2926,Santa Fe,Santa Fe,SF,3000,AR
+2383,Av. Colón 217,Mendoza,Mendoza,MZA,5500,AR
+2384,Chacabuco 700,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2385,Urquiza 1100,Córdoba,Córdoba,CBA,5000,AR
+2386,Maipú 4106,La Plata,Buenos Aires,BA,1900,AR
+2387,Tucumán 2233,Quilmes,Buenos Aires,BA,1878,AR
+2388,Italia 3708,Rafaela,Santa Fe,SF,2300,AR
+2389,Tucumán 1999,Bahía Blanca,Buenos Aires,BA,8000,AR
+2390,Maipú 3770,San Isidro,Buenos Aires,BA,1642,AR
+2391,Sarmiento 3657,Rosario,Santa Fe,SF,2000,AR
+2392,Balcarce 318,Mendoza,Mendoza,MZA,5500,AR
+2393,Urquiza 3404,Córdoba,Córdoba,CBA,5000,AR
+2394,Balcarce 3048,Río Cuarto,Córdoba,CBA,5800,AR
+2395,Alem 4035,Córdoba,Córdoba,CBA,5000,AR
+2396,Urquiza 3854,La Plata,Buenos Aires,BA,1900,AR
+2397,Pueyrredón 664,Córdoba,Córdoba,CBA,5000,AR
+2398,España 3468,Córdoba,Córdoba,CBA,5000,AR
+2399,Chacabuco 4546,Córdoba,Córdoba,CBA,5000,AR
+2400,Maipú 3760,Córdoba,Córdoba,CBA,5000,AR
+2401,Av. Pellegrini 3831,Mendoza,Mendoza,MZA,5500,AR
+2402,Urquiza 3647,La Plata,Buenos Aires,BA,1900,AR
+2403,Italia 2701,Quilmes,Buenos Aires,BA,1878,AR
+2404,Independencia 161,Bahía Blanca,Buenos Aires,BA,8000,AR
+2405,Mitre 3151,Quilmes,Buenos Aires,BA,1878,AR
+2406,Italia 3674,Mendoza,Mendoza,MZA,5500,AR
+2407,España 3218,Córdoba,Córdoba,CBA,5000,AR
+2408,Balcarce 257,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2409,Pueyrredón 2368,Quilmes,Buenos Aires,BA,1878,AR
+2410,Mitre 4962,Godoy Cruz,Mendoza,MZA,5501,AR
+2411,Entre Ríos 1825,Santa Fe,Santa Fe,SF,3000,AR
+2412,9 de Julio 3924,Córdoba,Córdoba,CBA,5000,AR
+2413,Sarmiento 589,Córdoba,Córdoba,CBA,5000,AR
+2414,Castelli 2917,Rafaela,Santa Fe,SF,2300,AR
+2415,Entre Ríos 1437,San Isidro,Buenos Aires,BA,1642,AR
+2416,Sarmiento 2879,San Rafael,Mendoza,MZA,5600,AR
+2417,Alsina 3521,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2418,España 4248,Santa Fe,Santa Fe,SF,3000,AR
+2419,Dorrego 1018,San Isidro,Buenos Aires,BA,1642,AR
+2420,Belgrano 982,Santa Fe,Santa Fe,SF,3000,AR
+2421,Balcarce 2941,Córdoba,Córdoba,CBA,5000,AR
+2422,Independencia 2393,Quilmes,Buenos Aires,BA,1878,AR
+2423,Moreno 2080,Mar del Plata,Buenos Aires,BA,7600,AR
+2424,Dorrego 880,La Plata,Buenos Aires,BA,1900,AR
+2425,Balcarce 2957,Bahía Blanca,Buenos Aires,BA,8000,AR
+2426,Sarmiento 1700,San Rafael,Mendoza,MZA,5600,AR
+2427,25 de Mayo 4589,Rosario,Santa Fe,SF,2000,AR
+2428,Urquiza 2950,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2429,Pueyrredón 4152,Mendoza,Mendoza,MZA,5500,AR
+2430,Av. Pellegrini 3789,Bahía Blanca,Buenos Aires,BA,8000,AR
+2431,Maipú 4449,Rosario,Santa Fe,SF,2000,AR
+2432,Güemes 4406,Río Cuarto,Córdoba,CBA,5800,AR
+2433,Alsina 3486,Córdoba,Córdoba,CBA,5000,AR
+2434,Av. San Martín 3629,Bahía Blanca,Buenos Aires,BA,8000,AR
+2435,Av. Pellegrini 4158,Rosario,Santa Fe,SF,2000,AR
+2436,Güemes 1732,Mendoza,Mendoza,MZA,5500,AR
+2437,Av. Colón 4055,La Plata,Buenos Aires,BA,1900,AR
+2438,Lavalle 1078,Mendoza,Mendoza,MZA,5500,AR
+2439,Castelli 4160,La Plata,Buenos Aires,BA,1900,AR
+2440,Independencia 1348,San Isidro,Buenos Aires,BA,1642,AR
+2441,Independencia 1078,Godoy Cruz,Mendoza,MZA,5501,AR
+2442,Av. San Martín 504,Rosario,Santa Fe,SF,2000,AR
+2443,25 de Mayo 520,Quilmes,Buenos Aires,BA,1878,AR
+2444,Chacabuco 2612,La Plata,Buenos Aires,BA,1900,AR
+2445,Rivadavia 2410,Rafaela,Santa Fe,SF,2300,AR
+2446,Tucumán 529,San Rafael,Mendoza,MZA,5600,AR
+2447,Av. San Martín 3303,Mar del Plata,Buenos Aires,BA,7600,AR
+2448,Laprida 3615,Córdoba,Córdoba,CBA,5000,AR
+2449,Sarmiento 3872,Córdoba,Córdoba,CBA,5000,AR
+2450,Alsina 2380,Rafaela,Santa Fe,SF,2300,AR
+2451,25 de Mayo 4712,Santa Fe,Santa Fe,SF,3000,AR
+2452,Castelli 610,Mar del Plata,Buenos Aires,BA,7600,AR
+2453,Güemes 1474,La Plata,Buenos Aires,BA,1900,AR
+2454,Moreno 1392,Bahía Blanca,Buenos Aires,BA,8000,AR
+2455,Pueyrredón 234,Rosario,Santa Fe,SF,2000,AR
+2456,Castelli 3020,Mendoza,Mendoza,MZA,5500,AR
+2457,Tucumán 3278,Santa Fe,Santa Fe,SF,3000,AR
+2458,Laprida 952,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2459,Urquiza 3120,San Isidro,Buenos Aires,BA,1642,AR
+2460,Belgrano 2551,Córdoba,Córdoba,CBA,5000,AR
+2461,Tucumán 4925,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2462,Las Heras 4514,Santa Fe,Santa Fe,SF,3000,AR
+2463,Tucumán 4219,Quilmes,Buenos Aires,BA,1878,AR
+2464,Laprida 3298,Rafaela,Santa Fe,SF,2300,AR
+2465,Balcarce 2246,La Plata,Buenos Aires,BA,1900,AR
+2466,Maipú 2062,Córdoba,Córdoba,CBA,5000,AR
+2467,Moreno 3449,Rosario,Santa Fe,SF,2000,AR
+2468,Tucumán 3010,Rosario,Santa Fe,SF,2000,AR
+2469,Belgrano 993,San Isidro,Buenos Aires,BA,1642,AR
+2470,Castelli 1309,La Plata,Buenos Aires,BA,1900,AR
+2471,Maipú 534,Mendoza,Mendoza,MZA,5500,AR
+2472,Brown 4382,La Plata,Buenos Aires,BA,1900,AR
+2473,Mitre 524,Godoy Cruz,Mendoza,MZA,5501,AR
+2474,Av. San Martín 2779,San Rafael,Mendoza,MZA,5600,AR
+2475,Pueyrredón 3094,La Plata,Buenos Aires,BA,1900,AR
+2476,Lavalle 1840,Córdoba,Córdoba,CBA,5000,AR
+2477,Av. Colón 1635,Godoy Cruz,Mendoza,MZA,5501,AR
+2478,9 de Julio 3369,Córdoba,Córdoba,CBA,5000,AR
+2479,Balcarce 3355,Mendoza,Mendoza,MZA,5500,AR
+2480,Las Heras 3007,Río Cuarto,Córdoba,CBA,5800,AR
+2481,Av. Colón 2268,La Plata,Buenos Aires,BA,1900,AR
+2482,Tucumán 2623,La Plata,Buenos Aires,BA,1900,AR
+2483,Av. Pellegrini 2846,Santa Fe,Santa Fe,SF,3000,AR
+2484,25 de Mayo 3538,San Isidro,Buenos Aires,BA,1642,AR
+2485,Lavalle 2725,Mar del Plata,Buenos Aires,BA,7600,AR
+2486,Pueyrredón 2974,Godoy Cruz,Mendoza,MZA,5501,AR
+2487,Av. Colón 2608,Godoy Cruz,Mendoza,MZA,5501,AR
+2488,Moreno 3387,Godoy Cruz,Mendoza,MZA,5501,AR
+2489,Belgrano 3253,Rosario,Santa Fe,SF,2000,AR
+2490,Sarmiento 471,Córdoba,Córdoba,CBA,5000,AR
+2491,Brown 912,Santa Fe,Santa Fe,SF,3000,AR
+2492,Sarmiento 3429,Quilmes,Buenos Aires,BA,1878,AR
+2493,España 2312,Mendoza,Mendoza,MZA,5500,AR
+2494,25 de Mayo 1663,Mendoza,Mendoza,MZA,5500,AR
+2495,Lavalle 2776,Quilmes,Buenos Aires,BA,1878,AR
+2496,Pueyrredón 4334,Córdoba,Córdoba,CBA,5000,AR
+2497,Mitre 2116,Mar del Plata,Buenos Aires,BA,7600,AR
+2498,Castelli 1734,Quilmes,Buenos Aires,BA,1878,AR
+2499,Entre Ríos 229,Santa Fe,Santa Fe,SF,3000,AR
+2500,Belgrano 1580,Córdoba,Córdoba,CBA,5000,AR
+2501,Sarmiento 2543,La Plata,Buenos Aires,BA,1900,AR
+2502,Castelli 2254,Rosario,Santa Fe,SF,2000,AR
+2503,Sarmiento 1258,San Isidro,Buenos Aires,BA,1642,AR
+2504,Maipú 519,Córdoba,Córdoba,CBA,5000,AR
+2505,Moreno 3992,Bahía Blanca,Buenos Aires,BA,8000,AR
+2506,Av. San Martín 242,San Isidro,Buenos Aires,BA,1642,AR
+2507,Maipú 3760,La Plata,Buenos Aires,BA,1900,AR
+2508,Av. Pellegrini 2747,San Isidro,Buenos Aires,BA,1642,AR
+2509,Chacabuco 355,La Plata,Buenos Aires,BA,1900,AR
+2510,Balcarce 2710,Rosario,Santa Fe,SF,2000,AR
+2511,25 de Mayo 1163,Córdoba,Córdoba,CBA,5000,AR
+2512,Las Heras 4037,Córdoba,Córdoba,CBA,5000,AR
+2513,Entre Ríos 546,Córdoba,Córdoba,CBA,5000,AR
+2514,Av. Colón 1247,Mendoza,Mendoza,MZA,5500,AR
+2515,Maipú 2088,San Isidro,Buenos Aires,BA,1642,AR
+2516,Sarmiento 1356,Rafaela,Santa Fe,SF,2300,AR
+2517,Balcarce 1976,La Plata,Buenos Aires,BA,1900,AR
+2518,Dorrego 3050,Mendoza,Mendoza,MZA,5500,AR
+2519,Brown 4957,Godoy Cruz,Mendoza,MZA,5501,AR
+2520,25 de Mayo 2425,Rosario,Santa Fe,SF,2000,AR
+2521,Av. Colón 2999,Mar del Plata,Buenos Aires,BA,7600,AR
+2522,Mitre 3471,Mendoza,Mendoza,MZA,5500,AR
+2523,Dorrego 3902,Rosario,Santa Fe,SF,2000,AR
+2524,Entre Ríos 4852,Rosario,Santa Fe,SF,2000,AR
+2525,Pueyrredón 1168,Quilmes,Buenos Aires,BA,1878,AR
+2526,Mitre 4081,Córdoba,Córdoba,CBA,5000,AR
+2527,Chacabuco 1649,Santa Fe,Santa Fe,SF,3000,AR
+2528,Independencia 3007,Santa Fe,Santa Fe,SF,3000,AR
+2529,Mitre 1692,Quilmes,Buenos Aires,BA,1878,AR
+2530,Brown 3167,Rosario,Santa Fe,SF,2000,AR
+2531,Alsina 3050,La Plata,Buenos Aires,BA,1900,AR
+2532,Pueyrredón 4124,Rosario,Santa Fe,SF,2000,AR
+2533,Urquiza 2511,Quilmes,Buenos Aires,BA,1878,AR
+2534,España 4748,Mendoza,Mendoza,MZA,5500,AR
+2535,Mitre 987,Mar del Plata,Buenos Aires,BA,7600,AR
+2536,Mitre 4329,Córdoba,Córdoba,CBA,5000,AR
+2537,Av. San Martín 3183,La Plata,Buenos Aires,BA,1900,AR
+2538,Castelli 3230,Rosario,Santa Fe,SF,2000,AR
+2539,Tucumán 2160,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2540,Mitre 2031,Rosario,Santa Fe,SF,2000,AR
+2541,Dorrego 4697,Río Cuarto,Córdoba,CBA,5800,AR
+2542,Alem 1741,Rosario,Santa Fe,SF,2000,AR
+2543,Independencia 1899,Córdoba,Córdoba,CBA,5000,AR
+2544,Rivadavia 4776,San Isidro,Buenos Aires,BA,1642,AR
+2545,Laprida 813,Mendoza,Mendoza,MZA,5500,AR
+2546,Mitre 4997,Mar del Plata,Buenos Aires,BA,7600,AR
+2547,Sarmiento 1244,Godoy Cruz,Mendoza,MZA,5501,AR
+2548,Urquiza 194,Santa Fe,Santa Fe,SF,3000,AR
+2549,Chacabuco 3901,Córdoba,Córdoba,CBA,5000,AR
+2550,Alsina 742,Córdoba,Córdoba,CBA,5000,AR
+2551,Entre Ríos 3215,La Plata,Buenos Aires,BA,1900,AR
+2552,Tucumán 3211,Santa Fe,Santa Fe,SF,3000,AR
+2553,Belgrano 361,Córdoba,Córdoba,CBA,5000,AR
+2554,Lavalle 3798,Córdoba,Córdoba,CBA,5000,AR
+2555,Italia 2017,Mendoza,Mendoza,MZA,5500,AR
+2556,Güemes 2578,Córdoba,Córdoba,CBA,5000,AR
+2557,Independencia 3525,Mar del Plata,Buenos Aires,BA,7600,AR
+2558,Maipú 2467,San Isidro,Buenos Aires,BA,1642,AR
+2559,9 de Julio 2441,Córdoba,Córdoba,CBA,5000,AR
+2560,Tucumán 3594,San Rafael,Mendoza,MZA,5600,AR
+2561,Brown 200,La Plata,Buenos Aires,BA,1900,AR
+2562,Castelli 2377,Rosario,Santa Fe,SF,2000,AR
+2563,Chacabuco 1933,La Plata,Buenos Aires,BA,1900,AR
+2564,Entre Ríos 4444,Mendoza,Mendoza,MZA,5500,AR
+2565,Independencia 1991,Río Cuarto,Córdoba,CBA,5800,AR
+2566,Salta 3513,Rosario,Santa Fe,SF,2000,AR
+2567,Tucumán 2356,Rosario,Santa Fe,SF,2000,AR
+2568,Salta 1820,San Isidro,Buenos Aires,BA,1642,AR
+2569,Lavalle 3857,San Rafael,Mendoza,MZA,5600,AR
+2570,Av. San Martín 246,Córdoba,Córdoba,CBA,5000,AR
+2571,Italia 2137,La Plata,Buenos Aires,BA,1900,AR
+2572,Av. Pellegrini 4206,La Plata,Buenos Aires,BA,1900,AR
+2573,Av. Colón 3882,San Rafael,Mendoza,MZA,5600,AR
+2574,España 4215,La Plata,Buenos Aires,BA,1900,AR
+2575,Güemes 4693,San Isidro,Buenos Aires,BA,1642,AR
+2576,Brown 1618,Rosario,Santa Fe,SF,2000,AR
+2577,Güemes 1430,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2578,25 de Mayo 4300,Quilmes,Buenos Aires,BA,1878,AR
+2579,Rivadavia 2423,San Isidro,Buenos Aires,BA,1642,AR
+2580,Tucumán 2512,San Rafael,Mendoza,MZA,5600,AR
+2581,Tucumán 3594,San Isidro,Buenos Aires,BA,1642,AR
+2582,Castelli 3734,La Plata,Buenos Aires,BA,1900,AR
+2583,Güemes 3264,La Plata,Buenos Aires,BA,1900,AR
+2584,Rivadavia 3666,Bahía Blanca,Buenos Aires,BA,8000,AR
+2585,Pueyrredón 1630,Mendoza,Mendoza,MZA,5500,AR
+2586,Mitre 3505,Córdoba,Córdoba,CBA,5000,AR
+2587,9 de Julio 1222,Rafaela,Santa Fe,SF,2300,AR
+2588,Entre Ríos 2361,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2589,Urquiza 1900,Rafaela,Santa Fe,SF,2300,AR
+2590,Pueyrredón 1387,Quilmes,Buenos Aires,BA,1878,AR
+2591,Salta 1918,San Isidro,Buenos Aires,BA,1642,AR
+2592,Urquiza 2279,Rafaela,Santa Fe,SF,2300,AR
+2593,Alem 949,La Plata,Buenos Aires,BA,1900,AR
+2594,Independencia 3628,Rafaela,Santa Fe,SF,2300,AR
+2595,España 626,Córdoba,Córdoba,CBA,5000,AR
+2596,Av. Colón 995,Rosario,Santa Fe,SF,2000,AR
+2597,Güemes 4002,Rosario,Santa Fe,SF,2000,AR
+2598,Belgrano 3875,Córdoba,Córdoba,CBA,5000,AR
+2599,Balcarce 1069,Rafaela,Santa Fe,SF,2300,AR
+2600,Rivadavia 1757,Rosario,Santa Fe,SF,2000,AR
+2601,Laprida 3641,Córdoba,Córdoba,CBA,5000,AR
+2602,Pueyrredón 861,Córdoba,Córdoba,CBA,5000,AR
+2603,Av. Pellegrini 2110,Santa Fe,Santa Fe,SF,3000,AR
+2604,Italia 2470,Mar del Plata,Buenos Aires,BA,7600,AR
+2605,Pueyrredón 2998,Córdoba,Córdoba,CBA,5000,AR
+2606,Chacabuco 554,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2607,Alsina 2486,Mar del Plata,Buenos Aires,BA,7600,AR
+2608,Las Heras 113,Santa Fe,Santa Fe,SF,3000,AR
+2609,España 3343,Mendoza,Mendoza,MZA,5500,AR
+2610,Balcarce 3435,San Isidro,Buenos Aires,BA,1642,AR
+2611,Entre Ríos 1950,Rosario,Santa Fe,SF,2000,AR
+2612,Laprida 3028,Córdoba,Córdoba,CBA,5000,AR
+2613,Salta 3220,Río Cuarto,Córdoba,CBA,5800,AR
+2614,Lavalle 214,Mar del Plata,Buenos Aires,BA,7600,AR
+2615,España 1082,Mar del Plata,Buenos Aires,BA,7600,AR
+2616,Salta 3455,Quilmes,Buenos Aires,BA,1878,AR
+2617,Chacabuco 4913,Rosario,Santa Fe,SF,2000,AR
+2618,Salta 4160,Córdoba,Córdoba,CBA,5000,AR
+2619,Tucumán 4601,San Isidro,Buenos Aires,BA,1642,AR
+2620,Dorrego 1608,Mendoza,Mendoza,MZA,5500,AR
+2621,Pueyrredón 660,Rafaela,Santa Fe,SF,2300,AR
+2622,Balcarce 3957,Rafaela,Santa Fe,SF,2300,AR
+2623,Italia 2177,Quilmes,Buenos Aires,BA,1878,AR
+2624,Brown 3650,Santa Fe,Santa Fe,SF,3000,AR
+2625,Pueyrredón 509,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2626,Las Heras 1575,Quilmes,Buenos Aires,BA,1878,AR
+2627,Rivadavia 722,Bahía Blanca,Buenos Aires,BA,8000,AR
+2628,25 de Mayo 3446,Rosario,Santa Fe,SF,2000,AR
+2629,Dorrego 526,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2630,9 de Julio 4053,San Isidro,Buenos Aires,BA,1642,AR
+2631,Balcarce 4944,Santa Fe,Santa Fe,SF,3000,AR
+2632,Castelli 807,Córdoba,Córdoba,CBA,5000,AR
+2633,Laprida 3279,La Plata,Buenos Aires,BA,1900,AR
+2634,Belgrano 713,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2635,España 1414,Rosario,Santa Fe,SF,2000,AR
+2636,Av. Colón 4623,San Isidro,Buenos Aires,BA,1642,AR
+2637,Brown 2413,Córdoba,Córdoba,CBA,5000,AR
+2638,Rivadavia 1567,Santa Fe,Santa Fe,SF,3000,AR
+2639,Sarmiento 790,Santa Fe,Santa Fe,SF,3000,AR
+2640,Entre Ríos 249,La Plata,Buenos Aires,BA,1900,AR
+2641,Moreno 1698,San Isidro,Buenos Aires,BA,1642,AR
+2642,25 de Mayo 1963,Mar del Plata,Buenos Aires,BA,7600,AR
+2643,Chacabuco 1764,Mar del Plata,Buenos Aires,BA,7600,AR
+2644,Av. Colón 2838,Córdoba,Córdoba,CBA,5000,AR
+2645,Av. Colón 1906,La Plata,Buenos Aires,BA,1900,AR
+2646,Pueyrredón 1846,Mar del Plata,Buenos Aires,BA,7600,AR
+2647,Av. Pellegrini 473,Córdoba,Córdoba,CBA,5000,AR
+2648,Castelli 292,Rafaela,Santa Fe,SF,2300,AR
+2649,Av. San Martín 3330,Córdoba,Córdoba,CBA,5000,AR
+2650,Rivadavia 1932,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2651,25 de Mayo 1654,Santa Fe,Santa Fe,SF,3000,AR
+2652,Rivadavia 4692,Mar del Plata,Buenos Aires,BA,7600,AR
+2653,Belgrano 3774,Mendoza,Mendoza,MZA,5500,AR
+2654,Tucumán 3153,La Plata,Buenos Aires,BA,1900,AR
+2655,Brown 1125,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2656,Güemes 2138,Mendoza,Mendoza,MZA,5500,AR
+2657,Alsina 4002,Santa Fe,Santa Fe,SF,3000,AR
+2658,Urquiza 1797,Mar del Plata,Buenos Aires,BA,7600,AR
+2659,Alsina 321,Córdoba,Córdoba,CBA,5000,AR
+2660,Dorrego 3928,Mar del Plata,Buenos Aires,BA,7600,AR
+2661,Moreno 1871,San Isidro,Buenos Aires,BA,1642,AR
+2662,Av. Pellegrini 3007,Rosario,Santa Fe,SF,2000,AR
+2663,Av. Colón 4273,Río Cuarto,Córdoba,CBA,5800,AR
+2664,Maipú 1623,Rosario,Santa Fe,SF,2000,AR
+2665,Dorrego 949,Río Cuarto,Córdoba,CBA,5800,AR
+2666,Castelli 275,Río Cuarto,Córdoba,CBA,5800,AR
+2667,Urquiza 2517,Bahía Blanca,Buenos Aires,BA,8000,AR
+2668,Güemes 102,Santa Fe,Santa Fe,SF,3000,AR
+2669,Mitre 4080,San Rafael,Mendoza,MZA,5600,AR
+2670,Laprida 4340,Mendoza,Mendoza,MZA,5500,AR
+2671,España 705,La Plata,Buenos Aires,BA,1900,AR
+2672,Salta 1072,Mar del Plata,Buenos Aires,BA,7600,AR
+2673,Av. Colón 4451,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2674,9 de Julio 4744,Quilmes,Buenos Aires,BA,1878,AR
+2675,Alsina 2202,La Plata,Buenos Aires,BA,1900,AR
+2676,Lavalle 4178,Quilmes,Buenos Aires,BA,1878,AR
+2677,Güemes 2253,Rosario,Santa Fe,SF,2000,AR
+2678,Salta 3051,La Plata,Buenos Aires,BA,1900,AR
+2679,Independencia 2936,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2680,Salta 1470,Río Cuarto,Córdoba,CBA,5800,AR
+2681,Sarmiento 3252,La Plata,Buenos Aires,BA,1900,AR
+2682,Italia 3002,San Isidro,Buenos Aires,BA,1642,AR
+2683,Mitre 1373,Mendoza,Mendoza,MZA,5500,AR
+2684,Laprida 387,Quilmes,Buenos Aires,BA,1878,AR
+2685,Italia 4825,Córdoba,Córdoba,CBA,5000,AR
+2686,Güemes 3894,Río Cuarto,Córdoba,CBA,5800,AR
+2687,Brown 4220,Córdoba,Córdoba,CBA,5000,AR
+2688,Moreno 1356,Santa Fe,Santa Fe,SF,3000,AR
+2689,25 de Mayo 3587,Córdoba,Córdoba,CBA,5000,AR
+2690,Maipú 567,Rosario,Santa Fe,SF,2000,AR
+2691,Chacabuco 3280,Mendoza,Mendoza,MZA,5500,AR
+2692,Entre Ríos 2661,Rosario,Santa Fe,SF,2000,AR
+2693,Tucumán 2659,San Rafael,Mendoza,MZA,5600,AR
+2694,Chacabuco 3916,Mar del Plata,Buenos Aires,BA,7600,AR
+2695,Rivadavia 2319,Mendoza,Mendoza,MZA,5500,AR
+2696,Moreno 3726,Bahía Blanca,Buenos Aires,BA,8000,AR
+2697,Güemes 2527,Córdoba,Córdoba,CBA,5000,AR
+2698,Belgrano 2297,Quilmes,Buenos Aires,BA,1878,AR
+2699,Laprida 2491,Córdoba,Córdoba,CBA,5000,AR
+2700,Sarmiento 3228,Mendoza,Mendoza,MZA,5500,AR
+2701,Brown 3795,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2702,Castelli 818,Godoy Cruz,Mendoza,MZA,5501,AR
+2703,Balcarce 3011,Córdoba,Córdoba,CBA,5000,AR
+2704,Balcarce 1382,Rafaela,Santa Fe,SF,2300,AR
+2705,España 2251,Quilmes,Buenos Aires,BA,1878,AR
+2706,Maipú 4381,San Isidro,Buenos Aires,BA,1642,AR
+2707,Las Heras 1444,La Plata,Buenos Aires,BA,1900,AR
+2708,Chacabuco 1042,Quilmes,Buenos Aires,BA,1878,AR
+2709,Brown 939,Córdoba,Córdoba,CBA,5000,AR
+2710,25 de Mayo 3733,Córdoba,Córdoba,CBA,5000,AR
+2711,Belgrano 3609,Santa Fe,Santa Fe,SF,3000,AR
+2712,Balcarce 2076,San Isidro,Buenos Aires,BA,1642,AR
+2713,Av. Pellegrini 4447,Bahía Blanca,Buenos Aires,BA,8000,AR
+2714,Lavalle 565,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2715,Av. San Martín 2174,Quilmes,Buenos Aires,BA,1878,AR
+2716,Brown 3551,La Plata,Buenos Aires,BA,1900,AR
+2717,Belgrano 3239,Quilmes,Buenos Aires,BA,1878,AR
+2718,Castelli 1353,Bahía Blanca,Buenos Aires,BA,8000,AR
+2719,Italia 1303,Quilmes,Buenos Aires,BA,1878,AR
+2720,Laprida 2545,Córdoba,Córdoba,CBA,5000,AR
+2721,Alem 1872,La Plata,Buenos Aires,BA,1900,AR
+2722,Laprida 643,Córdoba,Córdoba,CBA,5000,AR
+2723,Av. Pellegrini 1866,Córdoba,Córdoba,CBA,5000,AR
+2724,Alsina 4602,Bahía Blanca,Buenos Aires,BA,8000,AR
+2725,Mitre 3256,Santa Fe,Santa Fe,SF,3000,AR
+2726,Av. Colón 3153,Quilmes,Buenos Aires,BA,1878,AR
+2727,Entre Ríos 2656,San Isidro,Buenos Aires,BA,1642,AR
+2728,Castelli 4572,Córdoba,Córdoba,CBA,5000,AR
+2729,Sarmiento 4750,La Plata,Buenos Aires,BA,1900,AR
+2730,Rivadavia 838,Santa Fe,Santa Fe,SF,3000,AR
+2731,Sarmiento 4798,San Rafael,Mendoza,MZA,5600,AR
+2732,Belgrano 2423,Córdoba,Córdoba,CBA,5000,AR
+2733,Av. San Martín 3108,Córdoba,Córdoba,CBA,5000,AR
+2734,Pueyrredón 4804,Rosario,Santa Fe,SF,2000,AR
+2735,Brown 1240,Quilmes,Buenos Aires,BA,1878,AR
+2736,Av. Colón 3968,Mendoza,Mendoza,MZA,5500,AR
+2737,Alem 3020,Mar del Plata,Buenos Aires,BA,7600,AR
+2738,Moreno 1946,San Rafael,Mendoza,MZA,5600,AR
+2739,Tucumán 1994,Mendoza,Mendoza,MZA,5500,AR
+2740,Las Heras 4988,Rafaela,Santa Fe,SF,2300,AR
+2741,Urquiza 4203,La Plata,Buenos Aires,BA,1900,AR
+2742,Tucumán 4738,Río Cuarto,Córdoba,CBA,5800,AR
+2743,Sarmiento 1091,Santa Fe,Santa Fe,SF,3000,AR
+2744,Italia 4598,La Plata,Buenos Aires,BA,1900,AR
+2745,Av. Colón 724,Godoy Cruz,Mendoza,MZA,5501,AR
+2746,Sarmiento 782,Mendoza,Mendoza,MZA,5500,AR
+2747,Chacabuco 1386,Quilmes,Buenos Aires,BA,1878,AR
+2748,Salta 974,Mendoza,Mendoza,MZA,5500,AR
+2749,Güemes 3034,Córdoba,Córdoba,CBA,5000,AR
+2750,Alsina 4992,Rosario,Santa Fe,SF,2000,AR
+2751,Urquiza 619,La Plata,Buenos Aires,BA,1900,AR
+2752,Av. Colón 4322,San Isidro,Buenos Aires,BA,1642,AR
+2753,Entre Ríos 3671,Godoy Cruz,Mendoza,MZA,5501,AR
+2754,Brown 809,Rafaela,Santa Fe,SF,2300,AR
+2755,Independencia 2837,La Plata,Buenos Aires,BA,1900,AR
+2756,9 de Julio 2309,Mar del Plata,Buenos Aires,BA,7600,AR
+2757,Pueyrredón 4941,Mendoza,Mendoza,MZA,5500,AR
+2758,Entre Ríos 1272,Mar del Plata,Buenos Aires,BA,7600,AR
+2759,Salta 1340,Córdoba,Córdoba,CBA,5000,AR
+2760,Las Heras 4023,Quilmes,Buenos Aires,BA,1878,AR
+2761,9 de Julio 4495,San Isidro,Buenos Aires,BA,1642,AR
+2762,Balcarce 4165,San Rafael,Mendoza,MZA,5600,AR
+2763,Dorrego 4418,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2764,Mitre 2363,La Plata,Buenos Aires,BA,1900,AR
+2765,Italia 2289,Córdoba,Córdoba,CBA,5000,AR
+2766,Pueyrredón 3812,Mar del Plata,Buenos Aires,BA,7600,AR
+2767,Güemes 1599,Rosario,Santa Fe,SF,2000,AR
+2768,España 1916,Córdoba,Córdoba,CBA,5000,AR
+2769,Lavalle 2323,Córdoba,Córdoba,CBA,5000,AR
+2770,Rivadavia 794,Córdoba,Córdoba,CBA,5000,AR
+2771,Av. Pellegrini 4917,Rafaela,Santa Fe,SF,2300,AR
+2772,Dorrego 2875,Rafaela,Santa Fe,SF,2300,AR
+2773,9 de Julio 2059,Córdoba,Córdoba,CBA,5000,AR
+2774,Chacabuco 3846,Quilmes,Buenos Aires,BA,1878,AR
+2775,Sarmiento 4839,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2776,Chacabuco 2829,Quilmes,Buenos Aires,BA,1878,AR
+2777,Pueyrredón 3537,Rafaela,Santa Fe,SF,2300,AR
+2778,Tucumán 3484,La Plata,Buenos Aires,BA,1900,AR
+2779,Güemes 2446,Santa Fe,Santa Fe,SF,3000,AR
+2780,Maipú 4530,La Plata,Buenos Aires,BA,1900,AR
+2781,Belgrano 786,Quilmes,Buenos Aires,BA,1878,AR
+2782,Av. San Martín 2102,Bahía Blanca,Buenos Aires,BA,8000,AR
+2783,Av. Colón 3305,San Rafael,Mendoza,MZA,5600,AR
+2784,Brown 198,Mar del Plata,Buenos Aires,BA,7600,AR
+2785,Italia 4850,Mar del Plata,Buenos Aires,BA,7600,AR
+2786,Balcarce 254,Río Cuarto,Córdoba,CBA,5800,AR
+2787,España 510,Mar del Plata,Buenos Aires,BA,7600,AR
+2788,Maipú 3935,Rosario,Santa Fe,SF,2000,AR
+2789,Av. Colón 822,Córdoba,Córdoba,CBA,5000,AR
+2790,Italia 116,Bahía Blanca,Buenos Aires,BA,8000,AR
+2791,Dorrego 2198,San Rafael,Mendoza,MZA,5600,AR
+2792,España 3333,San Isidro,Buenos Aires,BA,1642,AR
+2793,Moreno 4348,Rosario,Santa Fe,SF,2000,AR
+2794,Av. San Martín 1770,La Plata,Buenos Aires,BA,1900,AR
+2795,Laprida 3725,Mar del Plata,Buenos Aires,BA,7600,AR
+2796,Pueyrredón 2353,Mar del Plata,Buenos Aires,BA,7600,AR
+2797,Las Heras 3321,Córdoba,Córdoba,CBA,5000,AR
+2798,Güemes 1104,San Isidro,Buenos Aires,BA,1642,AR
+2799,Dorrego 4999,Río Cuarto,Córdoba,CBA,5800,AR
+2800,Castelli 4331,Rosario,Santa Fe,SF,2000,AR
+2801,Av. Colón 908,Córdoba,Córdoba,CBA,5000,AR
+2802,Las Heras 1475,San Rafael,Mendoza,MZA,5600,AR
+2803,Salta 345,Santa Fe,Santa Fe,SF,3000,AR
+2804,Lavalle 474,Mendoza,Mendoza,MZA,5500,AR
+2805,Brown 4203,Mendoza,Mendoza,MZA,5500,AR
+2806,España 4168,Rosario,Santa Fe,SF,2000,AR
+2807,Las Heras 4537,Córdoba,Córdoba,CBA,5000,AR
+2808,Pueyrredón 612,Quilmes,Buenos Aires,BA,1878,AR
+2809,Lavalle 1050,Santa Fe,Santa Fe,SF,3000,AR
+2810,Las Heras 3550,Mar del Plata,Buenos Aires,BA,7600,AR
+2811,Tucumán 354,Quilmes,Buenos Aires,BA,1878,AR
+2812,Brown 1814,Mendoza,Mendoza,MZA,5500,AR
+2813,Chacabuco 3083,Mar del Plata,Buenos Aires,BA,7600,AR
+2814,Urquiza 4645,La Plata,Buenos Aires,BA,1900,AR
+2815,Balcarce 4624,Mar del Plata,Buenos Aires,BA,7600,AR
+2816,Castelli 1000,Rosario,Santa Fe,SF,2000,AR
+2817,Balcarce 612,Rosario,Santa Fe,SF,2000,AR
+2818,Castelli 2198,Mar del Plata,Buenos Aires,BA,7600,AR
+2819,Av. San Martín 986,La Plata,Buenos Aires,BA,1900,AR
+2820,Las Heras 1740,Córdoba,Córdoba,CBA,5000,AR
+2821,Belgrano 3803,Córdoba,Córdoba,CBA,5000,AR
+2822,Balcarce 3532,Córdoba,Córdoba,CBA,5000,AR
+2823,Mitre 3900,La Plata,Buenos Aires,BA,1900,AR
+2824,Italia 570,La Plata,Buenos Aires,BA,1900,AR
+2825,Laprida 1109,La Plata,Buenos Aires,BA,1900,AR
+2826,Alsina 4709,Córdoba,Córdoba,CBA,5000,AR
+2827,Moreno 3277,La Plata,Buenos Aires,BA,1900,AR
+2828,Independencia 1311,San Isidro,Buenos Aires,BA,1642,AR
+2829,Lavalle 3745,Córdoba,Córdoba,CBA,5000,AR
+2830,Moreno 2880,Rosario,Santa Fe,SF,2000,AR
+2831,Dorrego 3959,Santa Fe,Santa Fe,SF,3000,AR
+2832,Italia 815,Córdoba,Córdoba,CBA,5000,AR
+2833,Moreno 2566,Rafaela,Santa Fe,SF,2300,AR
+2834,España 2241,Mar del Plata,Buenos Aires,BA,7600,AR
+2835,Lavalle 4545,Bahía Blanca,Buenos Aires,BA,8000,AR
+2836,Av. Colón 776,Mar del Plata,Buenos Aires,BA,7600,AR
+2837,Italia 2595,Mar del Plata,Buenos Aires,BA,7600,AR
+2838,Salta 2755,Mendoza,Mendoza,MZA,5500,AR
+2839,Entre Ríos 2800,San Isidro,Buenos Aires,BA,1642,AR
+2840,Alsina 3468,Godoy Cruz,Mendoza,MZA,5501,AR
+2841,Castelli 1751,La Plata,Buenos Aires,BA,1900,AR
+2842,25 de Mayo 2349,Río Cuarto,Córdoba,CBA,5800,AR
+2843,25 de Mayo 2270,Godoy Cruz,Mendoza,MZA,5501,AR
+2844,Tucumán 4761,Bahía Blanca,Buenos Aires,BA,8000,AR
+2845,Brown 2139,San Isidro,Buenos Aires,BA,1642,AR
+2846,9 de Julio 2933,Mar del Plata,Buenos Aires,BA,7600,AR
+2847,Balcarce 4913,Mendoza,Mendoza,MZA,5500,AR
+2848,Av. Colón 4115,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2849,Maipú 658,San Isidro,Buenos Aires,BA,1642,AR
+2850,Av. San Martín 2262,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2851,Urquiza 1295,Córdoba,Córdoba,CBA,5000,AR
+2852,Chacabuco 3356,Mendoza,Mendoza,MZA,5500,AR
+2853,Belgrano 2515,San Isidro,Buenos Aires,BA,1642,AR
+2854,Italia 879,Godoy Cruz,Mendoza,MZA,5501,AR
+2855,Av. Pellegrini 4613,Mar del Plata,Buenos Aires,BA,7600,AR
+2856,Mitre 2217,Godoy Cruz,Mendoza,MZA,5501,AR
+2857,Dorrego 925,La Plata,Buenos Aires,BA,1900,AR
+2858,Rivadavia 966,Bahía Blanca,Buenos Aires,BA,8000,AR
+2859,Independencia 2730,Rosario,Santa Fe,SF,2000,AR
+2860,Dorrego 1448,Río Cuarto,Córdoba,CBA,5800,AR
+2861,Maipú 3364,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2862,Italia 1487,Santa Fe,Santa Fe,SF,3000,AR
+2863,9 de Julio 800,Rosario,Santa Fe,SF,2000,AR
+2864,Alem 2615,La Plata,Buenos Aires,BA,1900,AR
+2865,Alem 1894,Córdoba,Córdoba,CBA,5000,AR
+2866,Italia 4529,Rosario,Santa Fe,SF,2000,AR
+2867,Italia 3140,Río Cuarto,Córdoba,CBA,5800,AR
+2868,Av. Colón 302,Rosario,Santa Fe,SF,2000,AR
+2869,Pueyrredón 4047,Mar del Plata,Buenos Aires,BA,7600,AR
+2870,Sarmiento 4544,Godoy Cruz,Mendoza,MZA,5501,AR
+2871,Mitre 4464,Mendoza,Mendoza,MZA,5500,AR
+2872,Laprida 3129,Rosario,Santa Fe,SF,2000,AR
+2873,Italia 3368,San Isidro,Buenos Aires,BA,1642,AR
+2874,Rivadavia 1916,La Plata,Buenos Aires,BA,1900,AR
+2875,Pueyrredón 2281,Bahía Blanca,Buenos Aires,BA,8000,AR
+2876,Independencia 1853,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2877,Castelli 1345,Córdoba,Córdoba,CBA,5000,AR
+2878,9 de Julio 524,Santa Fe,Santa Fe,SF,3000,AR
+2879,Castelli 1054,Godoy Cruz,Mendoza,MZA,5501,AR
+2880,Independencia 1041,San Rafael,Mendoza,MZA,5600,AR
+2881,Chacabuco 3466,Rosario,Santa Fe,SF,2000,AR
+2882,Dorrego 913,Córdoba,Córdoba,CBA,5000,AR
+2883,Moreno 2824,Rosario,Santa Fe,SF,2000,AR
+2884,Salta 3962,Córdoba,Córdoba,CBA,5000,AR
+2885,Chacabuco 3029,La Plata,Buenos Aires,BA,1900,AR
+2886,Alem 2353,San Isidro,Buenos Aires,BA,1642,AR
+2887,Alem 3254,Córdoba,Córdoba,CBA,5000,AR
+2888,Maipú 3086,Córdoba,Córdoba,CBA,5000,AR
+2889,Balcarce 2212,Quilmes,Buenos Aires,BA,1878,AR
+2890,Sarmiento 2033,Santa Fe,Santa Fe,SF,3000,AR
+2891,Belgrano 2110,Córdoba,Córdoba,CBA,5000,AR
+2892,Rivadavia 3414,San Isidro,Buenos Aires,BA,1642,AR
+2893,Las Heras 1656,San Isidro,Buenos Aires,BA,1642,AR
+2894,9 de Julio 4999,La Plata,Buenos Aires,BA,1900,AR
+2895,España 3732,Rosario,Santa Fe,SF,2000,AR
+2896,Sarmiento 1523,La Plata,Buenos Aires,BA,1900,AR
+2897,España 898,Mar del Plata,Buenos Aires,BA,7600,AR
+2898,Rivadavia 4930,Mar del Plata,Buenos Aires,BA,7600,AR
+2899,Chacabuco 4760,Mar del Plata,Buenos Aires,BA,7600,AR
+2900,Sarmiento 1317,Rosario,Santa Fe,SF,2000,AR
+2901,España 539,Bahía Blanca,Buenos Aires,BA,8000,AR
+2902,Laprida 4477,Quilmes,Buenos Aires,BA,1878,AR
+2903,Av. Colón 1203,Quilmes,Buenos Aires,BA,1878,AR
+2904,Güemes 3011,Mar del Plata,Buenos Aires,BA,7600,AR
+2905,Pueyrredón 4232,Quilmes,Buenos Aires,BA,1878,AR
+2906,Brown 3081,Córdoba,Córdoba,CBA,5000,AR
+2907,Pueyrredón 404,Godoy Cruz,Mendoza,MZA,5501,AR
+2908,Salta 270,Rosario,Santa Fe,SF,2000,AR
+2909,Rivadavia 354,Rosario,Santa Fe,SF,2000,AR
+2910,Av. Colón 4606,Río Cuarto,Córdoba,CBA,5800,AR
+2911,Salta 1191,Rosario,Santa Fe,SF,2000,AR
+2912,Balcarce 3191,Mendoza,Mendoza,MZA,5500,AR
+2913,España 4276,Córdoba,Córdoba,CBA,5000,AR
+2914,Rivadavia 2028,Mar del Plata,Buenos Aires,BA,7600,AR
+2915,Las Heras 1621,Santa Fe,Santa Fe,SF,3000,AR
+2916,Alsina 4198,Quilmes,Buenos Aires,BA,1878,AR
+2917,Italia 3246,Rosario,Santa Fe,SF,2000,AR
+2918,Italia 2274,Rosario,Santa Fe,SF,2000,AR
+2919,9 de Julio 3719,Córdoba,Córdoba,CBA,5000,AR
+2920,Pueyrredón 2998,Córdoba,Córdoba,CBA,5000,AR
+2921,Av. Colón 4333,Río Cuarto,Córdoba,CBA,5800,AR
+2922,Av. San Martín 2589,Quilmes,Buenos Aires,BA,1878,AR
+2923,Urquiza 2203,La Plata,Buenos Aires,BA,1900,AR
+2924,Italia 3186,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2925,9 de Julio 3728,Godoy Cruz,Mendoza,MZA,5501,AR
+2926,España 4229,Santa Fe,Santa Fe,SF,3000,AR
+2927,Las Heras 2304,Rosario,Santa Fe,SF,2000,AR
+2928,Italia 4964,San Isidro,Buenos Aires,BA,1642,AR
+2929,España 775,San Isidro,Buenos Aires,BA,1642,AR
+2930,Rivadavia 908,Bahía Blanca,Buenos Aires,BA,8000,AR
+2931,Mitre 1636,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2932,Lavalle 3969,San Rafael,Mendoza,MZA,5600,AR
+2933,25 de Mayo 4125,Santa Fe,Santa Fe,SF,3000,AR
+2934,Salta 620,Santa Fe,Santa Fe,SF,3000,AR
+2935,Pueyrredón 4039,Mendoza,Mendoza,MZA,5500,AR
+2936,Brown 3719,Bahía Blanca,Buenos Aires,BA,8000,AR
+2937,Italia 4557,Godoy Cruz,Mendoza,MZA,5501,AR
+2938,Independencia 4402,Mar del Plata,Buenos Aires,BA,7600,AR
+2939,España 586,La Plata,Buenos Aires,BA,1900,AR
+2940,Alem 2351,Córdoba,Córdoba,CBA,5000,AR
+2941,25 de Mayo 3183,La Plata,Buenos Aires,BA,1900,AR
+2942,Balcarce 3548,Córdoba,Córdoba,CBA,5000,AR
+2943,Alem 3023,Santa Fe,Santa Fe,SF,3000,AR
+2944,Rivadavia 236,San Isidro,Buenos Aires,BA,1642,AR
+2945,Balcarce 2269,Mendoza,Mendoza,MZA,5500,AR
+2946,Mitre 1845,Mar del Plata,Buenos Aires,BA,7600,AR
+2947,Brown 2577,Mendoza,Mendoza,MZA,5500,AR
+2948,Alsina 2363,Rosario,Santa Fe,SF,2000,AR
+2949,Dorrego 633,San Isidro,Buenos Aires,BA,1642,AR
+2950,Sarmiento 3805,Godoy Cruz,Mendoza,MZA,5501,AR
+2951,25 de Mayo 1973,Santa Fe,Santa Fe,SF,3000,AR
+2952,Independencia 4149,Godoy Cruz,Mendoza,MZA,5501,AR
+2953,Rivadavia 4074,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2954,Av. Colón 4976,Rafaela,Santa Fe,SF,2300,AR
+2955,Entre Ríos 3032,La Plata,Buenos Aires,BA,1900,AR
+2956,Güemes 4414,Godoy Cruz,Mendoza,MZA,5501,AR
+2957,Alsina 2215,Godoy Cruz,Mendoza,MZA,5501,AR
+2958,Moreno 3956,San Isidro,Buenos Aires,BA,1642,AR
+2959,25 de Mayo 2954,Santa Fe,Santa Fe,SF,3000,AR
+2960,Italia 2753,Rosario,Santa Fe,SF,2000,AR
+2961,Castelli 3737,Mendoza,Mendoza,MZA,5500,AR
+2962,Av. Pellegrini 2550,Godoy Cruz,Mendoza,MZA,5501,AR
+2963,España 2220,San Isidro,Buenos Aires,BA,1642,AR
+2964,Tucumán 275,La Plata,Buenos Aires,BA,1900,AR
+2965,Italia 3100,Rosario,Santa Fe,SF,2000,AR
+2966,Sarmiento 2458,Córdoba,Córdoba,CBA,5000,AR
+2967,Las Heras 149,Córdoba,Córdoba,CBA,5000,AR
+2968,Moreno 4830,Rosario,Santa Fe,SF,2000,AR
+2969,Chacabuco 677,Córdoba,Córdoba,CBA,5000,AR
+2970,Urquiza 269,Quilmes,Buenos Aires,BA,1878,AR
+2971,Laprida 984,Rosario,Santa Fe,SF,2000,AR
+2972,Independencia 1036,La Plata,Buenos Aires,BA,1900,AR
+2973,Av. San Martín 1830,Córdoba,Córdoba,CBA,5000,AR
+2974,Rivadavia 4241,Mendoza,Mendoza,MZA,5500,AR
+2975,Balcarce 4619,Rosario,Santa Fe,SF,2000,AR
+2976,Güemes 1820,Mar del Plata,Buenos Aires,BA,7600,AR
+2977,Güemes 4713,Río Cuarto,Córdoba,CBA,5800,AR
+2978,Alem 4982,Rosario,Santa Fe,SF,2000,AR
+2979,Chacabuco 437,Mendoza,Mendoza,MZA,5500,AR
+2980,Las Heras 4251,Godoy Cruz,Mendoza,MZA,5501,AR
+2981,Italia 532,Bahía Blanca,Buenos Aires,BA,8000,AR
+2982,Güemes 509,La Plata,Buenos Aires,BA,1900,AR
+2983,Alsina 1951,Córdoba,Córdoba,CBA,5000,AR
+2984,Las Heras 3564,Mar del Plata,Buenos Aires,BA,7600,AR
+2985,Entre Ríos 1766,La Plata,Buenos Aires,BA,1900,AR
+2986,Lavalle 2190,La Plata,Buenos Aires,BA,1900,AR
+2987,25 de Mayo 384,San Isidro,Buenos Aires,BA,1642,AR
+2988,Av. San Martín 161,San Rafael,Mendoza,MZA,5600,AR
+2989,Tucumán 1889,Santa Fe,Santa Fe,SF,3000,AR
+2990,Dorrego 414,La Plata,Buenos Aires,BA,1900,AR
+2991,Entre Ríos 1306,Bahía Blanca,Buenos Aires,BA,8000,AR
+2992,Pueyrredón 3776,Quilmes,Buenos Aires,BA,1878,AR
+2993,Balcarce 849,Bahía Blanca,Buenos Aires,BA,8000,AR
+2994,Dorrego 1069,La Plata,Buenos Aires,BA,1900,AR
+2995,Brown 3467,San Rafael,Mendoza,MZA,5600,AR
+2996,Castelli 3920,Mendoza,Mendoza,MZA,5500,AR
+2997,Av. Pellegrini 4485,Rosario,Santa Fe,SF,2000,AR
+2998,Tucumán 743,Villa Carlos Paz,Córdoba,CBA,5152,AR
+2999,Laprida 4113,Mar del Plata,Buenos Aires,BA,7600,AR
+3000,Sarmiento 4643,San Rafael,Mendoza,MZA,5600,AR
+3001,Chacabuco 4971,Santa Fe,Santa Fe,SF,3000,AR
+3002,Castelli 1317,San Rafael,Mendoza,MZA,5600,AR
+3003,Alem 2730,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3004,Entre Ríos 1031,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3005,Italia 2312,Quilmes,Buenos Aires,BA,1878,AR
+3006,Urquiza 2249,Rosario,Santa Fe,SF,2000,AR
+3007,Güemes 4258,Santa Fe,Santa Fe,SF,3000,AR
+3008,Alsina 2596,Mendoza,Mendoza,MZA,5500,AR
+3009,España 3512,Rosario,Santa Fe,SF,2000,AR
+3010,Laprida 690,Rosario,Santa Fe,SF,2000,AR
+3011,Tucumán 4233,Rafaela,Santa Fe,SF,2300,AR
+3012,Independencia 2490,Rosario,Santa Fe,SF,2000,AR
+3013,Av. Pellegrini 4871,Mar del Plata,Buenos Aires,BA,7600,AR
+3014,Las Heras 1356,Río Cuarto,Córdoba,CBA,5800,AR
+3015,Sarmiento 4651,Río Cuarto,Córdoba,CBA,5800,AR
+3016,Av. Pellegrini 457,Río Cuarto,Córdoba,CBA,5800,AR
+3017,Sarmiento 100,Río Cuarto,Córdoba,CBA,5800,AR
+3018,Pueyrredón 2957,Mar del Plata,Buenos Aires,BA,7600,AR
+3019,Independencia 837,Mar del Plata,Buenos Aires,BA,7600,AR
+3020,Tucumán 986,San Rafael,Mendoza,MZA,5600,AR
+3021,Chacabuco 139,La Plata,Buenos Aires,BA,1900,AR
+3022,Güemes 2820,San Rafael,Mendoza,MZA,5600,AR
+3023,Las Heras 3243,Quilmes,Buenos Aires,BA,1878,AR
+3024,9 de Julio 4531,Santa Fe,Santa Fe,SF,3000,AR
+3025,Av. Colón 1752,Mar del Plata,Buenos Aires,BA,7600,AR
+3026,Urquiza 1594,Rosario,Santa Fe,SF,2000,AR
+3027,Sarmiento 2659,Santa Fe,Santa Fe,SF,3000,AR
+3028,Av. San Martín 1087,Córdoba,Córdoba,CBA,5000,AR
+3029,Pueyrredón 1214,Santa Fe,Santa Fe,SF,3000,AR
+3030,Av. Pellegrini 2133,Rosario,Santa Fe,SF,2000,AR
+3031,Alem 684,Córdoba,Córdoba,CBA,5000,AR
+3032,Tucumán 3723,Quilmes,Buenos Aires,BA,1878,AR
+3033,Av. Colón 4011,Río Cuarto,Córdoba,CBA,5800,AR
+3034,Tucumán 2435,Córdoba,Córdoba,CBA,5000,AR
+3035,Rivadavia 4792,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3036,Av. Colón 909,La Plata,Buenos Aires,BA,1900,AR
+3037,España 2144,Mendoza,Mendoza,MZA,5500,AR
+3038,Chacabuco 811,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3039,Alsina 3711,Rafaela,Santa Fe,SF,2300,AR
+3040,Independencia 810,Rosario,Santa Fe,SF,2000,AR
+3041,25 de Mayo 422,Córdoba,Córdoba,CBA,5000,AR
+3042,Italia 3591,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3043,Lavalle 1901,Godoy Cruz,Mendoza,MZA,5501,AR
+3044,Urquiza 3370,La Plata,Buenos Aires,BA,1900,AR
+3045,Rivadavia 1286,Mendoza,Mendoza,MZA,5500,AR
+3046,Av. Colón 3887,Córdoba,Córdoba,CBA,5000,AR
+3047,Moreno 4003,La Plata,Buenos Aires,BA,1900,AR
+3048,Lavalle 3889,Mendoza,Mendoza,MZA,5500,AR
+3049,Lavalle 3563,Rosario,Santa Fe,SF,2000,AR
+3050,Av. San Martín 1454,Rosario,Santa Fe,SF,2000,AR
+3051,Alsina 2465,Río Cuarto,Córdoba,CBA,5800,AR
+3052,Salta 4471,Santa Fe,Santa Fe,SF,3000,AR
+3053,Pueyrredón 2046,Rafaela,Santa Fe,SF,2300,AR
+3054,Dorrego 2742,Rosario,Santa Fe,SF,2000,AR
+3055,Chacabuco 3212,Godoy Cruz,Mendoza,MZA,5501,AR
+3056,Maipú 1763,Mendoza,Mendoza,MZA,5500,AR
+3057,9 de Julio 4939,Bahía Blanca,Buenos Aires,BA,8000,AR
+3058,Italia 1425,Mar del Plata,Buenos Aires,BA,7600,AR
+3059,Brown 1150,Mar del Plata,Buenos Aires,BA,7600,AR
+3060,Laprida 186,La Plata,Buenos Aires,BA,1900,AR
+3061,Chacabuco 4416,Río Cuarto,Córdoba,CBA,5800,AR
+3062,Chacabuco 1768,Quilmes,Buenos Aires,BA,1878,AR
+3063,Alem 4295,Mar del Plata,Buenos Aires,BA,7600,AR
+3064,Dorrego 3817,Mendoza,Mendoza,MZA,5500,AR
+3065,Rivadavia 2042,San Isidro,Buenos Aires,BA,1642,AR
+3066,Moreno 1686,San Rafael,Mendoza,MZA,5600,AR
+3067,Mitre 743,Mendoza,Mendoza,MZA,5500,AR
+3068,Sarmiento 4938,Godoy Cruz,Mendoza,MZA,5501,AR
+3069,Pueyrredón 420,Mar del Plata,Buenos Aires,BA,7600,AR
+3070,Entre Ríos 886,Quilmes,Buenos Aires,BA,1878,AR
+3071,Rivadavia 2318,Río Cuarto,Córdoba,CBA,5800,AR
+3072,Av. Pellegrini 4498,Quilmes,Buenos Aires,BA,1878,AR
+3073,Independencia 3432,Córdoba,Córdoba,CBA,5000,AR
+3074,25 de Mayo 3365,Mar del Plata,Buenos Aires,BA,7600,AR
+3075,Lavalle 1708,Córdoba,Córdoba,CBA,5000,AR
+3076,Chacabuco 2517,La Plata,Buenos Aires,BA,1900,AR
+3077,Salta 1907,La Plata,Buenos Aires,BA,1900,AR
+3078,Sarmiento 1025,Córdoba,Córdoba,CBA,5000,AR
+3079,Chacabuco 4107,Córdoba,Córdoba,CBA,5000,AR
+3080,Balcarce 3391,Bahía Blanca,Buenos Aires,BA,8000,AR
+3081,Urquiza 319,Godoy Cruz,Mendoza,MZA,5501,AR
+3082,Mitre 624,Córdoba,Córdoba,CBA,5000,AR
+3083,Urquiza 2605,La Plata,Buenos Aires,BA,1900,AR
+3084,Tucumán 4871,Córdoba,Córdoba,CBA,5000,AR
+3085,Independencia 3556,La Plata,Buenos Aires,BA,1900,AR
+3086,Moreno 4885,Bahía Blanca,Buenos Aires,BA,8000,AR
+3087,Alsina 1180,Córdoba,Córdoba,CBA,5000,AR
+3088,Laprida 940,Córdoba,Córdoba,CBA,5000,AR
+3089,España 3264,La Plata,Buenos Aires,BA,1900,AR
+3090,Moreno 4888,Córdoba,Córdoba,CBA,5000,AR
+3091,España 3264,Córdoba,Córdoba,CBA,5000,AR
+3092,Alsina 3311,Bahía Blanca,Buenos Aires,BA,8000,AR
+3093,Brown 3099,La Plata,Buenos Aires,BA,1900,AR
+3094,Alsina 1963,Córdoba,Córdoba,CBA,5000,AR
+3095,Mitre 1594,Córdoba,Córdoba,CBA,5000,AR
+3096,Av. Pellegrini 4928,Rosario,Santa Fe,SF,2000,AR
+3097,Av. Colón 1550,Rafaela,Santa Fe,SF,2300,AR
+3098,Salta 2030,La Plata,Buenos Aires,BA,1900,AR
+3099,Moreno 334,San Rafael,Mendoza,MZA,5600,AR
+3100,Alem 3920,Quilmes,Buenos Aires,BA,1878,AR
+3101,Independencia 4675,Río Cuarto,Córdoba,CBA,5800,AR
+3102,Av. Pellegrini 4082,Rosario,Santa Fe,SF,2000,AR
+3103,Av. San Martín 3421,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3104,Balcarce 1360,Mar del Plata,Buenos Aires,BA,7600,AR
+3105,Chacabuco 2661,Córdoba,Córdoba,CBA,5000,AR
+3106,Castelli 1103,San Isidro,Buenos Aires,BA,1642,AR
+3107,25 de Mayo 1805,San Isidro,Buenos Aires,BA,1642,AR
+3108,Urquiza 2681,La Plata,Buenos Aires,BA,1900,AR
+3109,Dorrego 2936,Quilmes,Buenos Aires,BA,1878,AR
+3110,Tucumán 4213,Mendoza,Mendoza,MZA,5500,AR
+3111,Güemes 4749,Bahía Blanca,Buenos Aires,BA,8000,AR
+3112,Italia 1950,Córdoba,Córdoba,CBA,5000,AR
+3113,Tucumán 4263,Rosario,Santa Fe,SF,2000,AR
+3114,Chacabuco 1559,Mar del Plata,Buenos Aires,BA,7600,AR
+3115,Maipú 1756,La Plata,Buenos Aires,BA,1900,AR
+3116,Maipú 2029,Córdoba,Córdoba,CBA,5000,AR
+3117,Dorrego 3560,San Isidro,Buenos Aires,BA,1642,AR
+3118,Entre Ríos 3730,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3119,Laprida 2927,Río Cuarto,Córdoba,CBA,5800,AR
+3120,Av. San Martín 1325,Mar del Plata,Buenos Aires,BA,7600,AR
+3121,Av. Colón 3056,Santa Fe,Santa Fe,SF,3000,AR
+3122,Moreno 2178,La Plata,Buenos Aires,BA,1900,AR
+3123,Independencia 3656,Godoy Cruz,Mendoza,MZA,5501,AR
+3124,Lavalle 2980,Godoy Cruz,Mendoza,MZA,5501,AR
+3125,Sarmiento 3929,Bahía Blanca,Buenos Aires,BA,8000,AR
+3126,Mitre 3988,Quilmes,Buenos Aires,BA,1878,AR
+3127,Alsina 1498,San Isidro,Buenos Aires,BA,1642,AR
+3128,Güemes 3056,Rafaela,Santa Fe,SF,2300,AR
+3129,Moreno 1599,La Plata,Buenos Aires,BA,1900,AR
+3130,Av. San Martín 281,Rosario,Santa Fe,SF,2000,AR
+3131,Chacabuco 4340,Rosario,Santa Fe,SF,2000,AR
+3132,Tucumán 1095,La Plata,Buenos Aires,BA,1900,AR
+3133,Alsina 3741,Quilmes,Buenos Aires,BA,1878,AR
+3134,Alsina 4639,San Rafael,Mendoza,MZA,5600,AR
+3135,Brown 4708,Río Cuarto,Córdoba,CBA,5800,AR
+3136,Moreno 4610,Bahía Blanca,Buenos Aires,BA,8000,AR
+3137,Las Heras 1902,Mendoza,Mendoza,MZA,5500,AR
+3138,Lavalle 2927,Córdoba,Córdoba,CBA,5000,AR
+3139,Moreno 2084,Rosario,Santa Fe,SF,2000,AR
+3140,Independencia 4506,Mar del Plata,Buenos Aires,BA,7600,AR
+3141,Av. San Martín 121,Mendoza,Mendoza,MZA,5500,AR
+3142,Dorrego 1182,Rosario,Santa Fe,SF,2000,AR
+3143,Tucumán 1460,Córdoba,Córdoba,CBA,5000,AR
+3144,Urquiza 1797,La Plata,Buenos Aires,BA,1900,AR
+3145,Salta 4103,Córdoba,Córdoba,CBA,5000,AR
+3146,Moreno 4560,Mar del Plata,Buenos Aires,BA,7600,AR
+3147,Alem 2311,Mar del Plata,Buenos Aires,BA,7600,AR
+3148,Salta 4806,La Plata,Buenos Aires,BA,1900,AR
+3149,Sarmiento 365,Santa Fe,Santa Fe,SF,3000,AR
+3150,Maipú 1132,San Isidro,Buenos Aires,BA,1642,AR
+3151,Las Heras 1691,Bahía Blanca,Buenos Aires,BA,8000,AR
+3152,Urquiza 1338,Mendoza,Mendoza,MZA,5500,AR
+3153,Mitre 102,Mar del Plata,Buenos Aires,BA,7600,AR
+3154,Brown 2637,Córdoba,Córdoba,CBA,5000,AR
+3155,Chacabuco 2385,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3156,Av. Colón 1474,Quilmes,Buenos Aires,BA,1878,AR
+3157,Castelli 2918,Rosario,Santa Fe,SF,2000,AR
+3158,Av. Colón 1575,San Isidro,Buenos Aires,BA,1642,AR
+3159,Mitre 2282,Santa Fe,Santa Fe,SF,3000,AR
+3160,Av. Colón 4517,San Isidro,Buenos Aires,BA,1642,AR
+3161,Tucumán 4858,Rosario,Santa Fe,SF,2000,AR
+3162,Av. San Martín 3335,Quilmes,Buenos Aires,BA,1878,AR
+3163,Las Heras 1819,Godoy Cruz,Mendoza,MZA,5501,AR
+3164,Maipú 4632,La Plata,Buenos Aires,BA,1900,AR
+3165,25 de Mayo 4340,Bahía Blanca,Buenos Aires,BA,8000,AR
+3166,Güemes 541,San Isidro,Buenos Aires,BA,1642,AR
+3167,Sarmiento 2012,Mar del Plata,Buenos Aires,BA,7600,AR
+3168,Moreno 3681,Rosario,Santa Fe,SF,2000,AR
+3169,9 de Julio 998,Córdoba,Córdoba,CBA,5000,AR
+3170,Laprida 3622,Río Cuarto,Córdoba,CBA,5800,AR
+3171,Dorrego 3176,Córdoba,Córdoba,CBA,5000,AR
+3172,Salta 3417,Córdoba,Córdoba,CBA,5000,AR
+3173,Alem 3782,Córdoba,Córdoba,CBA,5000,AR
+3174,Chacabuco 4014,Rafaela,Santa Fe,SF,2300,AR
+3175,Av. Colón 2596,Mar del Plata,Buenos Aires,BA,7600,AR
+3176,Alsina 3899,Rosario,Santa Fe,SF,2000,AR
+3177,Italia 3126,Córdoba,Córdoba,CBA,5000,AR
+3178,Av. Colón 1655,La Plata,Buenos Aires,BA,1900,AR
+3179,Lavalle 4628,San Isidro,Buenos Aires,BA,1642,AR
+3180,Sarmiento 431,Santa Fe,Santa Fe,SF,3000,AR
+3181,Tucumán 3375,Quilmes,Buenos Aires,BA,1878,AR
+3182,Entre Ríos 2894,Quilmes,Buenos Aires,BA,1878,AR
+3183,Maipú 691,Córdoba,Córdoba,CBA,5000,AR
+3184,25 de Mayo 2544,San Isidro,Buenos Aires,BA,1642,AR
+3185,Alem 3780,Bahía Blanca,Buenos Aires,BA,8000,AR
+3186,25 de Mayo 2170,Mendoza,Mendoza,MZA,5500,AR
+3187,Dorrego 2078,Rosario,Santa Fe,SF,2000,AR
+3188,Alem 1531,Rosario,Santa Fe,SF,2000,AR
+3189,Alem 444,La Plata,Buenos Aires,BA,1900,AR
+3190,Las Heras 729,Rosario,Santa Fe,SF,2000,AR
+3191,Brown 1327,Mar del Plata,Buenos Aires,BA,7600,AR
+3192,Salta 334,Rafaela,Santa Fe,SF,2300,AR
+3193,Rivadavia 1117,Córdoba,Córdoba,CBA,5000,AR
+3194,Lavalle 4201,La Plata,Buenos Aires,BA,1900,AR
+3195,España 4946,Santa Fe,Santa Fe,SF,3000,AR
+3196,Belgrano 3294,Quilmes,Buenos Aires,BA,1878,AR
+3197,9 de Julio 3437,Quilmes,Buenos Aires,BA,1878,AR
+3198,Independencia 824,Mar del Plata,Buenos Aires,BA,7600,AR
+3199,9 de Julio 3531,Mendoza,Mendoza,MZA,5500,AR
+3200,Güemes 251,Rosario,Santa Fe,SF,2000,AR
+3201,Independencia 1704,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3202,Maipú 2765,San Isidro,Buenos Aires,BA,1642,AR
+3203,Urquiza 4690,Mendoza,Mendoza,MZA,5500,AR
+3204,Mitre 4874,Córdoba,Córdoba,CBA,5000,AR
+3205,Güemes 4958,Bahía Blanca,Buenos Aires,BA,8000,AR
+3206,Güemes 2623,Río Cuarto,Córdoba,CBA,5800,AR
+3207,Pueyrredón 3442,Rosario,Santa Fe,SF,2000,AR
+3208,Chacabuco 3028,Mar del Plata,Buenos Aires,BA,7600,AR
+3209,Alem 151,Quilmes,Buenos Aires,BA,1878,AR
+3210,25 de Mayo 2981,Godoy Cruz,Mendoza,MZA,5501,AR
+3211,Laprida 3950,Rosario,Santa Fe,SF,2000,AR
+3212,Av. San Martín 4586,Córdoba,Córdoba,CBA,5000,AR
+3213,Av. San Martín 1617,Río Cuarto,Córdoba,CBA,5800,AR
+3214,Las Heras 4145,Mendoza,Mendoza,MZA,5500,AR
+3215,Salta 4664,Mendoza,Mendoza,MZA,5500,AR
+3216,Güemes 1078,Mar del Plata,Buenos Aires,BA,7600,AR
+3217,España 3806,Bahía Blanca,Buenos Aires,BA,8000,AR
+3218,Güemes 3722,La Plata,Buenos Aires,BA,1900,AR
+3219,Av. Colón 1105,Rosario,Santa Fe,SF,2000,AR
+3220,Av. San Martín 4251,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3221,Dorrego 2438,Quilmes,Buenos Aires,BA,1878,AR
+3222,Av. San Martín 830,Córdoba,Córdoba,CBA,5000,AR
+3223,Sarmiento 753,Rosario,Santa Fe,SF,2000,AR
+3224,Alsina 1650,Quilmes,Buenos Aires,BA,1878,AR
+3225,Entre Ríos 3519,Córdoba,Córdoba,CBA,5000,AR
+3226,Laprida 4620,Rosario,Santa Fe,SF,2000,AR
+3227,Belgrano 936,La Plata,Buenos Aires,BA,1900,AR
+3228,Moreno 411,Godoy Cruz,Mendoza,MZA,5501,AR
+3229,Güemes 494,San Isidro,Buenos Aires,BA,1642,AR
+3230,Lavalle 717,Córdoba,Córdoba,CBA,5000,AR
+3231,Independencia 653,Mar del Plata,Buenos Aires,BA,7600,AR
+3232,Av. Pellegrini 3465,Mar del Plata,Buenos Aires,BA,7600,AR
+3233,Dorrego 268,Godoy Cruz,Mendoza,MZA,5501,AR
+3234,25 de Mayo 256,La Plata,Buenos Aires,BA,1900,AR
+3235,Castelli 4039,Rosario,Santa Fe,SF,2000,AR
+3236,Maipú 1674,Santa Fe,Santa Fe,SF,3000,AR
+3237,Urquiza 491,Bahía Blanca,Buenos Aires,BA,8000,AR
+3238,Balcarce 3963,San Isidro,Buenos Aires,BA,1642,AR
+3239,Av. Pellegrini 286,La Plata,Buenos Aires,BA,1900,AR
+3240,Chacabuco 1093,Quilmes,Buenos Aires,BA,1878,AR
+3241,Tucumán 4708,San Isidro,Buenos Aires,BA,1642,AR
+3242,Italia 2128,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3243,Av. Pellegrini 865,Mendoza,Mendoza,MZA,5500,AR
+3244,Salta 3040,Mendoza,Mendoza,MZA,5500,AR
+3245,Güemes 3142,San Isidro,Buenos Aires,BA,1642,AR
+3246,Salta 1198,Godoy Cruz,Mendoza,MZA,5501,AR
+3247,Salta 895,Mendoza,Mendoza,MZA,5500,AR
+3248,Av. Pellegrini 4640,Quilmes,Buenos Aires,BA,1878,AR
+3249,Mitre 3875,La Plata,Buenos Aires,BA,1900,AR
+3250,Entre Ríos 3603,Córdoba,Córdoba,CBA,5000,AR
+3251,Alsina 2807,Córdoba,Córdoba,CBA,5000,AR
+3252,Salta 4987,Rosario,Santa Fe,SF,2000,AR
+3253,Italia 2855,Río Cuarto,Córdoba,CBA,5800,AR
+3254,Rivadavia 360,Rafaela,Santa Fe,SF,2300,AR
+3255,Italia 4148,Córdoba,Córdoba,CBA,5000,AR
+3256,Av. San Martín 2165,Córdoba,Córdoba,CBA,5000,AR
+3257,Castelli 1003,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3258,Lavalle 2019,La Plata,Buenos Aires,BA,1900,AR
+3259,Güemes 1892,Córdoba,Córdoba,CBA,5000,AR
+3260,Av. San Martín 2253,Mar del Plata,Buenos Aires,BA,7600,AR
+3261,Laprida 2395,Rosario,Santa Fe,SF,2000,AR
+3262,Tucumán 4162,Mendoza,Mendoza,MZA,5500,AR
+3263,Pueyrredón 1733,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3264,Rivadavia 4300,La Plata,Buenos Aires,BA,1900,AR
+3265,Balcarce 3152,Río Cuarto,Córdoba,CBA,5800,AR
+3266,Independencia 197,La Plata,Buenos Aires,BA,1900,AR
+3267,Castelli 4703,Santa Fe,Santa Fe,SF,3000,AR
+3268,Moreno 550,San Isidro,Buenos Aires,BA,1642,AR
+3269,Independencia 2723,Córdoba,Córdoba,CBA,5000,AR
+3270,Italia 251,San Rafael,Mendoza,MZA,5600,AR
+3271,Alem 983,Santa Fe,Santa Fe,SF,3000,AR
+3272,Alsina 476,La Plata,Buenos Aires,BA,1900,AR
+3273,Entre Ríos 1849,Córdoba,Córdoba,CBA,5000,AR
+3274,Dorrego 3481,Bahía Blanca,Buenos Aires,BA,8000,AR
+3275,Av. San Martín 3000,Mendoza,Mendoza,MZA,5500,AR
+3276,Las Heras 1590,Santa Fe,Santa Fe,SF,3000,AR
+3277,Av. Pellegrini 548,Santa Fe,Santa Fe,SF,3000,AR
+3278,Moreno 2621,Rosario,Santa Fe,SF,2000,AR
+3279,Güemes 3868,Córdoba,Córdoba,CBA,5000,AR
+3280,Salta 853,Mendoza,Mendoza,MZA,5500,AR
+3281,Las Heras 1053,Río Cuarto,Córdoba,CBA,5800,AR
+3282,Laprida 2185,Quilmes,Buenos Aires,BA,1878,AR
+3283,25 de Mayo 1140,San Rafael,Mendoza,MZA,5600,AR
+3284,Alem 2066,Córdoba,Córdoba,CBA,5000,AR
+3285,Belgrano 1720,Córdoba,Córdoba,CBA,5000,AR
+3286,Dorrego 2172,La Plata,Buenos Aires,BA,1900,AR
+3287,9 de Julio 2532,Rosario,Santa Fe,SF,2000,AR
+3288,Belgrano 2081,La Plata,Buenos Aires,BA,1900,AR
+3289,25 de Mayo 1710,Quilmes,Buenos Aires,BA,1878,AR
+3290,Balcarce 1883,Rosario,Santa Fe,SF,2000,AR
+3291,Pueyrredón 4051,Santa Fe,Santa Fe,SF,3000,AR
+3292,Laprida 263,Mar del Plata,Buenos Aires,BA,7600,AR
+3293,Rivadavia 3448,La Plata,Buenos Aires,BA,1900,AR
+3294,Belgrano 4264,La Plata,Buenos Aires,BA,1900,AR
+3295,9 de Julio 339,Rosario,Santa Fe,SF,2000,AR
+3296,Maipú 1272,Córdoba,Córdoba,CBA,5000,AR
+3297,Av. Colón 1695,Mendoza,Mendoza,MZA,5500,AR
+3298,Las Heras 2212,Santa Fe,Santa Fe,SF,3000,AR
+3299,Balcarce 4134,Godoy Cruz,Mendoza,MZA,5501,AR
+3300,España 2708,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3301,Urquiza 3514,Quilmes,Buenos Aires,BA,1878,AR
+3302,Las Heras 4970,La Plata,Buenos Aires,BA,1900,AR
+3303,Alem 2846,Rosario,Santa Fe,SF,2000,AR
+3304,Mitre 3897,Río Cuarto,Córdoba,CBA,5800,AR
+3305,Lavalle 1965,Río Cuarto,Córdoba,CBA,5800,AR
+3306,Av. San Martín 762,La Plata,Buenos Aires,BA,1900,AR
+3307,Mitre 3198,La Plata,Buenos Aires,BA,1900,AR
+3308,Güemes 3762,Quilmes,Buenos Aires,BA,1878,AR
+3309,Independencia 3502,Bahía Blanca,Buenos Aires,BA,8000,AR
+3310,Av. Pellegrini 1019,Rosario,Santa Fe,SF,2000,AR
+3311,Balcarce 3576,Rosario,Santa Fe,SF,2000,AR
+3312,Chacabuco 2560,Córdoba,Córdoba,CBA,5000,AR
+3313,Pueyrredón 828,Rosario,Santa Fe,SF,2000,AR
+3314,Belgrano 1941,San Isidro,Buenos Aires,BA,1642,AR
+3315,Independencia 2249,Rosario,Santa Fe,SF,2000,AR
+3316,Urquiza 974,San Isidro,Buenos Aires,BA,1642,AR
+3317,Av. San Martín 2955,La Plata,Buenos Aires,BA,1900,AR
+3318,Mitre 4520,Rosario,Santa Fe,SF,2000,AR
+3319,Lavalle 4454,Quilmes,Buenos Aires,BA,1878,AR
+3320,Belgrano 1015,Río Cuarto,Córdoba,CBA,5800,AR
+3321,Pueyrredón 140,Mar del Plata,Buenos Aires,BA,7600,AR
+3322,Sarmiento 2827,San Rafael,Mendoza,MZA,5600,AR
+3323,España 2280,Córdoba,Córdoba,CBA,5000,AR
+3324,25 de Mayo 175,Santa Fe,Santa Fe,SF,3000,AR
+3325,Entre Ríos 2323,La Plata,Buenos Aires,BA,1900,AR
+3326,Av. San Martín 4995,Quilmes,Buenos Aires,BA,1878,AR
+3327,Belgrano 4156,La Plata,Buenos Aires,BA,1900,AR
+3328,Las Heras 4489,Quilmes,Buenos Aires,BA,1878,AR
+3329,Independencia 2493,Rosario,Santa Fe,SF,2000,AR
+3330,Chacabuco 819,Mar del Plata,Buenos Aires,BA,7600,AR
+3331,Las Heras 2504,Godoy Cruz,Mendoza,MZA,5501,AR
+3332,Av. Colón 2212,Córdoba,Córdoba,CBA,5000,AR
+3333,Balcarce 1160,La Plata,Buenos Aires,BA,1900,AR
+3334,Belgrano 2576,Mendoza,Mendoza,MZA,5500,AR
+3335,Balcarce 4897,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3336,Brown 687,La Plata,Buenos Aires,BA,1900,AR
+3337,Castelli 3362,Río Cuarto,Córdoba,CBA,5800,AR
+3338,Belgrano 4250,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3339,25 de Mayo 2095,Río Cuarto,Córdoba,CBA,5800,AR
+3340,9 de Julio 816,Río Cuarto,Córdoba,CBA,5800,AR
+3341,Las Heras 4213,Quilmes,Buenos Aires,BA,1878,AR
+3342,Maipú 2872,Mendoza,Mendoza,MZA,5500,AR
+3343,Moreno 120,Mar del Plata,Buenos Aires,BA,7600,AR
+3344,Entre Ríos 2407,Rosario,Santa Fe,SF,2000,AR
+3345,Brown 2503,La Plata,Buenos Aires,BA,1900,AR
+3346,Av. Colón 2872,Rafaela,Santa Fe,SF,2300,AR
+3347,25 de Mayo 3122,Rosario,Santa Fe,SF,2000,AR
+3348,Castelli 3067,Rosario,Santa Fe,SF,2000,AR
+3349,Castelli 1731,La Plata,Buenos Aires,BA,1900,AR
+3350,Chacabuco 898,Mendoza,Mendoza,MZA,5500,AR
+3351,Brown 1917,La Plata,Buenos Aires,BA,1900,AR
+3352,Güemes 2026,Mar del Plata,Buenos Aires,BA,7600,AR
+3353,Salta 1419,La Plata,Buenos Aires,BA,1900,AR
+3354,Alem 1100,Córdoba,Córdoba,CBA,5000,AR
+3355,Av. San Martín 396,San Isidro,Buenos Aires,BA,1642,AR
+3356,Balcarce 909,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3357,Chacabuco 1330,Córdoba,Córdoba,CBA,5000,AR
+3358,Belgrano 1498,Mar del Plata,Buenos Aires,BA,7600,AR
+3359,Dorrego 1718,Mar del Plata,Buenos Aires,BA,7600,AR
+3360,Urquiza 3002,Quilmes,Buenos Aires,BA,1878,AR
+3361,Salta 3764,Mendoza,Mendoza,MZA,5500,AR
+3362,Italia 2245,Santa Fe,Santa Fe,SF,3000,AR
+3363,Av. San Martín 182,Rosario,Santa Fe,SF,2000,AR
+3364,Rivadavia 618,Quilmes,Buenos Aires,BA,1878,AR
+3365,Chacabuco 3267,San Isidro,Buenos Aires,BA,1642,AR
+3366,Lavalle 3840,Quilmes,Buenos Aires,BA,1878,AR
+3367,9 de Julio 2653,Bahía Blanca,Buenos Aires,BA,8000,AR
+3368,Independencia 3454,Quilmes,Buenos Aires,BA,1878,AR
+3369,Chacabuco 2210,La Plata,Buenos Aires,BA,1900,AR
+3370,Laprida 2834,Rosario,Santa Fe,SF,2000,AR
+3371,Italia 889,Quilmes,Buenos Aires,BA,1878,AR
+3372,Balcarce 1038,Mar del Plata,Buenos Aires,BA,7600,AR
+3373,Alsina 2370,La Plata,Buenos Aires,BA,1900,AR
+3374,Salta 4579,Córdoba,Córdoba,CBA,5000,AR
+3375,Moreno 3336,Rosario,Santa Fe,SF,2000,AR
+3376,Castelli 3529,Santa Fe,Santa Fe,SF,3000,AR
+3377,Alsina 1608,Córdoba,Córdoba,CBA,5000,AR
+3378,Entre Ríos 702,Mendoza,Mendoza,MZA,5500,AR
+3379,Alsina 4732,Mar del Plata,Buenos Aires,BA,7600,AR
+3380,Maipú 4228,Quilmes,Buenos Aires,BA,1878,AR
+3381,Independencia 1069,San Rafael,Mendoza,MZA,5600,AR
+3382,Urquiza 2535,Bahía Blanca,Buenos Aires,BA,8000,AR
+3383,25 de Mayo 4760,La Plata,Buenos Aires,BA,1900,AR
+3384,25 de Mayo 1766,Mar del Plata,Buenos Aires,BA,7600,AR
+3385,Balcarce 1100,Mendoza,Mendoza,MZA,5500,AR
+3386,Mitre 1387,Rosario,Santa Fe,SF,2000,AR
+3387,Chacabuco 3337,Córdoba,Córdoba,CBA,5000,AR
+3388,Urquiza 371,San Isidro,Buenos Aires,BA,1642,AR
+3389,9 de Julio 2379,Santa Fe,Santa Fe,SF,3000,AR
+3390,Mitre 1924,Córdoba,Córdoba,CBA,5000,AR
+3391,Lavalle 3582,Bahía Blanca,Buenos Aires,BA,8000,AR
+3392,Brown 3158,Mendoza,Mendoza,MZA,5500,AR
+3393,Lavalle 181,Córdoba,Córdoba,CBA,5000,AR
+3394,Las Heras 246,Santa Fe,Santa Fe,SF,3000,AR
+3395,Urquiza 3642,Quilmes,Buenos Aires,BA,1878,AR
+3396,Alem 4799,Mar del Plata,Buenos Aires,BA,7600,AR
+3397,Entre Ríos 4479,San Isidro,Buenos Aires,BA,1642,AR
+3398,Alsina 3772,La Plata,Buenos Aires,BA,1900,AR
+3399,Independencia 356,Mendoza,Mendoza,MZA,5500,AR
+3400,Güemes 3385,La Plata,Buenos Aires,BA,1900,AR
+3401,Urquiza 1641,Córdoba,Córdoba,CBA,5000,AR
+3402,Av. San Martín 145,Bahía Blanca,Buenos Aires,BA,8000,AR
+3403,Urquiza 4201,Quilmes,Buenos Aires,BA,1878,AR
+3404,Alem 2460,Godoy Cruz,Mendoza,MZA,5501,AR
+3405,Las Heras 326,Quilmes,Buenos Aires,BA,1878,AR
+3406,Salta 1722,La Plata,Buenos Aires,BA,1900,AR
+3407,Güemes 3613,Córdoba,Córdoba,CBA,5000,AR
+3408,Maipú 3042,Santa Fe,Santa Fe,SF,3000,AR
+3409,Balcarce 2766,Mar del Plata,Buenos Aires,BA,7600,AR
+3410,Entre Ríos 261,La Plata,Buenos Aires,BA,1900,AR
+3411,Brown 4691,San Isidro,Buenos Aires,BA,1642,AR
+3412,Las Heras 4497,Mar del Plata,Buenos Aires,BA,7600,AR
+3413,Güemes 2289,Quilmes,Buenos Aires,BA,1878,AR
+3414,Brown 2225,Rosario,Santa Fe,SF,2000,AR
+3415,Alsina 4478,Rosario,Santa Fe,SF,2000,AR
+3416,9 de Julio 2411,Santa Fe,Santa Fe,SF,3000,AR
+3417,Av. Colón 4955,La Plata,Buenos Aires,BA,1900,AR
+3418,Chacabuco 2864,San Rafael,Mendoza,MZA,5600,AR
+3419,Mitre 819,Mendoza,Mendoza,MZA,5500,AR
+3420,Alem 477,La Plata,Buenos Aires,BA,1900,AR
+3421,Pueyrredón 200,Quilmes,Buenos Aires,BA,1878,AR
+3422,Entre Ríos 1307,La Plata,Buenos Aires,BA,1900,AR
+3423,Av. Colón 1066,Mar del Plata,Buenos Aires,BA,7600,AR
+3424,Entre Ríos 4947,Rosario,Santa Fe,SF,2000,AR
+3425,Rivadavia 1611,Quilmes,Buenos Aires,BA,1878,AR
+3426,Pueyrredón 4138,La Plata,Buenos Aires,BA,1900,AR
+3427,25 de Mayo 4972,Quilmes,Buenos Aires,BA,1878,AR
+3428,Av. San Martín 781,Río Cuarto,Córdoba,CBA,5800,AR
+3429,Mitre 2417,San Isidro,Buenos Aires,BA,1642,AR
+3430,Laprida 2312,Córdoba,Córdoba,CBA,5000,AR
+3431,Balcarce 153,Mar del Plata,Buenos Aires,BA,7600,AR
+3432,Tucumán 2513,San Isidro,Buenos Aires,BA,1642,AR
+3433,Pueyrredón 3515,Río Cuarto,Córdoba,CBA,5800,AR
+3434,9 de Julio 2348,La Plata,Buenos Aires,BA,1900,AR
+3435,25 de Mayo 2865,Mendoza,Mendoza,MZA,5500,AR
+3436,Rivadavia 1007,Mendoza,Mendoza,MZA,5500,AR
+3437,25 de Mayo 2337,Santa Fe,Santa Fe,SF,3000,AR
+3438,Mitre 1704,Mar del Plata,Buenos Aires,BA,7600,AR
+3439,Chacabuco 907,San Isidro,Buenos Aires,BA,1642,AR
+3440,Dorrego 3644,Godoy Cruz,Mendoza,MZA,5501,AR
+3441,Av. Pellegrini 1534,San Rafael,Mendoza,MZA,5600,AR
+3442,Dorrego 2251,Santa Fe,Santa Fe,SF,3000,AR
+3443,Las Heras 4013,Río Cuarto,Córdoba,CBA,5800,AR
+3444,Av. San Martín 2531,Córdoba,Córdoba,CBA,5000,AR
+3445,Dorrego 4271,Mar del Plata,Buenos Aires,BA,7600,AR
+3446,Lavalle 1097,Santa Fe,Santa Fe,SF,3000,AR
+3447,Entre Ríos 1275,San Isidro,Buenos Aires,BA,1642,AR
+3448,Independencia 2238,Bahía Blanca,Buenos Aires,BA,8000,AR
+3449,Pueyrredón 1578,Quilmes,Buenos Aires,BA,1878,AR
+3450,Belgrano 1804,Rosario,Santa Fe,SF,2000,AR
+3451,Tucumán 988,Córdoba,Córdoba,CBA,5000,AR
+3452,Av. Colón 4560,Rosario,Santa Fe,SF,2000,AR
+3453,Av. Colón 4360,Córdoba,Córdoba,CBA,5000,AR
+3454,Chacabuco 3927,Rosario,Santa Fe,SF,2000,AR
+3455,Castelli 2317,Mar del Plata,Buenos Aires,BA,7600,AR
+3456,Castelli 3945,San Isidro,Buenos Aires,BA,1642,AR
+3457,Laprida 2401,Rosario,Santa Fe,SF,2000,AR
+3458,Entre Ríos 3849,Bahía Blanca,Buenos Aires,BA,8000,AR
+3459,Mitre 4857,Córdoba,Córdoba,CBA,5000,AR
+3460,Entre Ríos 1067,Quilmes,Buenos Aires,BA,1878,AR
+3461,Balcarce 1532,Godoy Cruz,Mendoza,MZA,5501,AR
+3462,Chacabuco 4560,Quilmes,Buenos Aires,BA,1878,AR
+3463,Av. Pellegrini 3497,Córdoba,Córdoba,CBA,5000,AR
+3464,Balcarce 983,Rosario,Santa Fe,SF,2000,AR
+3465,Las Heras 3683,Rosario,Santa Fe,SF,2000,AR
+3466,Brown 4120,Rosario,Santa Fe,SF,2000,AR
+3467,Av. Pellegrini 1002,Mendoza,Mendoza,MZA,5500,AR
+3468,Lavalle 4911,La Plata,Buenos Aires,BA,1900,AR
+3469,Urquiza 3316,Santa Fe,Santa Fe,SF,3000,AR
+3470,Alem 4952,La Plata,Buenos Aires,BA,1900,AR
+3471,Belgrano 4779,La Plata,Buenos Aires,BA,1900,AR
+3472,Alem 2368,San Isidro,Buenos Aires,BA,1642,AR
+3473,Independencia 4918,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3474,Mitre 1231,Córdoba,Córdoba,CBA,5000,AR
+3475,Alem 1599,Córdoba,Córdoba,CBA,5000,AR
+3476,Independencia 565,Mar del Plata,Buenos Aires,BA,7600,AR
+3477,Av. San Martín 2820,Rosario,Santa Fe,SF,2000,AR
+3478,Av. San Martín 2409,La Plata,Buenos Aires,BA,1900,AR
+3479,25 de Mayo 3497,San Isidro,Buenos Aires,BA,1642,AR
+3480,Mitre 331,La Plata,Buenos Aires,BA,1900,AR
+3481,Urquiza 749,San Rafael,Mendoza,MZA,5600,AR
+3482,Pueyrredón 1234,Rosario,Santa Fe,SF,2000,AR
+3483,España 4184,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3484,Mitre 2696,Bahía Blanca,Buenos Aires,BA,8000,AR
+3485,Tucumán 2083,San Isidro,Buenos Aires,BA,1642,AR
+3486,Maipú 1766,Rosario,Santa Fe,SF,2000,AR
+3487,Moreno 3622,Rosario,Santa Fe,SF,2000,AR
+3488,Lavalle 4963,Mendoza,Mendoza,MZA,5500,AR
+3489,Brown 1948,Godoy Cruz,Mendoza,MZA,5501,AR
+3490,Balcarce 4286,Santa Fe,Santa Fe,SF,3000,AR
+3491,Güemes 3987,Rosario,Santa Fe,SF,2000,AR
+3492,Dorrego 609,Mendoza,Mendoza,MZA,5500,AR
+3493,Brown 741,Córdoba,Córdoba,CBA,5000,AR
+3494,Independencia 919,Santa Fe,Santa Fe,SF,3000,AR
+3495,Independencia 4499,Mendoza,Mendoza,MZA,5500,AR
+3496,Urquiza 712,La Plata,Buenos Aires,BA,1900,AR
+3497,Pueyrredón 3296,Bahía Blanca,Buenos Aires,BA,8000,AR
+3498,Entre Ríos 4499,Santa Fe,Santa Fe,SF,3000,AR
+3499,Brown 1360,La Plata,Buenos Aires,BA,1900,AR
+3500,Salta 267,Córdoba,Córdoba,CBA,5000,AR
+3501,Chacabuco 129,San Rafael,Mendoza,MZA,5600,AR
+3502,España 2101,Río Cuarto,Córdoba,CBA,5800,AR
+3503,9 de Julio 4134,La Plata,Buenos Aires,BA,1900,AR
+3504,Chacabuco 1771,Córdoba,Córdoba,CBA,5000,AR
+3505,9 de Julio 1807,Rosario,Santa Fe,SF,2000,AR
+3506,Entre Ríos 4721,La Plata,Buenos Aires,BA,1900,AR
+3507,Av. Pellegrini 1655,Rosario,Santa Fe,SF,2000,AR
+3508,Av. Pellegrini 2725,Mar del Plata,Buenos Aires,BA,7600,AR
+3509,Castelli 1290,Quilmes,Buenos Aires,BA,1878,AR
+3510,Pueyrredón 3399,La Plata,Buenos Aires,BA,1900,AR
+3511,Dorrego 886,San Isidro,Buenos Aires,BA,1642,AR
+3512,Independencia 3062,San Isidro,Buenos Aires,BA,1642,AR
+3513,Av. Pellegrini 4491,Mendoza,Mendoza,MZA,5500,AR
+3514,Laprida 3855,Bahía Blanca,Buenos Aires,BA,8000,AR
+3515,Maipú 280,Mendoza,Mendoza,MZA,5500,AR
+3516,Av. Pellegrini 1287,Rafaela,Santa Fe,SF,2300,AR
+3517,Independencia 3626,Rosario,Santa Fe,SF,2000,AR
+3518,Dorrego 3719,Mendoza,Mendoza,MZA,5500,AR
+3519,Alem 2351,Santa Fe,Santa Fe,SF,3000,AR
+3520,Güemes 2071,Santa Fe,Santa Fe,SF,3000,AR
+3521,25 de Mayo 1953,La Plata,Buenos Aires,BA,1900,AR
+3522,Brown 4733,Córdoba,Córdoba,CBA,5000,AR
+3523,Alsina 627,La Plata,Buenos Aires,BA,1900,AR
+3524,Maipú 3303,La Plata,Buenos Aires,BA,1900,AR
+3525,Brown 383,Quilmes,Buenos Aires,BA,1878,AR
+3526,Av. San Martín 1196,La Plata,Buenos Aires,BA,1900,AR
+3527,Av. Colón 3974,Mar del Plata,Buenos Aires,BA,7600,AR
+3528,Balcarce 1529,Río Cuarto,Córdoba,CBA,5800,AR
+3529,Castelli 4023,Córdoba,Córdoba,CBA,5000,AR
+3530,Av. Colón 2369,Bahía Blanca,Buenos Aires,BA,8000,AR
+3531,Las Heras 929,Santa Fe,Santa Fe,SF,3000,AR
+3532,Chacabuco 4020,Quilmes,Buenos Aires,BA,1878,AR
+3533,Pueyrredón 3558,Santa Fe,Santa Fe,SF,3000,AR
+3534,25 de Mayo 2585,Rafaela,Santa Fe,SF,2300,AR
+3535,9 de Julio 3447,Bahía Blanca,Buenos Aires,BA,8000,AR
+3536,Av. San Martín 4875,Río Cuarto,Córdoba,CBA,5800,AR
+3537,Pueyrredón 4491,Bahía Blanca,Buenos Aires,BA,8000,AR
+3538,Salta 527,Godoy Cruz,Mendoza,MZA,5501,AR
+3539,Independencia 1371,Godoy Cruz,Mendoza,MZA,5501,AR
+3540,Urquiza 4717,Rosario,Santa Fe,SF,2000,AR
+3541,Entre Ríos 4102,Córdoba,Córdoba,CBA,5000,AR
+3542,Güemes 2461,Córdoba,Córdoba,CBA,5000,AR
+3543,Alem 3223,Río Cuarto,Córdoba,CBA,5800,AR
+3544,Independencia 1769,Córdoba,Córdoba,CBA,5000,AR
+3545,Entre Ríos 3992,San Isidro,Buenos Aires,BA,1642,AR
+3546,Mitre 1759,Santa Fe,Santa Fe,SF,3000,AR
+3547,Av. Pellegrini 1235,La Plata,Buenos Aires,BA,1900,AR
+3548,Lavalle 3140,Mar del Plata,Buenos Aires,BA,7600,AR
+3549,Dorrego 2598,La Plata,Buenos Aires,BA,1900,AR
+3550,Av. Colón 1826,Mendoza,Mendoza,MZA,5500,AR
+3551,Laprida 4883,Santa Fe,Santa Fe,SF,3000,AR
+3552,Alem 4296,La Plata,Buenos Aires,BA,1900,AR
+3553,Alsina 3887,Godoy Cruz,Mendoza,MZA,5501,AR
+3554,Alsina 783,Córdoba,Córdoba,CBA,5000,AR
+3555,Av. San Martín 2134,Mar del Plata,Buenos Aires,BA,7600,AR
+3556,Rivadavia 3735,Quilmes,Buenos Aires,BA,1878,AR
+3557,Chacabuco 149,Mendoza,Mendoza,MZA,5500,AR
+3558,España 444,Quilmes,Buenos Aires,BA,1878,AR
+3559,Belgrano 2203,Rosario,Santa Fe,SF,2000,AR
+3560,Independencia 1946,Mendoza,Mendoza,MZA,5500,AR
+3561,Castelli 377,San Rafael,Mendoza,MZA,5600,AR
+3562,Laprida 3642,Córdoba,Córdoba,CBA,5000,AR
+3563,Balcarce 2075,Rosario,Santa Fe,SF,2000,AR
+3564,Pueyrredón 3989,Quilmes,Buenos Aires,BA,1878,AR
+3565,Italia 3551,La Plata,Buenos Aires,BA,1900,AR
+3566,Las Heras 4414,La Plata,Buenos Aires,BA,1900,AR
+3567,9 de Julio 580,Santa Fe,Santa Fe,SF,3000,AR
+3568,Tucumán 4674,Córdoba,Córdoba,CBA,5000,AR
+3569,Las Heras 884,Mar del Plata,Buenos Aires,BA,7600,AR
+3570,Entre Ríos 1368,Córdoba,Córdoba,CBA,5000,AR
+3571,Castelli 3597,Córdoba,Córdoba,CBA,5000,AR
+3572,Italia 4300,Rosario,Santa Fe,SF,2000,AR
+3573,Mitre 4106,Mendoza,Mendoza,MZA,5500,AR
+3574,Salta 3413,Godoy Cruz,Mendoza,MZA,5501,AR
+3575,Moreno 4919,Córdoba,Córdoba,CBA,5000,AR
+3576,Castelli 1126,Córdoba,Córdoba,CBA,5000,AR
+3577,Mitre 2596,San Isidro,Buenos Aires,BA,1642,AR
+3578,Belgrano 836,Quilmes,Buenos Aires,BA,1878,AR
+3579,Entre Ríos 4878,La Plata,Buenos Aires,BA,1900,AR
+3580,Chacabuco 4227,Río Cuarto,Córdoba,CBA,5800,AR
+3581,9 de Julio 4201,Rosario,Santa Fe,SF,2000,AR
+3582,Dorrego 254,La Plata,Buenos Aires,BA,1900,AR
+3583,Dorrego 4100,Mendoza,Mendoza,MZA,5500,AR
+3584,9 de Julio 1891,Mendoza,Mendoza,MZA,5500,AR
+3585,Av. San Martín 1689,Córdoba,Córdoba,CBA,5000,AR
+3586,Av. Colón 1779,Bahía Blanca,Buenos Aires,BA,8000,AR
+3587,Sarmiento 1774,Bahía Blanca,Buenos Aires,BA,8000,AR
+3588,Laprida 822,Rosario,Santa Fe,SF,2000,AR
+3589,Av. San Martín 1245,Mendoza,Mendoza,MZA,5500,AR
+3590,Balcarce 2679,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3591,Lavalle 1418,Córdoba,Córdoba,CBA,5000,AR
+3592,Castelli 4648,Rosario,Santa Fe,SF,2000,AR
+3593,9 de Julio 2877,San Isidro,Buenos Aires,BA,1642,AR
+3594,Independencia 631,La Plata,Buenos Aires,BA,1900,AR
+3595,Las Heras 4208,Bahía Blanca,Buenos Aires,BA,8000,AR
+3596,Alsina 4472,Santa Fe,Santa Fe,SF,3000,AR
+3597,Pueyrredón 4037,Córdoba,Córdoba,CBA,5000,AR
+3598,25 de Mayo 2193,La Plata,Buenos Aires,BA,1900,AR
+3599,Lavalle 1528,Río Cuarto,Córdoba,CBA,5800,AR
+3600,Salta 1920,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3601,Tucumán 2476,Córdoba,Córdoba,CBA,5000,AR
+3602,Balcarce 3255,La Plata,Buenos Aires,BA,1900,AR
+3603,Las Heras 3843,Rosario,Santa Fe,SF,2000,AR
+3604,Av. Colón 2073,Mar del Plata,Buenos Aires,BA,7600,AR
+3605,Av. Colón 1494,Mendoza,Mendoza,MZA,5500,AR
+3606,Chacabuco 4288,Córdoba,Córdoba,CBA,5000,AR
+3607,Independencia 919,Mar del Plata,Buenos Aires,BA,7600,AR
+3608,Güemes 1834,La Plata,Buenos Aires,BA,1900,AR
+3609,Balcarce 2758,Rosario,Santa Fe,SF,2000,AR
+3610,Av. Pellegrini 778,Quilmes,Buenos Aires,BA,1878,AR
+3611,Av. Colón 4842,La Plata,Buenos Aires,BA,1900,AR
+3612,Belgrano 1401,La Plata,Buenos Aires,BA,1900,AR
+3613,Lavalle 4277,Mendoza,Mendoza,MZA,5500,AR
+3614,Mitre 200,La Plata,Buenos Aires,BA,1900,AR
+3615,25 de Mayo 1895,Santa Fe,Santa Fe,SF,3000,AR
+3616,Av. San Martín 3462,Bahía Blanca,Buenos Aires,BA,8000,AR
+3617,Güemes 1660,Mar del Plata,Buenos Aires,BA,7600,AR
+3618,Rivadavia 4240,Córdoba,Córdoba,CBA,5000,AR
+3619,Tucumán 1177,Rosario,Santa Fe,SF,2000,AR
+3620,Alsina 3356,Rosario,Santa Fe,SF,2000,AR
+3621,9 de Julio 4126,Rafaela,Santa Fe,SF,2300,AR
+3622,Lavalle 262,Santa Fe,Santa Fe,SF,3000,AR
+3623,España 714,Mendoza,Mendoza,MZA,5500,AR
+3624,Güemes 4668,Bahía Blanca,Buenos Aires,BA,8000,AR
+3625,Dorrego 2203,Mar del Plata,Buenos Aires,BA,7600,AR
+3626,Italia 3896,La Plata,Buenos Aires,BA,1900,AR
+3627,España 850,Godoy Cruz,Mendoza,MZA,5501,AR
+3628,25 de Mayo 3811,Mendoza,Mendoza,MZA,5500,AR
+3629,Dorrego 2266,La Plata,Buenos Aires,BA,1900,AR
+3630,Brown 4554,La Plata,Buenos Aires,BA,1900,AR
+3631,Rivadavia 2714,Mendoza,Mendoza,MZA,5500,AR
+3632,Maipú 2103,Córdoba,Córdoba,CBA,5000,AR
+3633,Moreno 4656,Mendoza,Mendoza,MZA,5500,AR
+3634,25 de Mayo 474,Mendoza,Mendoza,MZA,5500,AR
+3635,Av. Pellegrini 2124,La Plata,Buenos Aires,BA,1900,AR
+3636,25 de Mayo 3430,Córdoba,Córdoba,CBA,5000,AR
+3637,Av. San Martín 1812,Quilmes,Buenos Aires,BA,1878,AR
+3638,9 de Julio 613,San Rafael,Mendoza,MZA,5600,AR
+3639,Italia 417,Quilmes,Buenos Aires,BA,1878,AR
+3640,Balcarce 2087,Córdoba,Córdoba,CBA,5000,AR
+3641,Maipú 2901,Mendoza,Mendoza,MZA,5500,AR
+3642,Güemes 129,Santa Fe,Santa Fe,SF,3000,AR
+3643,Moreno 4856,Quilmes,Buenos Aires,BA,1878,AR
+3644,Urquiza 3573,Godoy Cruz,Mendoza,MZA,5501,AR
+3645,Entre Ríos 4939,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3646,Alem 3690,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3647,Belgrano 4851,Quilmes,Buenos Aires,BA,1878,AR
+3648,España 284,Santa Fe,Santa Fe,SF,3000,AR
+3649,Alem 794,Rosario,Santa Fe,SF,2000,AR
+3650,Alsina 3013,Rosario,Santa Fe,SF,2000,AR
+3651,Av. Colón 3611,San Isidro,Buenos Aires,BA,1642,AR
+3652,Italia 550,Córdoba,Córdoba,CBA,5000,AR
+3653,Brown 4734,Córdoba,Córdoba,CBA,5000,AR
+3654,Alsina 1314,Rosario,Santa Fe,SF,2000,AR
+3655,Italia 3574,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3656,Av. Colón 2649,Bahía Blanca,Buenos Aires,BA,8000,AR
+3657,Moreno 1092,Quilmes,Buenos Aires,BA,1878,AR
+3658,Balcarce 3147,Córdoba,Córdoba,CBA,5000,AR
+3659,Balcarce 3899,San Rafael,Mendoza,MZA,5600,AR
+3660,España 4585,Godoy Cruz,Mendoza,MZA,5501,AR
+3661,Salta 3311,Mendoza,Mendoza,MZA,5500,AR
+3662,Mitre 686,San Rafael,Mendoza,MZA,5600,AR
+3663,Tucumán 1777,Bahía Blanca,Buenos Aires,BA,8000,AR
+3664,Moreno 132,Quilmes,Buenos Aires,BA,1878,AR
+3665,Güemes 958,Córdoba,Córdoba,CBA,5000,AR
+3666,Av. Pellegrini 838,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3667,Moreno 2620,Quilmes,Buenos Aires,BA,1878,AR
+3668,Dorrego 3708,La Plata,Buenos Aires,BA,1900,AR
+3669,Mitre 3250,San Isidro,Buenos Aires,BA,1642,AR
+3670,Rivadavia 775,Santa Fe,Santa Fe,SF,3000,AR
+3671,Av. Pellegrini 4591,Santa Fe,Santa Fe,SF,3000,AR
+3672,Alem 3441,Rosario,Santa Fe,SF,2000,AR
+3673,Av. Pellegrini 2991,Córdoba,Córdoba,CBA,5000,AR
+3674,Castelli 4068,Quilmes,Buenos Aires,BA,1878,AR
+3675,Sarmiento 2413,Mar del Plata,Buenos Aires,BA,7600,AR
+3676,Dorrego 1987,La Plata,Buenos Aires,BA,1900,AR
+3677,Alsina 293,Rafaela,Santa Fe,SF,2300,AR
+3678,9 de Julio 2694,Río Cuarto,Córdoba,CBA,5800,AR
+3679,Av. Colón 4874,Mendoza,Mendoza,MZA,5500,AR
+3680,Castelli 2259,Godoy Cruz,Mendoza,MZA,5501,AR
+3681,Tucumán 2939,Godoy Cruz,Mendoza,MZA,5501,AR
+3682,Moreno 1767,Córdoba,Córdoba,CBA,5000,AR
+3683,Brown 4395,Bahía Blanca,Buenos Aires,BA,8000,AR
+3684,Av. San Martín 3593,San Isidro,Buenos Aires,BA,1642,AR
+3685,Salta 2953,Rosario,Santa Fe,SF,2000,AR
+3686,Laprida 3023,Godoy Cruz,Mendoza,MZA,5501,AR
+3687,Dorrego 1901,Mar del Plata,Buenos Aires,BA,7600,AR
+3688,9 de Julio 2517,La Plata,Buenos Aires,BA,1900,AR
+3689,Tucumán 713,Rosario,Santa Fe,SF,2000,AR
+3690,Maipú 620,Quilmes,Buenos Aires,BA,1878,AR
+3691,Tucumán 2338,Bahía Blanca,Buenos Aires,BA,8000,AR
+3692,Pueyrredón 775,San Isidro,Buenos Aires,BA,1642,AR
+3693,Av. Colón 1186,Córdoba,Córdoba,CBA,5000,AR
+3694,25 de Mayo 392,Córdoba,Córdoba,CBA,5000,AR
+3695,Belgrano 1924,Mar del Plata,Buenos Aires,BA,7600,AR
+3696,Av. San Martín 3196,San Isidro,Buenos Aires,BA,1642,AR
+3697,Independencia 1935,Córdoba,Córdoba,CBA,5000,AR
+3698,Sarmiento 3450,Rafaela,Santa Fe,SF,2300,AR
+3699,Belgrano 1208,Godoy Cruz,Mendoza,MZA,5501,AR
+3700,Las Heras 1576,Río Cuarto,Córdoba,CBA,5800,AR
+3701,Chacabuco 4418,Córdoba,Córdoba,CBA,5000,AR
+3702,Güemes 1124,Quilmes,Buenos Aires,BA,1878,AR
+3703,Alem 1804,Mar del Plata,Buenos Aires,BA,7600,AR
+3704,Pueyrredón 4597,Mar del Plata,Buenos Aires,BA,7600,AR
+3705,Dorrego 2175,Córdoba,Córdoba,CBA,5000,AR
+3706,Alem 954,Rafaela,Santa Fe,SF,2300,AR
+3707,Av. San Martín 4555,Godoy Cruz,Mendoza,MZA,5501,AR
+3708,9 de Julio 4527,Santa Fe,Santa Fe,SF,3000,AR
+3709,Balcarce 2271,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3710,Alsina 3202,Córdoba,Córdoba,CBA,5000,AR
+3711,Pueyrredón 3655,Río Cuarto,Córdoba,CBA,5800,AR
+3712,Dorrego 4191,San Isidro,Buenos Aires,BA,1642,AR
+3713,Av. Colón 725,Mar del Plata,Buenos Aires,BA,7600,AR
+3714,Independencia 528,Mendoza,Mendoza,MZA,5500,AR
+3715,Lavalle 2588,Mar del Plata,Buenos Aires,BA,7600,AR
+3716,Entre Ríos 518,Rosario,Santa Fe,SF,2000,AR
+3717,Entre Ríos 1971,Quilmes,Buenos Aires,BA,1878,AR
+3718,Av. San Martín 1329,La Plata,Buenos Aires,BA,1900,AR
+3719,Castelli 3688,La Plata,Buenos Aires,BA,1900,AR
+3720,Av. Colón 3646,Quilmes,Buenos Aires,BA,1878,AR
+3721,9 de Julio 2227,La Plata,Buenos Aires,BA,1900,AR
+3722,Italia 1867,Córdoba,Córdoba,CBA,5000,AR
+3723,Av. Pellegrini 2398,San Rafael,Mendoza,MZA,5600,AR
+3724,Av. Colón 1003,La Plata,Buenos Aires,BA,1900,AR
+3725,Mitre 2328,Rosario,Santa Fe,SF,2000,AR
+3726,Rivadavia 2840,Córdoba,Córdoba,CBA,5000,AR
+3727,Av. San Martín 378,San Isidro,Buenos Aires,BA,1642,AR
+3728,Maipú 542,Mar del Plata,Buenos Aires,BA,7600,AR
+3729,Moreno 4208,Bahía Blanca,Buenos Aires,BA,8000,AR
+3730,Entre Ríos 3712,La Plata,Buenos Aires,BA,1900,AR
+3731,Laprida 2377,Rosario,Santa Fe,SF,2000,AR
+3732,Balcarce 1544,Córdoba,Córdoba,CBA,5000,AR
+3733,Mitre 2216,Bahía Blanca,Buenos Aires,BA,8000,AR
+3734,Balcarce 4163,Bahía Blanca,Buenos Aires,BA,8000,AR
+3735,Maipú 3910,Mendoza,Mendoza,MZA,5500,AR
+3736,Independencia 878,Córdoba,Córdoba,CBA,5000,AR
+3737,Pueyrredón 3030,Santa Fe,Santa Fe,SF,3000,AR
+3738,Maipú 775,Godoy Cruz,Mendoza,MZA,5501,AR
+3739,Independencia 4923,Santa Fe,Santa Fe,SF,3000,AR
+3740,Alem 4256,Bahía Blanca,Buenos Aires,BA,8000,AR
+3741,9 de Julio 2413,Mendoza,Mendoza,MZA,5500,AR
+3742,Pueyrredón 559,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3743,Mitre 3664,Santa Fe,Santa Fe,SF,3000,AR
+3744,Salta 896,Mendoza,Mendoza,MZA,5500,AR
+3745,Rivadavia 980,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3746,Sarmiento 3192,Córdoba,Córdoba,CBA,5000,AR
+3747,Independencia 1537,Rafaela,Santa Fe,SF,2300,AR
+3748,Sarmiento 203,Rosario,Santa Fe,SF,2000,AR
+3749,Salta 2167,Córdoba,Córdoba,CBA,5000,AR
+3750,Lavalle 1999,Mendoza,Mendoza,MZA,5500,AR
+3751,Tucumán 2515,La Plata,Buenos Aires,BA,1900,AR
+3752,Alem 3430,La Plata,Buenos Aires,BA,1900,AR
+3753,Independencia 3812,La Plata,Buenos Aires,BA,1900,AR
+3754,Castelli 4173,Córdoba,Córdoba,CBA,5000,AR
+3755,Maipú 4182,Rafaela,Santa Fe,SF,2300,AR
+3756,Balcarce 2239,Río Cuarto,Córdoba,CBA,5800,AR
+3757,Castelli 2318,Rosario,Santa Fe,SF,2000,AR
+3758,Urquiza 3288,Córdoba,Córdoba,CBA,5000,AR
+3759,Mitre 4263,Rosario,Santa Fe,SF,2000,AR
+3760,Entre Ríos 2938,Santa Fe,Santa Fe,SF,3000,AR
+3761,Maipú 657,Mendoza,Mendoza,MZA,5500,AR
+3762,Entre Ríos 2288,San Isidro,Buenos Aires,BA,1642,AR
+3763,Belgrano 463,Santa Fe,Santa Fe,SF,3000,AR
+3764,Alsina 3442,Santa Fe,Santa Fe,SF,3000,AR
+3765,Güemes 4494,San Rafael,Mendoza,MZA,5600,AR
+3766,9 de Julio 2236,Santa Fe,Santa Fe,SF,3000,AR
+3767,Sarmiento 2186,Rosario,Santa Fe,SF,2000,AR
+3768,Brown 1558,Santa Fe,Santa Fe,SF,3000,AR
+3769,Sarmiento 2406,Bahía Blanca,Buenos Aires,BA,8000,AR
+3770,Alem 1632,Rafaela,Santa Fe,SF,2300,AR
+3771,Brown 2821,Córdoba,Córdoba,CBA,5000,AR
+3772,Av. Pellegrini 1653,La Plata,Buenos Aires,BA,1900,AR
+3773,Salta 4997,San Isidro,Buenos Aires,BA,1642,AR
+3774,Brown 1485,Mar del Plata,Buenos Aires,BA,7600,AR
+3775,Alem 519,San Rafael,Mendoza,MZA,5600,AR
+3776,Laprida 1138,Rosario,Santa Fe,SF,2000,AR
+3777,Entre Ríos 1436,Rosario,Santa Fe,SF,2000,AR
+3778,Dorrego 1169,Mar del Plata,Buenos Aires,BA,7600,AR
+3779,Alsina 4672,Mendoza,Mendoza,MZA,5500,AR
+3780,Tucumán 363,Bahía Blanca,Buenos Aires,BA,8000,AR
+3781,Alsina 490,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3782,Av. Pellegrini 2640,Bahía Blanca,Buenos Aires,BA,8000,AR
+3783,Independencia 279,Córdoba,Córdoba,CBA,5000,AR
+3784,Belgrano 2813,Mar del Plata,Buenos Aires,BA,7600,AR
+3785,Alsina 4556,Rafaela,Santa Fe,SF,2300,AR
+3786,Alsina 1063,Godoy Cruz,Mendoza,MZA,5501,AR
+3787,Lavalle 3573,Mendoza,Mendoza,MZA,5500,AR
+3788,Chacabuco 2299,Quilmes,Buenos Aires,BA,1878,AR
+3789,Chacabuco 590,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3790,Urquiza 4784,La Plata,Buenos Aires,BA,1900,AR
+3791,Dorrego 357,Mendoza,Mendoza,MZA,5500,AR
+3792,Castelli 1471,Mar del Plata,Buenos Aires,BA,7600,AR
+3793,Alsina 4960,Rosario,Santa Fe,SF,2000,AR
+3794,Castelli 3919,Córdoba,Córdoba,CBA,5000,AR
+3795,Maipú 3907,Mendoza,Mendoza,MZA,5500,AR
+3796,Av. Pellegrini 472,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3797,Av. Pellegrini 150,Quilmes,Buenos Aires,BA,1878,AR
+3798,Av. San Martín 1170,Santa Fe,Santa Fe,SF,3000,AR
+3799,Urquiza 361,Santa Fe,Santa Fe,SF,3000,AR
+3800,Laprida 2982,Mendoza,Mendoza,MZA,5500,AR
+3801,Dorrego 643,La Plata,Buenos Aires,BA,1900,AR
+3802,Entre Ríos 1382,San Isidro,Buenos Aires,BA,1642,AR
+3803,Av. Pellegrini 643,Santa Fe,Santa Fe,SF,3000,AR
+3804,Av. San Martín 1809,Mar del Plata,Buenos Aires,BA,7600,AR
+3805,Maipú 3969,Mendoza,Mendoza,MZA,5500,AR
+3806,Pueyrredón 638,Córdoba,Córdoba,CBA,5000,AR
+3807,9 de Julio 1951,La Plata,Buenos Aires,BA,1900,AR
+3808,Chacabuco 4608,Rosario,Santa Fe,SF,2000,AR
+3809,25 de Mayo 4145,Mar del Plata,Buenos Aires,BA,7600,AR
+3810,Chacabuco 168,Córdoba,Córdoba,CBA,5000,AR
+3811,Pueyrredón 4729,San Isidro,Buenos Aires,BA,1642,AR
+3812,Moreno 2275,Río Cuarto,Córdoba,CBA,5800,AR
+3813,Castelli 600,Córdoba,Córdoba,CBA,5000,AR
+3814,Pueyrredón 2033,Santa Fe,Santa Fe,SF,3000,AR
+3815,Mitre 1281,Rosario,Santa Fe,SF,2000,AR
+3816,Salta 2826,Mar del Plata,Buenos Aires,BA,7600,AR
+3817,Chacabuco 3384,Rafaela,Santa Fe,SF,2300,AR
+3818,9 de Julio 923,Mendoza,Mendoza,MZA,5500,AR
+3819,Dorrego 431,Quilmes,Buenos Aires,BA,1878,AR
+3820,Balcarce 1564,Córdoba,Córdoba,CBA,5000,AR
+3821,Laprida 4127,Quilmes,Buenos Aires,BA,1878,AR
+3822,Mitre 1211,Bahía Blanca,Buenos Aires,BA,8000,AR
+3823,Chacabuco 3639,Mendoza,Mendoza,MZA,5500,AR
+3824,Italia 1365,Mar del Plata,Buenos Aires,BA,7600,AR
+3825,Moreno 859,San Isidro,Buenos Aires,BA,1642,AR
+3826,Chacabuco 227,Mendoza,Mendoza,MZA,5500,AR
+3827,Brown 4574,San Isidro,Buenos Aires,BA,1642,AR
+3828,Dorrego 584,Mar del Plata,Buenos Aires,BA,7600,AR
+3829,Moreno 2283,Córdoba,Córdoba,CBA,5000,AR
+3830,Alem 3654,Rosario,Santa Fe,SF,2000,AR
+3831,Brown 4313,Rosario,Santa Fe,SF,2000,AR
+3832,Alsina 3955,Rosario,Santa Fe,SF,2000,AR
+3833,Mitre 881,Quilmes,Buenos Aires,BA,1878,AR
+3834,Italia 2391,Rosario,Santa Fe,SF,2000,AR
+3835,Brown 4690,Mendoza,Mendoza,MZA,5500,AR
+3836,Las Heras 2378,Quilmes,Buenos Aires,BA,1878,AR
+3837,Av. San Martín 1737,La Plata,Buenos Aires,BA,1900,AR
+3838,Chacabuco 3910,La Plata,Buenos Aires,BA,1900,AR
+3839,Av. San Martín 1428,Godoy Cruz,Mendoza,MZA,5501,AR
+3840,Maipú 2483,Mar del Plata,Buenos Aires,BA,7600,AR
+3841,Sarmiento 3139,Mendoza,Mendoza,MZA,5500,AR
+3842,Italia 4300,Mendoza,Mendoza,MZA,5500,AR
+3843,25 de Mayo 4211,Bahía Blanca,Buenos Aires,BA,8000,AR
+3844,Balcarce 764,Santa Fe,Santa Fe,SF,3000,AR
+3845,9 de Julio 895,Godoy Cruz,Mendoza,MZA,5501,AR
+3846,Balcarce 2248,Rosario,Santa Fe,SF,2000,AR
+3847,Tucumán 2809,La Plata,Buenos Aires,BA,1900,AR
+3848,Pueyrredón 735,Mar del Plata,Buenos Aires,BA,7600,AR
+3849,Salta 2856,San Rafael,Mendoza,MZA,5600,AR
+3850,Alem 2869,Santa Fe,Santa Fe,SF,3000,AR
+3851,Laprida 834,Mendoza,Mendoza,MZA,5500,AR
+3852,Chacabuco 834,San Isidro,Buenos Aires,BA,1642,AR
+3853,Dorrego 1561,Rosario,Santa Fe,SF,2000,AR
+3854,Belgrano 4211,Rosario,Santa Fe,SF,2000,AR
+3855,Mitre 481,Córdoba,Córdoba,CBA,5000,AR
+3856,Belgrano 1569,Mar del Plata,Buenos Aires,BA,7600,AR
+3857,Alem 4900,Rosario,Santa Fe,SF,2000,AR
+3858,Moreno 486,San Isidro,Buenos Aires,BA,1642,AR
+3859,Urquiza 3666,Rosario,Santa Fe,SF,2000,AR
+3860,España 714,Rafaela,Santa Fe,SF,2300,AR
+3861,Chacabuco 4502,San Isidro,Buenos Aires,BA,1642,AR
+3862,Salta 3907,Mendoza,Mendoza,MZA,5500,AR
+3863,Balcarce 2784,Córdoba,Córdoba,CBA,5000,AR
+3864,Lavalle 3438,Santa Fe,Santa Fe,SF,3000,AR
+3865,Brown 1339,Santa Fe,Santa Fe,SF,3000,AR
+3866,España 2896,Quilmes,Buenos Aires,BA,1878,AR
+3867,Av. Pellegrini 2956,Bahía Blanca,Buenos Aires,BA,8000,AR
+3868,9 de Julio 594,La Plata,Buenos Aires,BA,1900,AR
+3869,Brown 3913,Santa Fe,Santa Fe,SF,3000,AR
+3870,Balcarce 1787,Mendoza,Mendoza,MZA,5500,AR
+3871,Lavalle 1816,Río Cuarto,Córdoba,CBA,5800,AR
+3872,Dorrego 1104,Santa Fe,Santa Fe,SF,3000,AR
+3873,Independencia 2506,Río Cuarto,Córdoba,CBA,5800,AR
+3874,Maipú 1257,Santa Fe,Santa Fe,SF,3000,AR
+3875,Castelli 2797,La Plata,Buenos Aires,BA,1900,AR
+3876,Sarmiento 4942,Córdoba,Córdoba,CBA,5000,AR
+3877,Dorrego 3345,Córdoba,Córdoba,CBA,5000,AR
+3878,Sarmiento 901,Santa Fe,Santa Fe,SF,3000,AR
+3879,9 de Julio 3241,Córdoba,Córdoba,CBA,5000,AR
+3880,Rivadavia 633,Córdoba,Córdoba,CBA,5000,AR
+3881,Belgrano 1801,Rosario,Santa Fe,SF,2000,AR
+3882,Castelli 3861,La Plata,Buenos Aires,BA,1900,AR
+3883,Lavalle 3807,Rosario,Santa Fe,SF,2000,AR
+3884,Dorrego 948,Santa Fe,Santa Fe,SF,3000,AR
+3885,España 4266,Córdoba,Córdoba,CBA,5000,AR
+3886,Pueyrredón 2092,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3887,Dorrego 4643,La Plata,Buenos Aires,BA,1900,AR
+3888,Pueyrredón 4726,Rosario,Santa Fe,SF,2000,AR
+3889,Salta 1540,Rosario,Santa Fe,SF,2000,AR
+3890,Belgrano 3396,Godoy Cruz,Mendoza,MZA,5501,AR
+3891,Dorrego 1615,Mar del Plata,Buenos Aires,BA,7600,AR
+3892,Av. Pellegrini 4041,San Isidro,Buenos Aires,BA,1642,AR
+3893,Moreno 3316,Córdoba,Córdoba,CBA,5000,AR
+3894,Entre Ríos 480,Mendoza,Mendoza,MZA,5500,AR
+3895,Maipú 4068,Quilmes,Buenos Aires,BA,1878,AR
+3896,Laprida 3994,Río Cuarto,Córdoba,CBA,5800,AR
+3897,Belgrano 3725,Rafaela,Santa Fe,SF,2300,AR
+3898,Belgrano 3406,Rosario,Santa Fe,SF,2000,AR
+3899,Lavalle 2125,Quilmes,Buenos Aires,BA,1878,AR
+3900,Güemes 4651,Rosario,Santa Fe,SF,2000,AR
+3901,España 1642,Quilmes,Buenos Aires,BA,1878,AR
+3902,Mitre 4227,San Isidro,Buenos Aires,BA,1642,AR
+3903,Las Heras 3677,Godoy Cruz,Mendoza,MZA,5501,AR
+3904,Balcarce 216,Rafaela,Santa Fe,SF,2300,AR
+3905,Sarmiento 1422,Mendoza,Mendoza,MZA,5500,AR
+3906,Av. Pellegrini 359,La Plata,Buenos Aires,BA,1900,AR
+3907,Alsina 1178,San Rafael,Mendoza,MZA,5600,AR
+3908,Mitre 1961,Bahía Blanca,Buenos Aires,BA,8000,AR
+3909,España 2259,Santa Fe,Santa Fe,SF,3000,AR
+3910,Chacabuco 3576,Rafaela,Santa Fe,SF,2300,AR
+3911,Las Heras 3507,La Plata,Buenos Aires,BA,1900,AR
+3912,Av. Colón 2651,La Plata,Buenos Aires,BA,1900,AR
+3913,Italia 3346,Quilmes,Buenos Aires,BA,1878,AR
+3914,Las Heras 980,Rafaela,Santa Fe,SF,2300,AR
+3915,Tucumán 2779,San Isidro,Buenos Aires,BA,1642,AR
+3916,Independencia 4033,Quilmes,Buenos Aires,BA,1878,AR
+3917,Tucumán 2957,Mar del Plata,Buenos Aires,BA,7600,AR
+3918,Moreno 2523,Córdoba,Córdoba,CBA,5000,AR
+3919,Güemes 1539,Mar del Plata,Buenos Aires,BA,7600,AR
+3920,Av. Pellegrini 4852,Rafaela,Santa Fe,SF,2300,AR
+3921,Salta 4243,Córdoba,Córdoba,CBA,5000,AR
+3922,Av. Colón 1242,Córdoba,Córdoba,CBA,5000,AR
+3923,25 de Mayo 875,Córdoba,Córdoba,CBA,5000,AR
+3924,Independencia 4470,La Plata,Buenos Aires,BA,1900,AR
+3925,Balcarce 4395,Córdoba,Córdoba,CBA,5000,AR
+3926,Av. Pellegrini 3875,Quilmes,Buenos Aires,BA,1878,AR
+3927,Alsina 2555,Córdoba,Córdoba,CBA,5000,AR
+3928,Italia 2742,Córdoba,Córdoba,CBA,5000,AR
+3929,Pueyrredón 4192,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3930,Pueyrredón 286,Mar del Plata,Buenos Aires,BA,7600,AR
+3931,Rivadavia 4013,Santa Fe,Santa Fe,SF,3000,AR
+3932,Tucumán 2678,Mar del Plata,Buenos Aires,BA,7600,AR
+3933,Güemes 4636,Mar del Plata,Buenos Aires,BA,7600,AR
+3934,Tucumán 4823,San Isidro,Buenos Aires,BA,1642,AR
+3935,Maipú 2258,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3936,Lavalle 4417,Rosario,Santa Fe,SF,2000,AR
+3937,Urquiza 966,Rosario,Santa Fe,SF,2000,AR
+3938,Av. San Martín 2553,Córdoba,Córdoba,CBA,5000,AR
+3939,Brown 3696,Bahía Blanca,Buenos Aires,BA,8000,AR
+3940,Brown 4762,San Rafael,Mendoza,MZA,5600,AR
+3941,Chacabuco 3522,Mar del Plata,Buenos Aires,BA,7600,AR
+3942,Balcarce 4410,Quilmes,Buenos Aires,BA,1878,AR
+3943,Italia 4621,La Plata,Buenos Aires,BA,1900,AR
+3944,Av. Colón 4947,Córdoba,Córdoba,CBA,5000,AR
+3945,Güemes 1424,Rosario,Santa Fe,SF,2000,AR
+3946,Las Heras 4582,Quilmes,Buenos Aires,BA,1878,AR
+3947,Moreno 1772,San Rafael,Mendoza,MZA,5600,AR
+3948,Av. San Martín 2653,Mendoza,Mendoza,MZA,5500,AR
+3949,Lavalle 3968,San Rafael,Mendoza,MZA,5600,AR
+3950,Belgrano 1710,Bahía Blanca,Buenos Aires,BA,8000,AR
+3951,Güemes 886,Rosario,Santa Fe,SF,2000,AR
+3952,Belgrano 4895,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3953,Moreno 3695,La Plata,Buenos Aires,BA,1900,AR
+3954,Rivadavia 1072,La Plata,Buenos Aires,BA,1900,AR
+3955,Balcarce 3604,San Isidro,Buenos Aires,BA,1642,AR
+3956,Brown 3044,Rafaela,Santa Fe,SF,2300,AR
+3957,25 de Mayo 1247,Mar del Plata,Buenos Aires,BA,7600,AR
+3958,Chacabuco 3479,Mendoza,Mendoza,MZA,5500,AR
+3959,Belgrano 1214,Córdoba,Córdoba,CBA,5000,AR
+3960,25 de Mayo 1002,Mendoza,Mendoza,MZA,5500,AR
+3961,Belgrano 2474,Quilmes,Buenos Aires,BA,1878,AR
+3962,Alem 2162,Córdoba,Córdoba,CBA,5000,AR
+3963,Belgrano 605,Río Cuarto,Córdoba,CBA,5800,AR
+3964,Rivadavia 670,La Plata,Buenos Aires,BA,1900,AR
+3965,25 de Mayo 3730,Quilmes,Buenos Aires,BA,1878,AR
+3966,Las Heras 104,La Plata,Buenos Aires,BA,1900,AR
+3967,Castelli 1949,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3968,Brown 3037,La Plata,Buenos Aires,BA,1900,AR
+3969,Belgrano 1877,Bahía Blanca,Buenos Aires,BA,8000,AR
+3970,Independencia 1655,San Isidro,Buenos Aires,BA,1642,AR
+3971,Castelli 2184,Rafaela,Santa Fe,SF,2300,AR
+3972,Av. Colón 1102,Quilmes,Buenos Aires,BA,1878,AR
+3973,Moreno 4182,San Isidro,Buenos Aires,BA,1642,AR
+3974,Laprida 2522,Rafaela,Santa Fe,SF,2300,AR
+3975,Av. Pellegrini 2150,Río Cuarto,Córdoba,CBA,5800,AR
+3976,España 1443,Quilmes,Buenos Aires,BA,1878,AR
+3977,Independencia 2940,Rosario,Santa Fe,SF,2000,AR
+3978,Alsina 2189,San Isidro,Buenos Aires,BA,1642,AR
+3979,Urquiza 812,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3980,Dorrego 3239,San Isidro,Buenos Aires,BA,1642,AR
+3981,Entre Ríos 3446,Santa Fe,Santa Fe,SF,3000,AR
+3982,Alem 4496,Córdoba,Córdoba,CBA,5000,AR
+3983,Italia 4156,San Rafael,Mendoza,MZA,5600,AR
+3984,Tucumán 2958,Santa Fe,Santa Fe,SF,3000,AR
+3985,Av. Colón 118,Córdoba,Córdoba,CBA,5000,AR
+3986,Maipú 3183,Godoy Cruz,Mendoza,MZA,5501,AR
+3987,Tucumán 308,Godoy Cruz,Mendoza,MZA,5501,AR
+3988,9 de Julio 4306,Río Cuarto,Córdoba,CBA,5800,AR
+3989,España 1663,Villa Carlos Paz,Córdoba,CBA,5152,AR
+3990,Balcarce 1314,Santa Fe,Santa Fe,SF,3000,AR
+3991,Av. Colón 1647,Quilmes,Buenos Aires,BA,1878,AR
+3992,Maipú 1021,Bahía Blanca,Buenos Aires,BA,8000,AR
+3993,Av. Colón 2058,Córdoba,Córdoba,CBA,5000,AR
+3994,Italia 1465,Mar del Plata,Buenos Aires,BA,7600,AR
+3995,Balcarce 3189,Córdoba,Córdoba,CBA,5000,AR
+3996,Maipú 758,Rosario,Santa Fe,SF,2000,AR
+3997,Alem 2367,La Plata,Buenos Aires,BA,1900,AR
+3998,Chacabuco 3986,Rosario,Santa Fe,SF,2000,AR
+3999,Maipú 734,La Plata,Buenos Aires,BA,1900,AR
+4000,Rivadavia 259,Bahía Blanca,Buenos Aires,BA,8000,AR
+4001,Brown 1406,Córdoba,Córdoba,CBA,5000,AR
+4002,Las Heras 4502,San Isidro,Buenos Aires,BA,1642,AR
+4003,Av. Pellegrini 1095,San Isidro,Buenos Aires,BA,1642,AR
+4004,España 3963,Quilmes,Buenos Aires,BA,1878,AR
+4005,Tucumán 1068,La Plata,Buenos Aires,BA,1900,AR
+4006,Balcarce 2054,Rafaela,Santa Fe,SF,2300,AR
+4007,Moreno 2748,Rosario,Santa Fe,SF,2000,AR
+4008,Brown 535,Córdoba,Córdoba,CBA,5000,AR
+4009,9 de Julio 1948,Mar del Plata,Buenos Aires,BA,7600,AR
+4010,Castelli 2071,La Plata,Buenos Aires,BA,1900,AR
+4011,Laprida 3095,Bahía Blanca,Buenos Aires,BA,8000,AR
+4012,Av. Colón 4380,Mar del Plata,Buenos Aires,BA,7600,AR
+4013,Salta 3218,Mar del Plata,Buenos Aires,BA,7600,AR
+4014,Laprida 3660,Rafaela,Santa Fe,SF,2300,AR
+4015,Maipú 931,Río Cuarto,Córdoba,CBA,5800,AR
+4016,Güemes 1062,Rosario,Santa Fe,SF,2000,AR
+4017,Chacabuco 1965,La Plata,Buenos Aires,BA,1900,AR
+4018,25 de Mayo 459,San Isidro,Buenos Aires,BA,1642,AR
+4019,Urquiza 2201,Mar del Plata,Buenos Aires,BA,7600,AR
+4020,Maipú 261,Río Cuarto,Córdoba,CBA,5800,AR
+4021,España 4368,Rosario,Santa Fe,SF,2000,AR
+4022,Balcarce 827,San Isidro,Buenos Aires,BA,1642,AR
+4023,Laprida 3133,La Plata,Buenos Aires,BA,1900,AR
+4024,Balcarce 3500,Godoy Cruz,Mendoza,MZA,5501,AR
+4025,Italia 1729,Santa Fe,Santa Fe,SF,3000,AR
+4026,Rivadavia 2282,Mendoza,Mendoza,MZA,5500,AR
+4027,Italia 4269,Mendoza,Mendoza,MZA,5500,AR
+4028,Urquiza 2756,Godoy Cruz,Mendoza,MZA,5501,AR
+4029,Independencia 686,Rosario,Santa Fe,SF,2000,AR
+4030,Av. Colón 4330,Godoy Cruz,Mendoza,MZA,5501,AR
+4031,Güemes 708,Rosario,Santa Fe,SF,2000,AR
+4032,Castelli 837,Bahía Blanca,Buenos Aires,BA,8000,AR
+4033,Castelli 3891,Godoy Cruz,Mendoza,MZA,5501,AR
+4034,Sarmiento 2565,Mar del Plata,Buenos Aires,BA,7600,AR
+4035,Alem 4211,La Plata,Buenos Aires,BA,1900,AR
+4036,España 2934,Río Cuarto,Córdoba,CBA,5800,AR
+4037,Entre Ríos 2739,San Isidro,Buenos Aires,BA,1642,AR
+4038,España 1496,La Plata,Buenos Aires,BA,1900,AR
+4039,Alsina 3359,Quilmes,Buenos Aires,BA,1878,AR
+4040,Mitre 1523,La Plata,Buenos Aires,BA,1900,AR
+4041,Alem 2662,Quilmes,Buenos Aires,BA,1878,AR
+4042,Alsina 173,Mar del Plata,Buenos Aires,BA,7600,AR
+4043,Independencia 4343,Mar del Plata,Buenos Aires,BA,7600,AR
+4044,Moreno 3601,Santa Fe,Santa Fe,SF,3000,AR
+4045,Brown 3527,Bahía Blanca,Buenos Aires,BA,8000,AR
+4046,Salta 1873,Mar del Plata,Buenos Aires,BA,7600,AR
+4047,Güemes 4288,Córdoba,Córdoba,CBA,5000,AR
+4048,Güemes 1290,Quilmes,Buenos Aires,BA,1878,AR
+4049,Alsina 4794,Quilmes,Buenos Aires,BA,1878,AR
+4050,Av. San Martín 1386,Rafaela,Santa Fe,SF,2300,AR
+4051,Urquiza 4100,Mendoza,Mendoza,MZA,5500,AR
+4052,Alem 1172,Córdoba,Córdoba,CBA,5000,AR
+4053,Laprida 438,Santa Fe,Santa Fe,SF,3000,AR
+4054,Güemes 1951,Mendoza,Mendoza,MZA,5500,AR
+4055,Entre Ríos 3105,Río Cuarto,Córdoba,CBA,5800,AR
+4056,Balcarce 1499,Río Cuarto,Córdoba,CBA,5800,AR
+4057,Mitre 3700,Santa Fe,Santa Fe,SF,3000,AR
+4058,Castelli 1412,Rosario,Santa Fe,SF,2000,AR
+4059,Urquiza 2943,Santa Fe,Santa Fe,SF,3000,AR
+4060,Lavalle 2720,Córdoba,Córdoba,CBA,5000,AR
+4061,Laprida 381,San Isidro,Buenos Aires,BA,1642,AR
+4062,Mitre 2748,Rosario,Santa Fe,SF,2000,AR
+4063,25 de Mayo 3753,Rafaela,Santa Fe,SF,2300,AR
+4064,Dorrego 1332,Rosario,Santa Fe,SF,2000,AR
+4065,Güemes 1191,Córdoba,Córdoba,CBA,5000,AR
+4066,Castelli 662,La Plata,Buenos Aires,BA,1900,AR
+4067,Laprida 1297,Córdoba,Córdoba,CBA,5000,AR
+4068,Av. Colón 3444,Bahía Blanca,Buenos Aires,BA,8000,AR
+4069,25 de Mayo 2227,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4070,Av. Pellegrini 3057,Quilmes,Buenos Aires,BA,1878,AR
+4071,Tucumán 505,Rosario,Santa Fe,SF,2000,AR
+4072,Entre Ríos 2531,Quilmes,Buenos Aires,BA,1878,AR
+4073,Independencia 1472,Quilmes,Buenos Aires,BA,1878,AR
+4074,Independencia 1297,Río Cuarto,Córdoba,CBA,5800,AR
+4075,Dorrego 2714,Río Cuarto,Córdoba,CBA,5800,AR
+4076,Moreno 3605,Mendoza,Mendoza,MZA,5500,AR
+4077,25 de Mayo 3553,Córdoba,Córdoba,CBA,5000,AR
+4078,Pueyrredón 2517,San Rafael,Mendoza,MZA,5600,AR
+4079,Laprida 3260,Córdoba,Córdoba,CBA,5000,AR
+4080,Laprida 3012,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4081,Sarmiento 4865,Córdoba,Córdoba,CBA,5000,AR
+4082,9 de Julio 3880,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4083,Av. Pellegrini 981,La Plata,Buenos Aires,BA,1900,AR
+4084,España 865,Quilmes,Buenos Aires,BA,1878,AR
+4085,Balcarce 2617,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4086,Av. Colón 3361,Mendoza,Mendoza,MZA,5500,AR
+4087,Av. San Martín 1738,Rosario,Santa Fe,SF,2000,AR
+4088,Entre Ríos 4649,Mar del Plata,Buenos Aires,BA,7600,AR
+4089,25 de Mayo 3236,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4090,9 de Julio 1898,La Plata,Buenos Aires,BA,1900,AR
+4091,Italia 1341,Córdoba,Córdoba,CBA,5000,AR
+4092,Castelli 2213,La Plata,Buenos Aires,BA,1900,AR
+4093,Chacabuco 1035,Quilmes,Buenos Aires,BA,1878,AR
+4094,9 de Julio 2169,San Isidro,Buenos Aires,BA,1642,AR
+4095,Italia 328,Córdoba,Córdoba,CBA,5000,AR
+4096,Urquiza 2490,La Plata,Buenos Aires,BA,1900,AR
+4097,Belgrano 2921,Rosario,Santa Fe,SF,2000,AR
+4098,Balcarce 2626,Santa Fe,Santa Fe,SF,3000,AR
+4099,Lavalle 1560,Bahía Blanca,Buenos Aires,BA,8000,AR
+4100,Italia 3897,Bahía Blanca,Buenos Aires,BA,8000,AR
+4101,Entre Ríos 1722,Quilmes,Buenos Aires,BA,1878,AR
+4102,Sarmiento 1836,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4103,Moreno 2296,Río Cuarto,Córdoba,CBA,5800,AR
+4104,Av. Pellegrini 4672,Córdoba,Córdoba,CBA,5000,AR
+4105,Tucumán 1495,Rosario,Santa Fe,SF,2000,AR
+4106,Belgrano 1763,La Plata,Buenos Aires,BA,1900,AR
+4107,Las Heras 4596,Córdoba,Córdoba,CBA,5000,AR
+4108,Laprida 4226,Mar del Plata,Buenos Aires,BA,7600,AR
+4109,25 de Mayo 3504,Mar del Plata,Buenos Aires,BA,7600,AR
+4110,Independencia 4556,Rosario,Santa Fe,SF,2000,AR
+4111,Alem 608,Godoy Cruz,Mendoza,MZA,5501,AR
+4112,Brown 1082,Santa Fe,Santa Fe,SF,3000,AR
+4113,Salta 921,La Plata,Buenos Aires,BA,1900,AR
+4114,Alsina 243,Córdoba,Córdoba,CBA,5000,AR
+4115,Laprida 2700,Quilmes,Buenos Aires,BA,1878,AR
+4116,Güemes 3927,Río Cuarto,Córdoba,CBA,5800,AR
+4117,Independencia 3637,Bahía Blanca,Buenos Aires,BA,8000,AR
+4118,Pueyrredón 643,Bahía Blanca,Buenos Aires,BA,8000,AR
+4119,Balcarce 2201,La Plata,Buenos Aires,BA,1900,AR
+4120,Alsina 434,Córdoba,Córdoba,CBA,5000,AR
+4121,Rivadavia 4060,Rosario,Santa Fe,SF,2000,AR
+4122,Las Heras 2071,Quilmes,Buenos Aires,BA,1878,AR
+4123,Alsina 2208,Córdoba,Córdoba,CBA,5000,AR
+4124,Moreno 4400,Bahía Blanca,Buenos Aires,BA,8000,AR
+4125,Güemes 4618,Mendoza,Mendoza,MZA,5500,AR
+4126,Entre Ríos 3533,Córdoba,Córdoba,CBA,5000,AR
+4127,Av. Colón 4124,La Plata,Buenos Aires,BA,1900,AR
+4128,Chacabuco 2954,La Plata,Buenos Aires,BA,1900,AR
+4129,Salta 3876,La Plata,Buenos Aires,BA,1900,AR
+4130,25 de Mayo 4451,Mar del Plata,Buenos Aires,BA,7600,AR
+4131,Belgrano 2023,San Isidro,Buenos Aires,BA,1642,AR
+4132,Av. San Martín 1116,Santa Fe,Santa Fe,SF,3000,AR
+4133,Av. San Martín 1247,Quilmes,Buenos Aires,BA,1878,AR
+4134,Tucumán 3540,Rosario,Santa Fe,SF,2000,AR
+4135,Maipú 626,Quilmes,Buenos Aires,BA,1878,AR
+4136,Belgrano 4409,Santa Fe,Santa Fe,SF,3000,AR
+4137,Güemes 1128,La Plata,Buenos Aires,BA,1900,AR
+4138,Italia 412,Rafaela,Santa Fe,SF,2300,AR
+4139,Independencia 2409,Río Cuarto,Córdoba,CBA,5800,AR
+4140,Alem 1807,Godoy Cruz,Mendoza,MZA,5501,AR
+4141,Tucumán 135,Río Cuarto,Córdoba,CBA,5800,AR
+4142,Laprida 3126,Quilmes,Buenos Aires,BA,1878,AR
+4143,Urquiza 2527,Santa Fe,Santa Fe,SF,3000,AR
+4144,Dorrego 1862,Rosario,Santa Fe,SF,2000,AR
+4145,Pueyrredón 1829,Mar del Plata,Buenos Aires,BA,7600,AR
+4146,9 de Julio 4158,La Plata,Buenos Aires,BA,1900,AR
+4147,España 1634,San Isidro,Buenos Aires,BA,1642,AR
+4148,Las Heras 3904,Mendoza,Mendoza,MZA,5500,AR
+4149,Moreno 1219,Mar del Plata,Buenos Aires,BA,7600,AR
+4150,Moreno 3307,Mar del Plata,Buenos Aires,BA,7600,AR
+4151,9 de Julio 3291,La Plata,Buenos Aires,BA,1900,AR
+4152,Moreno 773,San Isidro,Buenos Aires,BA,1642,AR
+4153,Dorrego 695,Santa Fe,Santa Fe,SF,3000,AR
+4154,Maipú 737,Córdoba,Córdoba,CBA,5000,AR
+4155,Moreno 2268,Rafaela,Santa Fe,SF,2300,AR
+4156,Balcarce 1959,Rosario,Santa Fe,SF,2000,AR
+4157,Castelli 2471,Córdoba,Córdoba,CBA,5000,AR
+4158,Entre Ríos 1246,Mar del Plata,Buenos Aires,BA,7600,AR
+4159,Las Heras 2201,La Plata,Buenos Aires,BA,1900,AR
+4160,Independencia 4235,La Plata,Buenos Aires,BA,1900,AR
+4161,Alsina 3357,La Plata,Buenos Aires,BA,1900,AR
+4162,Dorrego 4765,La Plata,Buenos Aires,BA,1900,AR
+4163,9 de Julio 800,Río Cuarto,Córdoba,CBA,5800,AR
+4164,Chacabuco 4930,Santa Fe,Santa Fe,SF,3000,AR
+4165,Mitre 836,Córdoba,Córdoba,CBA,5000,AR
+4166,Chacabuco 3113,Quilmes,Buenos Aires,BA,1878,AR
+4167,Entre Ríos 4638,Rosario,Santa Fe,SF,2000,AR
+4168,Sarmiento 2975,Mendoza,Mendoza,MZA,5500,AR
+4169,Pueyrredón 1318,La Plata,Buenos Aires,BA,1900,AR
+4170,Moreno 4305,Río Cuarto,Córdoba,CBA,5800,AR
+4171,Alem 1646,Córdoba,Córdoba,CBA,5000,AR
+4172,Pueyrredón 2510,Córdoba,Córdoba,CBA,5000,AR
+4173,Salta 2867,La Plata,Buenos Aires,BA,1900,AR
+4174,Independencia 1252,La Plata,Buenos Aires,BA,1900,AR
+4175,Las Heras 4406,Río Cuarto,Córdoba,CBA,5800,AR
+4176,Las Heras 4595,Rosario,Santa Fe,SF,2000,AR
+4177,Castelli 2315,Córdoba,Córdoba,CBA,5000,AR
+4178,Av. San Martín 1564,La Plata,Buenos Aires,BA,1900,AR
+4179,Independencia 139,San Isidro,Buenos Aires,BA,1642,AR
+4180,Maipú 4447,Rosario,Santa Fe,SF,2000,AR
+4181,Entre Ríos 3931,Rosario,Santa Fe,SF,2000,AR
+4182,Brown 4613,La Plata,Buenos Aires,BA,1900,AR
+4183,Chacabuco 2021,La Plata,Buenos Aires,BA,1900,AR
+4184,España 877,Córdoba,Córdoba,CBA,5000,AR
+4185,Sarmiento 3563,Santa Fe,Santa Fe,SF,3000,AR
+4186,Salta 3153,La Plata,Buenos Aires,BA,1900,AR
+4187,Av. Pellegrini 2227,La Plata,Buenos Aires,BA,1900,AR
+4188,Alem 3593,Mar del Plata,Buenos Aires,BA,7600,AR
+4189,Salta 2129,Córdoba,Córdoba,CBA,5000,AR
+4190,Dorrego 1472,Quilmes,Buenos Aires,BA,1878,AR
+4191,España 1316,Mendoza,Mendoza,MZA,5500,AR
+4192,Independencia 3174,La Plata,Buenos Aires,BA,1900,AR
+4193,Brown 1772,Córdoba,Córdoba,CBA,5000,AR
+4194,Rivadavia 3131,Godoy Cruz,Mendoza,MZA,5501,AR
+4195,Balcarce 3674,Santa Fe,Santa Fe,SF,3000,AR
+4196,Moreno 4091,Santa Fe,Santa Fe,SF,3000,AR
+4197,Alsina 2736,Rosario,Santa Fe,SF,2000,AR
+4198,Mitre 4373,Córdoba,Córdoba,CBA,5000,AR
+4199,Rivadavia 584,Godoy Cruz,Mendoza,MZA,5501,AR
+4200,25 de Mayo 3482,Santa Fe,Santa Fe,SF,3000,AR
+4201,9 de Julio 4405,San Rafael,Mendoza,MZA,5600,AR
+4202,Castelli 2276,Rosario,Santa Fe,SF,2000,AR
+4203,Maipú 2346,La Plata,Buenos Aires,BA,1900,AR
+4204,Entre Ríos 2226,La Plata,Buenos Aires,BA,1900,AR
+4205,Moreno 4277,Río Cuarto,Córdoba,CBA,5800,AR
+4206,9 de Julio 3768,Mar del Plata,Buenos Aires,BA,7600,AR
+4207,Tucumán 1761,Rafaela,Santa Fe,SF,2300,AR
+4208,Chacabuco 674,Santa Fe,Santa Fe,SF,3000,AR
+4209,Mitre 1098,La Plata,Buenos Aires,BA,1900,AR
+4210,Entre Ríos 133,Rosario,Santa Fe,SF,2000,AR
+4211,Alem 150,Río Cuarto,Córdoba,CBA,5800,AR
+4212,Entre Ríos 2570,Bahía Blanca,Buenos Aires,BA,8000,AR
+4213,Av. San Martín 2091,Quilmes,Buenos Aires,BA,1878,AR
+4214,Entre Ríos 553,Quilmes,Buenos Aires,BA,1878,AR
+4215,Alsina 2311,San Isidro,Buenos Aires,BA,1642,AR
+4216,Av. San Martín 1135,Rosario,Santa Fe,SF,2000,AR
+4217,Av. Pellegrini 2927,Rafaela,Santa Fe,SF,2300,AR
+4218,Italia 1125,Santa Fe,Santa Fe,SF,3000,AR
+4219,Alem 2146,Córdoba,Córdoba,CBA,5000,AR
+4220,Pueyrredón 889,Quilmes,Buenos Aires,BA,1878,AR
+4221,España 1432,Córdoba,Córdoba,CBA,5000,AR
+4222,Brown 3395,La Plata,Buenos Aires,BA,1900,AR
+4223,Entre Ríos 3558,Mar del Plata,Buenos Aires,BA,7600,AR
+4224,Moreno 3931,Córdoba,Córdoba,CBA,5000,AR
+4225,Mitre 3300,La Plata,Buenos Aires,BA,1900,AR
+4226,Mitre 3432,Mendoza,Mendoza,MZA,5500,AR
+4227,Av. San Martín 690,Godoy Cruz,Mendoza,MZA,5501,AR
+4228,Belgrano 1933,Rafaela,Santa Fe,SF,2300,AR
+4229,Güemes 2442,Mendoza,Mendoza,MZA,5500,AR
+4230,Mitre 3517,Santa Fe,Santa Fe,SF,3000,AR
+4231,Sarmiento 1064,La Plata,Buenos Aires,BA,1900,AR
+4232,Italia 734,Córdoba,Córdoba,CBA,5000,AR
+4233,Alem 1187,Córdoba,Córdoba,CBA,5000,AR
+4234,Salta 144,San Rafael,Mendoza,MZA,5600,AR
+4235,Güemes 1885,Córdoba,Córdoba,CBA,5000,AR
+4236,Pueyrredón 2120,Rosario,Santa Fe,SF,2000,AR
+4237,Rivadavia 3495,Córdoba,Córdoba,CBA,5000,AR
+4238,Alsina 4365,Rosario,Santa Fe,SF,2000,AR
+4239,Mitre 326,Mar del Plata,Buenos Aires,BA,7600,AR
+4240,Av. Pellegrini 3133,Rosario,Santa Fe,SF,2000,AR
+4241,Pueyrredón 2902,Río Cuarto,Córdoba,CBA,5800,AR
+4242,Tucumán 1450,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4243,Las Heras 1411,Santa Fe,Santa Fe,SF,3000,AR
+4244,Dorrego 687,Rafaela,Santa Fe,SF,2300,AR
+4245,Rivadavia 3486,Mar del Plata,Buenos Aires,BA,7600,AR
+4246,Alsina 695,Rosario,Santa Fe,SF,2000,AR
+4247,Av. Colón 4801,Mendoza,Mendoza,MZA,5500,AR
+4248,Dorrego 1347,Rosario,Santa Fe,SF,2000,AR
+4249,Sarmiento 357,Córdoba,Córdoba,CBA,5000,AR
+4250,Lavalle 180,Quilmes,Buenos Aires,BA,1878,AR
+4251,Mitre 3550,Mendoza,Mendoza,MZA,5500,AR
+4252,Entre Ríos 1206,Mar del Plata,Buenos Aires,BA,7600,AR
+4253,Entre Ríos 4316,Bahía Blanca,Buenos Aires,BA,8000,AR
+4254,Rivadavia 1321,La Plata,Buenos Aires,BA,1900,AR
+4255,Lavalle 3663,La Plata,Buenos Aires,BA,1900,AR
+4256,Alsina 4213,La Plata,Buenos Aires,BA,1900,AR
+4257,Chacabuco 3740,Rosario,Santa Fe,SF,2000,AR
+4258,Alsina 3528,Mar del Plata,Buenos Aires,BA,7600,AR
+4259,España 2962,Mar del Plata,Buenos Aires,BA,7600,AR
+4260,Alsina 596,Santa Fe,Santa Fe,SF,3000,AR
+4261,Entre Ríos 1051,San Rafael,Mendoza,MZA,5600,AR
+4262,Balcarce 2908,La Plata,Buenos Aires,BA,1900,AR
+4263,Pueyrredón 3471,San Isidro,Buenos Aires,BA,1642,AR
+4264,España 291,Rosario,Santa Fe,SF,2000,AR
+4265,Balcarce 4409,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4266,Alem 1439,Godoy Cruz,Mendoza,MZA,5501,AR
+4267,Sarmiento 2906,Rafaela,Santa Fe,SF,2300,AR
+4268,España 305,Bahía Blanca,Buenos Aires,BA,8000,AR
+4269,Tucumán 4144,Mendoza,Mendoza,MZA,5500,AR
+4270,Laprida 4899,Mendoza,Mendoza,MZA,5500,AR
+4271,9 de Julio 994,Córdoba,Córdoba,CBA,5000,AR
+4272,Urquiza 1936,Rosario,Santa Fe,SF,2000,AR
+4273,Italia 1374,La Plata,Buenos Aires,BA,1900,AR
+4274,Castelli 1208,Rosario,Santa Fe,SF,2000,AR
+4275,Moreno 4641,Santa Fe,Santa Fe,SF,3000,AR
+4276,9 de Julio 2884,Bahía Blanca,Buenos Aires,BA,8000,AR
+4277,Independencia 2012,Godoy Cruz,Mendoza,MZA,5501,AR
+4278,25 de Mayo 3038,Santa Fe,Santa Fe,SF,3000,AR
+4279,Entre Ríos 1201,Rosario,Santa Fe,SF,2000,AR
+4280,Las Heras 502,Santa Fe,Santa Fe,SF,3000,AR
+4281,Rivadavia 1688,Bahía Blanca,Buenos Aires,BA,8000,AR
+4282,Dorrego 2679,Santa Fe,Santa Fe,SF,3000,AR
+4283,Av. Pellegrini 3068,Rosario,Santa Fe,SF,2000,AR
+4284,Pueyrredón 114,Mendoza,Mendoza,MZA,5500,AR
+4285,Balcarce 2679,Bahía Blanca,Buenos Aires,BA,8000,AR
+4286,Av. San Martín 1730,Rosario,Santa Fe,SF,2000,AR
+4287,Av. San Martín 1141,Quilmes,Buenos Aires,BA,1878,AR
+4288,Italia 1767,Rafaela,Santa Fe,SF,2300,AR
+4289,Güemes 4070,Córdoba,Córdoba,CBA,5000,AR
+4290,Belgrano 2705,Godoy Cruz,Mendoza,MZA,5501,AR
+4291,Alsina 625,Santa Fe,Santa Fe,SF,3000,AR
+4292,Av. Pellegrini 4815,Rafaela,Santa Fe,SF,2300,AR
+4293,Salta 4968,Santa Fe,Santa Fe,SF,3000,AR
+4294,Lavalle 1401,Rafaela,Santa Fe,SF,2300,AR
+4295,Rivadavia 3310,Rosario,Santa Fe,SF,2000,AR
+4296,9 de Julio 1100,Rosario,Santa Fe,SF,2000,AR
+4297,Sarmiento 3824,Santa Fe,Santa Fe,SF,3000,AR
+4298,Av. San Martín 417,Rosario,Santa Fe,SF,2000,AR
+4299,25 de Mayo 1841,Mar del Plata,Buenos Aires,BA,7600,AR
+4300,Belgrano 947,Mendoza,Mendoza,MZA,5500,AR
+4301,Urquiza 3348,Rosario,Santa Fe,SF,2000,AR
+4302,Entre Ríos 134,Quilmes,Buenos Aires,BA,1878,AR
+4303,Maipú 1966,Mendoza,Mendoza,MZA,5500,AR
+4304,Brown 3523,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4305,España 1273,Bahía Blanca,Buenos Aires,BA,8000,AR
+4306,Italia 2845,Godoy Cruz,Mendoza,MZA,5501,AR
+4307,Av. Colón 655,Rosario,Santa Fe,SF,2000,AR
+4308,Laprida 3518,San Rafael,Mendoza,MZA,5600,AR
+4309,Alem 429,Godoy Cruz,Mendoza,MZA,5501,AR
+4310,Tucumán 770,La Plata,Buenos Aires,BA,1900,AR
+4311,Las Heras 294,Mendoza,Mendoza,MZA,5500,AR
+4312,Castelli 3942,Mendoza,Mendoza,MZA,5500,AR
+4313,9 de Julio 4665,Santa Fe,Santa Fe,SF,3000,AR
+4314,Moreno 3611,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4315,Salta 4437,Bahía Blanca,Buenos Aires,BA,8000,AR
+4316,Lavalle 2117,Mendoza,Mendoza,MZA,5500,AR
+4317,Tucumán 4581,Mendoza,Mendoza,MZA,5500,AR
+4318,España 4506,La Plata,Buenos Aires,BA,1900,AR
+4319,Chacabuco 2666,Rosario,Santa Fe,SF,2000,AR
+4320,Av. Colón 2449,Córdoba,Córdoba,CBA,5000,AR
+4321,Mitre 4839,Mendoza,Mendoza,MZA,5500,AR
+4322,Rivadavia 615,Córdoba,Córdoba,CBA,5000,AR
+4323,Belgrano 3892,San Isidro,Buenos Aires,BA,1642,AR
+4324,Dorrego 4831,Quilmes,Buenos Aires,BA,1878,AR
+4325,Maipú 4368,Mendoza,Mendoza,MZA,5500,AR
+4326,Pueyrredón 1426,La Plata,Buenos Aires,BA,1900,AR
+4327,Alem 2489,La Plata,Buenos Aires,BA,1900,AR
+4328,Lavalle 4420,Río Cuarto,Córdoba,CBA,5800,AR
+4329,Alsina 270,Mendoza,Mendoza,MZA,5500,AR
+4330,Salta 2956,Córdoba,Córdoba,CBA,5000,AR
+4331,Laprida 3343,Rosario,Santa Fe,SF,2000,AR
+4332,Moreno 3401,Rosario,Santa Fe,SF,2000,AR
+4333,Urquiza 1930,Córdoba,Córdoba,CBA,5000,AR
+4334,Dorrego 2211,Mar del Plata,Buenos Aires,BA,7600,AR
+4335,Italia 4409,Mar del Plata,Buenos Aires,BA,7600,AR
+4336,Mitre 757,La Plata,Buenos Aires,BA,1900,AR
+4337,9 de Julio 2049,Quilmes,Buenos Aires,BA,1878,AR
+4338,Güemes 2789,San Isidro,Buenos Aires,BA,1642,AR
+4339,Urquiza 2099,Quilmes,Buenos Aires,BA,1878,AR
+4340,Rivadavia 1292,Mar del Plata,Buenos Aires,BA,7600,AR
+4341,Tucumán 4637,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4342,Entre Ríos 4878,Mar del Plata,Buenos Aires,BA,7600,AR
+4343,Urquiza 1616,Rosario,Santa Fe,SF,2000,AR
+4344,Brown 4522,Mendoza,Mendoza,MZA,5500,AR
+4345,Brown 3778,Río Cuarto,Córdoba,CBA,5800,AR
+4346,Rivadavia 838,San Rafael,Mendoza,MZA,5600,AR
+4347,Alsina 1028,Bahía Blanca,Buenos Aires,BA,8000,AR
+4348,Sarmiento 2293,Córdoba,Córdoba,CBA,5000,AR
+4349,25 de Mayo 3804,La Plata,Buenos Aires,BA,1900,AR
+4350,Las Heras 120,Quilmes,Buenos Aires,BA,1878,AR
+4351,Maipú 407,Córdoba,Córdoba,CBA,5000,AR
+4352,Maipú 1350,Rosario,Santa Fe,SF,2000,AR
+4353,Urquiza 2703,Córdoba,Córdoba,CBA,5000,AR
+4354,Alem 295,Mar del Plata,Buenos Aires,BA,7600,AR
+4355,Tucumán 421,Mendoza,Mendoza,MZA,5500,AR
+4356,Rivadavia 2436,La Plata,Buenos Aires,BA,1900,AR
+4357,Laprida 3180,Quilmes,Buenos Aires,BA,1878,AR
+4358,Chacabuco 3346,Godoy Cruz,Mendoza,MZA,5501,AR
+4359,Av. Colón 1369,Santa Fe,Santa Fe,SF,3000,AR
+4360,Entre Ríos 4663,San Rafael,Mendoza,MZA,5600,AR
+4361,Alsina 3594,La Plata,Buenos Aires,BA,1900,AR
+4362,Laprida 2396,Mar del Plata,Buenos Aires,BA,7600,AR
+4363,Salta 2394,La Plata,Buenos Aires,BA,1900,AR
+4364,Independencia 3070,Santa Fe,Santa Fe,SF,3000,AR
+4365,Maipú 922,Córdoba,Córdoba,CBA,5000,AR
+4366,Av. Colón 3175,Santa Fe,Santa Fe,SF,3000,AR
+4367,Urquiza 1341,Córdoba,Córdoba,CBA,5000,AR
+4368,España 909,Córdoba,Córdoba,CBA,5000,AR
+4369,Güemes 381,Rosario,Santa Fe,SF,2000,AR
+4370,Las Heras 4120,Quilmes,Buenos Aires,BA,1878,AR
+4371,Alsina 1253,La Plata,Buenos Aires,BA,1900,AR
+4372,Mitre 3740,La Plata,Buenos Aires,BA,1900,AR
+4373,Belgrano 2497,Quilmes,Buenos Aires,BA,1878,AR
+4374,Güemes 1629,Río Cuarto,Córdoba,CBA,5800,AR
+4375,Balcarce 4405,La Plata,Buenos Aires,BA,1900,AR
+4376,Las Heras 4547,Córdoba,Córdoba,CBA,5000,AR
+4377,Maipú 4891,San Rafael,Mendoza,MZA,5600,AR
+4378,Brown 142,San Rafael,Mendoza,MZA,5600,AR
+4379,Maipú 3365,Rosario,Santa Fe,SF,2000,AR
+4380,Balcarce 3211,Mar del Plata,Buenos Aires,BA,7600,AR
+4381,Castelli 367,Córdoba,Córdoba,CBA,5000,AR
+4382,25 de Mayo 3532,Quilmes,Buenos Aires,BA,1878,AR
+4383,Laprida 1718,La Plata,Buenos Aires,BA,1900,AR
+4384,Castelli 3035,San Rafael,Mendoza,MZA,5600,AR
+4385,25 de Mayo 4759,San Rafael,Mendoza,MZA,5600,AR
+4386,Mitre 2599,Rafaela,Santa Fe,SF,2300,AR
+4387,España 4775,San Isidro,Buenos Aires,BA,1642,AR
+4388,Dorrego 4271,Mar del Plata,Buenos Aires,BA,7600,AR
+4389,Rivadavia 3532,San Isidro,Buenos Aires,BA,1642,AR
+4390,Sarmiento 482,San Isidro,Buenos Aires,BA,1642,AR
+4391,Av. Pellegrini 2585,Bahía Blanca,Buenos Aires,BA,8000,AR
+4392,Moreno 748,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4393,Laprida 189,La Plata,Buenos Aires,BA,1900,AR
+4394,Dorrego 4769,Córdoba,Córdoba,CBA,5000,AR
+4395,Chacabuco 4941,Santa Fe,Santa Fe,SF,3000,AR
+4396,25 de Mayo 2135,Mar del Plata,Buenos Aires,BA,7600,AR
+4397,Laprida 3747,La Plata,Buenos Aires,BA,1900,AR
+4398,9 de Julio 1459,Río Cuarto,Córdoba,CBA,5800,AR
+4399,Balcarce 3930,Córdoba,Córdoba,CBA,5000,AR
+4400,Belgrano 4684,Rafaela,Santa Fe,SF,2300,AR
+4401,Laprida 4109,La Plata,Buenos Aires,BA,1900,AR
+4402,España 1672,Mar del Plata,Buenos Aires,BA,7600,AR
+4403,Entre Ríos 3156,La Plata,Buenos Aires,BA,1900,AR
+4404,Las Heras 1860,Rosario,Santa Fe,SF,2000,AR
+4405,Urquiza 1130,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4406,Belgrano 102,Godoy Cruz,Mendoza,MZA,5501,AR
+4407,Tucumán 2822,Córdoba,Córdoba,CBA,5000,AR
+4408,Mitre 909,Quilmes,Buenos Aires,BA,1878,AR
+4409,Laprida 2185,Córdoba,Córdoba,CBA,5000,AR
+4410,Urquiza 751,Rafaela,Santa Fe,SF,2300,AR
+4411,Balcarce 1616,Córdoba,Córdoba,CBA,5000,AR
+4412,Entre Ríos 1278,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4413,Entre Ríos 4287,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4414,9 de Julio 4866,Córdoba,Córdoba,CBA,5000,AR
+4415,Salta 4382,Córdoba,Córdoba,CBA,5000,AR
+4416,Brown 2371,Rosario,Santa Fe,SF,2000,AR
+4417,Pueyrredón 2372,Córdoba,Córdoba,CBA,5000,AR
+4418,Belgrano 3089,San Isidro,Buenos Aires,BA,1642,AR
+4419,Balcarce 2873,Mar del Plata,Buenos Aires,BA,7600,AR
+4420,Mitre 1175,Córdoba,Córdoba,CBA,5000,AR
+4421,Entre Ríos 104,Santa Fe,Santa Fe,SF,3000,AR
+4422,Italia 1527,Córdoba,Córdoba,CBA,5000,AR
+4423,25 de Mayo 2036,San Isidro,Buenos Aires,BA,1642,AR
+4424,Laprida 2078,La Plata,Buenos Aires,BA,1900,AR
+4425,Lavalle 2959,Bahía Blanca,Buenos Aires,BA,8000,AR
+4426,25 de Mayo 3324,La Plata,Buenos Aires,BA,1900,AR
+4427,Brown 621,Rosario,Santa Fe,SF,2000,AR
+4428,Sarmiento 3358,Córdoba,Córdoba,CBA,5000,AR
+4429,Laprida 4798,Mendoza,Mendoza,MZA,5500,AR
+4430,Laprida 3068,Rafaela,Santa Fe,SF,2300,AR
+4431,Moreno 995,San Isidro,Buenos Aires,BA,1642,AR
+4432,Av. San Martín 4079,Bahía Blanca,Buenos Aires,BA,8000,AR
+4433,Tucumán 4827,Mar del Plata,Buenos Aires,BA,7600,AR
+4434,Brown 1034,Godoy Cruz,Mendoza,MZA,5501,AR
+4435,Pueyrredón 2160,Quilmes,Buenos Aires,BA,1878,AR
+4436,Urquiza 1621,La Plata,Buenos Aires,BA,1900,AR
+4437,Mitre 2672,Mendoza,Mendoza,MZA,5500,AR
+4438,Dorrego 135,Santa Fe,Santa Fe,SF,3000,AR
+4439,Av. Pellegrini 588,San Rafael,Mendoza,MZA,5600,AR
+4440,Lavalle 1695,Rosario,Santa Fe,SF,2000,AR
+4441,Entre Ríos 4684,Rosario,Santa Fe,SF,2000,AR
+4442,Entre Ríos 4809,Bahía Blanca,Buenos Aires,BA,8000,AR
+4443,Independencia 996,San Isidro,Buenos Aires,BA,1642,AR
+4444,Tucumán 2937,Mar del Plata,Buenos Aires,BA,7600,AR
+4445,Italia 2125,La Plata,Buenos Aires,BA,1900,AR
+4446,España 664,Córdoba,Córdoba,CBA,5000,AR
+4447,Chacabuco 2738,Río Cuarto,Córdoba,CBA,5800,AR
+4448,Alem 1045,San Isidro,Buenos Aires,BA,1642,AR
+4449,Balcarce 4397,Mar del Plata,Buenos Aires,BA,7600,AR
+4450,Belgrano 745,Córdoba,Córdoba,CBA,5000,AR
+4451,Italia 4065,La Plata,Buenos Aires,BA,1900,AR
+4452,Mitre 1945,Bahía Blanca,Buenos Aires,BA,8000,AR
+4453,Salta 1255,La Plata,Buenos Aires,BA,1900,AR
+4454,Av. Colón 4643,San Isidro,Buenos Aires,BA,1642,AR
+4455,Independencia 867,Rafaela,Santa Fe,SF,2300,AR
+4456,Tucumán 4787,La Plata,Buenos Aires,BA,1900,AR
+4457,Entre Ríos 410,Rosario,Santa Fe,SF,2000,AR
+4458,9 de Julio 1748,Rosario,Santa Fe,SF,2000,AR
+4459,Urquiza 763,La Plata,Buenos Aires,BA,1900,AR
+4460,Alsina 2386,Córdoba,Córdoba,CBA,5000,AR
+4461,Dorrego 4715,Bahía Blanca,Buenos Aires,BA,8000,AR
+4462,Belgrano 3720,Córdoba,Córdoba,CBA,5000,AR
+4463,Urquiza 502,Córdoba,Córdoba,CBA,5000,AR
+4464,Independencia 4546,Córdoba,Córdoba,CBA,5000,AR
+4465,Pueyrredón 1699,Rosario,Santa Fe,SF,2000,AR
+4466,Güemes 2311,Rosario,Santa Fe,SF,2000,AR
+4467,Mitre 1142,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4468,Brown 880,Río Cuarto,Córdoba,CBA,5800,AR
+4469,Av. Colón 3359,Quilmes,Buenos Aires,BA,1878,AR
+4470,Entre Ríos 2219,Mendoza,Mendoza,MZA,5500,AR
+4471,25 de Mayo 3252,Río Cuarto,Córdoba,CBA,5800,AR
+4472,Las Heras 1638,Rosario,Santa Fe,SF,2000,AR
+4473,Maipú 2708,Santa Fe,Santa Fe,SF,3000,AR
+4474,Pueyrredón 281,Córdoba,Córdoba,CBA,5000,AR
+4475,Entre Ríos 1442,Rosario,Santa Fe,SF,2000,AR
+4476,Maipú 2773,Córdoba,Córdoba,CBA,5000,AR
+4477,Laprida 1146,Rafaela,Santa Fe,SF,2300,AR
+4478,Av. San Martín 4218,La Plata,Buenos Aires,BA,1900,AR
+4479,Dorrego 3005,Rosario,Santa Fe,SF,2000,AR
+4480,Castelli 109,Mar del Plata,Buenos Aires,BA,7600,AR
+4481,Maipú 4034,Mendoza,Mendoza,MZA,5500,AR
+4482,Belgrano 2252,Mendoza,Mendoza,MZA,5500,AR
+4483,Moreno 3718,Río Cuarto,Córdoba,CBA,5800,AR
+4484,Dorrego 311,Córdoba,Córdoba,CBA,5000,AR
+4485,Güemes 3775,Mar del Plata,Buenos Aires,BA,7600,AR
+4486,Castelli 2786,San Isidro,Buenos Aires,BA,1642,AR
+4487,Sarmiento 3374,Santa Fe,Santa Fe,SF,3000,AR
+4488,9 de Julio 2953,Santa Fe,Santa Fe,SF,3000,AR
+4489,Lavalle 4857,Mar del Plata,Buenos Aires,BA,7600,AR
+4490,Lavalle 4735,La Plata,Buenos Aires,BA,1900,AR
+4491,Las Heras 3661,Quilmes,Buenos Aires,BA,1878,AR
+4492,Brown 445,Quilmes,Buenos Aires,BA,1878,AR
+4493,Alem 2865,San Rafael,Mendoza,MZA,5600,AR
+4494,Alsina 3142,Mar del Plata,Buenos Aires,BA,7600,AR
+4495,Castelli 3617,Godoy Cruz,Mendoza,MZA,5501,AR
+4496,Av. Colón 366,Rosario,Santa Fe,SF,2000,AR
+4497,Chacabuco 310,Rosario,Santa Fe,SF,2000,AR
+4498,Sarmiento 2357,La Plata,Buenos Aires,BA,1900,AR
+4499,Balcarce 4552,Quilmes,Buenos Aires,BA,1878,AR
+4500,Güemes 2073,La Plata,Buenos Aires,BA,1900,AR
+4501,Brown 554,Mendoza,Mendoza,MZA,5500,AR
+4502,9 de Julio 3357,Santa Fe,Santa Fe,SF,3000,AR
+4503,Sarmiento 2675,Bahía Blanca,Buenos Aires,BA,8000,AR
+4504,Rivadavia 983,Córdoba,Córdoba,CBA,5000,AR
+4505,Urquiza 970,Córdoba,Córdoba,CBA,5000,AR
+4506,Sarmiento 4481,Godoy Cruz,Mendoza,MZA,5501,AR
+4507,Brown 930,Godoy Cruz,Mendoza,MZA,5501,AR
+4508,Av. San Martín 4501,Bahía Blanca,Buenos Aires,BA,8000,AR
+4509,Dorrego 3119,Bahía Blanca,Buenos Aires,BA,8000,AR
+4510,Chacabuco 2459,La Plata,Buenos Aires,BA,1900,AR
+4511,Las Heras 2295,La Plata,Buenos Aires,BA,1900,AR
+4512,Av. Colón 3041,Quilmes,Buenos Aires,BA,1878,AR
+4513,Balcarce 784,Rafaela,Santa Fe,SF,2300,AR
+4514,Av. Pellegrini 3406,Córdoba,Córdoba,CBA,5000,AR
+4515,Chacabuco 1214,La Plata,Buenos Aires,BA,1900,AR
+4516,Maipú 2135,Godoy Cruz,Mendoza,MZA,5501,AR
+4517,Lavalle 2052,Santa Fe,Santa Fe,SF,3000,AR
+4518,Chacabuco 4210,Santa Fe,Santa Fe,SF,3000,AR
+4519,Mitre 1161,Córdoba,Córdoba,CBA,5000,AR
+4520,Urquiza 2686,Rosario,Santa Fe,SF,2000,AR
+4521,Moreno 2182,La Plata,Buenos Aires,BA,1900,AR
+4522,Av. San Martín 661,Rosario,Santa Fe,SF,2000,AR
+4523,Av. Colón 3218,Rosario,Santa Fe,SF,2000,AR
+4524,Tucumán 3374,Mendoza,Mendoza,MZA,5500,AR
+4525,Tucumán 2925,Santa Fe,Santa Fe,SF,3000,AR
+4526,Alsina 3909,Rafaela,Santa Fe,SF,2300,AR
+4527,España 2051,Córdoba,Córdoba,CBA,5000,AR
+4528,Tucumán 4253,Rosario,Santa Fe,SF,2000,AR
+4529,Urquiza 2211,Mendoza,Mendoza,MZA,5500,AR
+4530,Pueyrredón 4652,Rosario,Santa Fe,SF,2000,AR
+4531,Tucumán 4685,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4532,Lavalle 352,La Plata,Buenos Aires,BA,1900,AR
+4533,Mitre 3979,La Plata,Buenos Aires,BA,1900,AR
+4534,Av. San Martín 1549,Mendoza,Mendoza,MZA,5500,AR
+4535,Entre Ríos 779,La Plata,Buenos Aires,BA,1900,AR
+4536,Chacabuco 4304,Rosario,Santa Fe,SF,2000,AR
+4537,Lavalle 1475,Córdoba,Córdoba,CBA,5000,AR
+4538,Pueyrredón 1040,Mar del Plata,Buenos Aires,BA,7600,AR
+4539,Chacabuco 4297,Mar del Plata,Buenos Aires,BA,7600,AR
+4540,9 de Julio 1929,Córdoba,Córdoba,CBA,5000,AR
+4541,Italia 1946,La Plata,Buenos Aires,BA,1900,AR
+4542,Av. Colón 3223,Rosario,Santa Fe,SF,2000,AR
+4543,9 de Julio 4788,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4544,Italia 2089,Rafaela,Santa Fe,SF,2300,AR
+4545,Moreno 703,La Plata,Buenos Aires,BA,1900,AR
+4546,25 de Mayo 2509,Quilmes,Buenos Aires,BA,1878,AR
+4547,Alem 4864,Santa Fe,Santa Fe,SF,3000,AR
+4548,Salta 2256,Bahía Blanca,Buenos Aires,BA,8000,AR
+4549,Alsina 1710,Rosario,Santa Fe,SF,2000,AR
+4550,Pueyrredón 372,Rafaela,Santa Fe,SF,2300,AR
+4551,Las Heras 4450,La Plata,Buenos Aires,BA,1900,AR
+4552,Moreno 1878,Godoy Cruz,Mendoza,MZA,5501,AR
+4553,Salta 4344,La Plata,Buenos Aires,BA,1900,AR
+4554,España 3847,Rosario,Santa Fe,SF,2000,AR
+4555,Urquiza 1273,Santa Fe,Santa Fe,SF,3000,AR
+4556,Güemes 1590,Santa Fe,Santa Fe,SF,3000,AR
+4557,Chacabuco 1392,Mar del Plata,Buenos Aires,BA,7600,AR
+4558,Balcarce 1471,Bahía Blanca,Buenos Aires,BA,8000,AR
+4559,Moreno 4014,La Plata,Buenos Aires,BA,1900,AR
+4560,25 de Mayo 208,Córdoba,Córdoba,CBA,5000,AR
+4561,Tucumán 3257,Bahía Blanca,Buenos Aires,BA,8000,AR
+4562,Salta 576,La Plata,Buenos Aires,BA,1900,AR
+4563,Güemes 1462,Santa Fe,Santa Fe,SF,3000,AR
+4564,Brown 1985,Bahía Blanca,Buenos Aires,BA,8000,AR
+4565,Urquiza 4207,Mar del Plata,Buenos Aires,BA,7600,AR
+4566,25 de Mayo 959,Río Cuarto,Córdoba,CBA,5800,AR
+4567,Dorrego 1891,Mendoza,Mendoza,MZA,5500,AR
+4568,Dorrego 1982,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4569,Chacabuco 4143,Quilmes,Buenos Aires,BA,1878,AR
+4570,Urquiza 4584,Mendoza,Mendoza,MZA,5500,AR
+4571,Tucumán 4440,Río Cuarto,Córdoba,CBA,5800,AR
+4572,25 de Mayo 3960,Quilmes,Buenos Aires,BA,1878,AR
+4573,Salta 4976,Quilmes,Buenos Aires,BA,1878,AR
+4574,Av. Colón 781,Rosario,Santa Fe,SF,2000,AR
+4575,Av. Colón 360,Godoy Cruz,Mendoza,MZA,5501,AR
+4576,Entre Ríos 270,Rosario,Santa Fe,SF,2000,AR
+4577,Lavalle 2619,Río Cuarto,Córdoba,CBA,5800,AR
+4578,Güemes 4744,Río Cuarto,Córdoba,CBA,5800,AR
+4579,España 873,Godoy Cruz,Mendoza,MZA,5501,AR
+4580,Independencia 2804,La Plata,Buenos Aires,BA,1900,AR
+4581,Sarmiento 141,La Plata,Buenos Aires,BA,1900,AR
+4582,Italia 2002,Rosario,Santa Fe,SF,2000,AR
+4583,Tucumán 2472,Rosario,Santa Fe,SF,2000,AR
+4584,España 1452,La Plata,Buenos Aires,BA,1900,AR
+4585,Balcarce 2353,Mar del Plata,Buenos Aires,BA,7600,AR
+4586,Las Heras 3281,La Plata,Buenos Aires,BA,1900,AR
+4587,Belgrano 131,Córdoba,Córdoba,CBA,5000,AR
+4588,Laprida 2548,Mar del Plata,Buenos Aires,BA,7600,AR
+4589,Chacabuco 4840,San Rafael,Mendoza,MZA,5600,AR
+4590,Italia 1949,Mendoza,Mendoza,MZA,5500,AR
+4591,25 de Mayo 1876,San Rafael,Mendoza,MZA,5600,AR
+4592,Urquiza 244,La Plata,Buenos Aires,BA,1900,AR
+4593,Belgrano 1353,San Isidro,Buenos Aires,BA,1642,AR
+4594,Castelli 2082,Córdoba,Córdoba,CBA,5000,AR
+4595,Balcarce 2863,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4596,Castelli 3157,Mar del Plata,Buenos Aires,BA,7600,AR
+4597,Alem 548,Quilmes,Buenos Aires,BA,1878,AR
+4598,España 3657,San Isidro,Buenos Aires,BA,1642,AR
+4599,Dorrego 1447,Bahía Blanca,Buenos Aires,BA,8000,AR
+4600,Castelli 3402,Mar del Plata,Buenos Aires,BA,7600,AR
+4601,Dorrego 4267,Córdoba,Córdoba,CBA,5000,AR
+4602,25 de Mayo 575,Bahía Blanca,Buenos Aires,BA,8000,AR
+4603,Av. Pellegrini 1517,Córdoba,Córdoba,CBA,5000,AR
+4604,Dorrego 4935,Córdoba,Córdoba,CBA,5000,AR
+4605,Las Heras 103,Mendoza,Mendoza,MZA,5500,AR
+4606,Lavalle 2846,Córdoba,Córdoba,CBA,5000,AR
+4607,Av. Pellegrini 4819,La Plata,Buenos Aires,BA,1900,AR
+4608,Belgrano 194,Rosario,Santa Fe,SF,2000,AR
+4609,Maipú 2525,Quilmes,Buenos Aires,BA,1878,AR
+4610,Alem 2406,Córdoba,Córdoba,CBA,5000,AR
+4611,9 de Julio 2517,Godoy Cruz,Mendoza,MZA,5501,AR
+4612,Tucumán 3325,Mar del Plata,Buenos Aires,BA,7600,AR
+4613,Maipú 111,Quilmes,Buenos Aires,BA,1878,AR
+4614,Dorrego 3744,Rosario,Santa Fe,SF,2000,AR
+4615,Av. Pellegrini 3561,Mendoza,Mendoza,MZA,5500,AR
+4616,Av. Colón 1458,La Plata,Buenos Aires,BA,1900,AR
+4617,Belgrano 2354,San Isidro,Buenos Aires,BA,1642,AR
+4618,Independencia 871,Mar del Plata,Buenos Aires,BA,7600,AR
+4619,Chacabuco 4465,Rafaela,Santa Fe,SF,2300,AR
+4620,Entre Ríos 1926,San Isidro,Buenos Aires,BA,1642,AR
+4621,Güemes 2875,Mendoza,Mendoza,MZA,5500,AR
+4622,Pueyrredón 1964,La Plata,Buenos Aires,BA,1900,AR
+4623,Rivadavia 3966,Quilmes,Buenos Aires,BA,1878,AR
+4624,Av. San Martín 3460,Bahía Blanca,Buenos Aires,BA,8000,AR
+4625,Independencia 1455,Bahía Blanca,Buenos Aires,BA,8000,AR
+4626,Entre Ríos 2710,Rafaela,Santa Fe,SF,2300,AR
+4627,Independencia 3121,La Plata,Buenos Aires,BA,1900,AR
+4628,Maipú 1782,Rosario,Santa Fe,SF,2000,AR
+4629,España 1402,Mendoza,Mendoza,MZA,5500,AR
+4630,Alem 3484,Godoy Cruz,Mendoza,MZA,5501,AR
+4631,Salta 3988,La Plata,Buenos Aires,BA,1900,AR
+4632,Italia 2517,Mendoza,Mendoza,MZA,5500,AR
+4633,Maipú 2746,Córdoba,Córdoba,CBA,5000,AR
+4634,Independencia 253,Rosario,Santa Fe,SF,2000,AR
+4635,Entre Ríos 1653,Rosario,Santa Fe,SF,2000,AR
+4636,Alsina 806,Córdoba,Córdoba,CBA,5000,AR
+4637,España 1419,Rosario,Santa Fe,SF,2000,AR
+4638,Lavalle 2353,Mendoza,Mendoza,MZA,5500,AR
+4639,Moreno 2288,Córdoba,Córdoba,CBA,5000,AR
+4640,Mitre 1533,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4641,Tucumán 4942,Córdoba,Córdoba,CBA,5000,AR
+4642,Lavalle 3151,Mendoza,Mendoza,MZA,5500,AR
+4643,Mitre 4366,Godoy Cruz,Mendoza,MZA,5501,AR
+4644,Av. San Martín 3677,Santa Fe,Santa Fe,SF,3000,AR
+4645,Pueyrredón 3707,Mar del Plata,Buenos Aires,BA,7600,AR
+4646,Tucumán 3675,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4647,Pueyrredón 1935,Santa Fe,Santa Fe,SF,3000,AR
+4648,Brown 777,Rosario,Santa Fe,SF,2000,AR
+4649,Av. San Martín 4944,Mar del Plata,Buenos Aires,BA,7600,AR
+4650,Tucumán 1121,Rosario,Santa Fe,SF,2000,AR
+4651,Dorrego 123,Quilmes,Buenos Aires,BA,1878,AR
+4652,Independencia 3363,Rosario,Santa Fe,SF,2000,AR
+4653,Av. Pellegrini 4052,Santa Fe,Santa Fe,SF,3000,AR
+4654,Belgrano 2411,Rosario,Santa Fe,SF,2000,AR
+4655,Entre Ríos 992,Santa Fe,Santa Fe,SF,3000,AR
+4656,Pueyrredón 1432,Godoy Cruz,Mendoza,MZA,5501,AR
+4657,Independencia 3779,Godoy Cruz,Mendoza,MZA,5501,AR
+4658,Rivadavia 2186,Santa Fe,Santa Fe,SF,3000,AR
+4659,Sarmiento 4023,Rosario,Santa Fe,SF,2000,AR
+4660,Moreno 4496,Mar del Plata,Buenos Aires,BA,7600,AR
+4661,Independencia 1437,San Isidro,Buenos Aires,BA,1642,AR
+4662,Laprida 1834,Mendoza,Mendoza,MZA,5500,AR
+4663,Independencia 3505,Rafaela,Santa Fe,SF,2300,AR
+4664,Urquiza 1203,Córdoba,Córdoba,CBA,5000,AR
+4665,Av. Colón 1967,La Plata,Buenos Aires,BA,1900,AR
+4666,Balcarce 3963,Quilmes,Buenos Aires,BA,1878,AR
+4667,Sarmiento 3686,Córdoba,Córdoba,CBA,5000,AR
+4668,Entre Ríos 2462,Santa Fe,Santa Fe,SF,3000,AR
+4669,Balcarce 3124,Mar del Plata,Buenos Aires,BA,7600,AR
+4670,Av. Colón 1772,Córdoba,Córdoba,CBA,5000,AR
+4671,Salta 3182,Córdoba,Córdoba,CBA,5000,AR
+4672,Chacabuco 2870,Rosario,Santa Fe,SF,2000,AR
+4673,Entre Ríos 3001,Bahía Blanca,Buenos Aires,BA,8000,AR
+4674,Güemes 2151,Rosario,Santa Fe,SF,2000,AR
+4675,Moreno 290,San Isidro,Buenos Aires,BA,1642,AR
+4676,Güemes 1514,Rosario,Santa Fe,SF,2000,AR
+4677,Independencia 4401,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4678,España 4818,Córdoba,Córdoba,CBA,5000,AR
+4679,Av. San Martín 2259,Quilmes,Buenos Aires,BA,1878,AR
+4680,Entre Ríos 1172,La Plata,Buenos Aires,BA,1900,AR
+4681,Salta 2620,La Plata,Buenos Aires,BA,1900,AR
+4682,Moreno 1009,Córdoba,Córdoba,CBA,5000,AR
+4683,Brown 2799,Mar del Plata,Buenos Aires,BA,7600,AR
+4684,Balcarce 1836,Rosario,Santa Fe,SF,2000,AR
+4685,Chacabuco 4786,Río Cuarto,Córdoba,CBA,5800,AR
+4686,Balcarce 1432,La Plata,Buenos Aires,BA,1900,AR
+4687,Rivadavia 3870,La Plata,Buenos Aires,BA,1900,AR
+4688,Italia 2773,Quilmes,Buenos Aires,BA,1878,AR
+4689,Tucumán 712,Rosario,Santa Fe,SF,2000,AR
+4690,Castelli 2392,Mendoza,Mendoza,MZA,5500,AR
+4691,Av. Pellegrini 3206,Mendoza,Mendoza,MZA,5500,AR
+4692,Av. Colón 1415,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4693,Güemes 1411,Rosario,Santa Fe,SF,2000,AR
+4694,Alem 618,Quilmes,Buenos Aires,BA,1878,AR
+4695,Independencia 692,Rafaela,Santa Fe,SF,2300,AR
+4696,Moreno 1125,Mendoza,Mendoza,MZA,5500,AR
+4697,Salta 4426,Córdoba,Córdoba,CBA,5000,AR
+4698,Dorrego 1595,La Plata,Buenos Aires,BA,1900,AR
+4699,Pueyrredón 3488,Rosario,Santa Fe,SF,2000,AR
+4700,Pueyrredón 1050,Santa Fe,Santa Fe,SF,3000,AR
+4701,Maipú 1580,Mar del Plata,Buenos Aires,BA,7600,AR
+4702,9 de Julio 344,La Plata,Buenos Aires,BA,1900,AR
+4703,Pueyrredón 3025,San Isidro,Buenos Aires,BA,1642,AR
+4704,Salta 4813,Mendoza,Mendoza,MZA,5500,AR
+4705,Castelli 4415,Mendoza,Mendoza,MZA,5500,AR
+4706,Urquiza 2403,La Plata,Buenos Aires,BA,1900,AR
+4707,Güemes 3019,Mar del Plata,Buenos Aires,BA,7600,AR
+4708,Chacabuco 3023,Río Cuarto,Córdoba,CBA,5800,AR
+4709,9 de Julio 3680,Quilmes,Buenos Aires,BA,1878,AR
+4710,Pueyrredón 4670,Río Cuarto,Córdoba,CBA,5800,AR
+4711,Av. Colón 1627,Rafaela,Santa Fe,SF,2300,AR
+4712,25 de Mayo 3892,Córdoba,Córdoba,CBA,5000,AR
+4713,Alsina 3977,Río Cuarto,Córdoba,CBA,5800,AR
+4714,Lavalle 1055,La Plata,Buenos Aires,BA,1900,AR
+4715,Balcarce 4318,Mendoza,Mendoza,MZA,5500,AR
+4716,Alsina 2818,Godoy Cruz,Mendoza,MZA,5501,AR
+4717,Av. Pellegrini 655,Rafaela,Santa Fe,SF,2300,AR
+4718,Independencia 603,Mar del Plata,Buenos Aires,BA,7600,AR
+4719,Maipú 4250,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4720,Chacabuco 1674,Rosario,Santa Fe,SF,2000,AR
+4721,Alem 3791,Godoy Cruz,Mendoza,MZA,5501,AR
+4722,9 de Julio 570,Quilmes,Buenos Aires,BA,1878,AR
+4723,Av. Colón 2275,Córdoba,Córdoba,CBA,5000,AR
+4724,Entre Ríos 4616,Mendoza,Mendoza,MZA,5500,AR
+4725,Chacabuco 4037,Córdoba,Córdoba,CBA,5000,AR
+4726,Castelli 2403,Godoy Cruz,Mendoza,MZA,5501,AR
+4727,Av. San Martín 1238,Quilmes,Buenos Aires,BA,1878,AR
+4728,Mitre 3501,Córdoba,Córdoba,CBA,5000,AR
+4729,Las Heras 4697,Godoy Cruz,Mendoza,MZA,5501,AR
+4730,Las Heras 2619,Quilmes,Buenos Aires,BA,1878,AR
+4731,Alem 450,Quilmes,Buenos Aires,BA,1878,AR
+4732,9 de Julio 4099,Rosario,Santa Fe,SF,2000,AR
+4733,9 de Julio 3558,Río Cuarto,Córdoba,CBA,5800,AR
+4734,Av. Colón 1712,Mar del Plata,Buenos Aires,BA,7600,AR
+4735,Laprida 2994,Córdoba,Córdoba,CBA,5000,AR
+4736,Lavalle 1196,Santa Fe,Santa Fe,SF,3000,AR
+4737,España 4714,Córdoba,Córdoba,CBA,5000,AR
+4738,9 de Julio 4723,San Isidro,Buenos Aires,BA,1642,AR
+4739,Av. San Martín 1873,Santa Fe,Santa Fe,SF,3000,AR
+4740,Güemes 1249,Quilmes,Buenos Aires,BA,1878,AR
+4741,Alem 3737,San Rafael,Mendoza,MZA,5600,AR
+4742,Castelli 634,La Plata,Buenos Aires,BA,1900,AR
+4743,Entre Ríos 3313,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4744,Lavalle 1526,Rosario,Santa Fe,SF,2000,AR
+4745,Laprida 3502,Rosario,Santa Fe,SF,2000,AR
+4746,Av. Colón 4818,Córdoba,Córdoba,CBA,5000,AR
+4747,Independencia 3410,Mendoza,Mendoza,MZA,5500,AR
+4748,Av. Pellegrini 4900,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4749,Maipú 403,San Isidro,Buenos Aires,BA,1642,AR
+4750,Chacabuco 2076,Mar del Plata,Buenos Aires,BA,7600,AR
+4751,Alsina 1918,Rosario,Santa Fe,SF,2000,AR
+4752,Chacabuco 890,Mendoza,Mendoza,MZA,5500,AR
+4753,9 de Julio 2765,Mar del Plata,Buenos Aires,BA,7600,AR
+4754,Castelli 339,Mendoza,Mendoza,MZA,5500,AR
+4755,Rivadavia 4379,San Isidro,Buenos Aires,BA,1642,AR
+4756,Salta 374,Córdoba,Córdoba,CBA,5000,AR
+4757,Maipú 2452,Mar del Plata,Buenos Aires,BA,7600,AR
+4758,Balcarce 4642,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4759,Av. San Martín 1437,Godoy Cruz,Mendoza,MZA,5501,AR
+4760,Laprida 2615,Córdoba,Córdoba,CBA,5000,AR
+4761,Rivadavia 4753,Mendoza,Mendoza,MZA,5500,AR
+4762,Alsina 2384,Mar del Plata,Buenos Aires,BA,7600,AR
+4763,Alem 3886,Rafaela,Santa Fe,SF,2300,AR
+4764,España 1989,San Isidro,Buenos Aires,BA,1642,AR
+4765,Maipú 2005,Córdoba,Córdoba,CBA,5000,AR
+4766,Entre Ríos 1447,Córdoba,Córdoba,CBA,5000,AR
+4767,Alem 4315,Río Cuarto,Córdoba,CBA,5800,AR
+4768,Las Heras 3555,La Plata,Buenos Aires,BA,1900,AR
+4769,Pueyrredón 2441,Río Cuarto,Córdoba,CBA,5800,AR
+4770,Alem 3566,Mar del Plata,Buenos Aires,BA,7600,AR
+4771,Av. Pellegrini 1667,Godoy Cruz,Mendoza,MZA,5501,AR
+4772,Pueyrredón 2748,Bahía Blanca,Buenos Aires,BA,8000,AR
+4773,Salta 3832,La Plata,Buenos Aires,BA,1900,AR
+4774,25 de Mayo 1458,Mendoza,Mendoza,MZA,5500,AR
+4775,Alsina 4658,Quilmes,Buenos Aires,BA,1878,AR
+4776,España 2674,La Plata,Buenos Aires,BA,1900,AR
+4777,Mitre 2562,Santa Fe,Santa Fe,SF,3000,AR
+4778,Güemes 4534,Rosario,Santa Fe,SF,2000,AR
+4779,Dorrego 639,Rosario,Santa Fe,SF,2000,AR
+4780,Moreno 4965,Córdoba,Córdoba,CBA,5000,AR
+4781,Entre Ríos 2188,Villa Carlos Paz,Córdoba,CBA,5152,AR
+4782,Güemes 4593,Río Cuarto,Córdoba,CBA,5800,AR
+4783,Av. Pellegrini 1553,Mendoza,Mendoza,MZA,5500,AR
+4784,Laprida 1133,Godoy Cruz,Mendoza,MZA,5501,AR
+4785,Sarmiento 2110,Mendoza,Mendoza,MZA,5500,AR
+4786,Tucumán 3024,La Plata,Buenos Aires,BA,1900,AR
+4787,Güemes 2426,Mar del Plata,Buenos Aires,BA,7600,AR
+4788,Av. Colón 3886,Santa Fe,Santa Fe,SF,3000,AR
+4789,Tucumán 4552,Quilmes,Buenos Aires,BA,1878,AR
+4790,Alsina 935,Quilmes,Buenos Aires,BA,1878,AR
+4791,Alem 3489,San Isidro,Buenos Aires,BA,1642,AR
+4792,Las Heras 4829,Rosario,Santa Fe,SF,2000,AR
+4793,Maipú 4106,Río Cuarto,Córdoba,CBA,5800,AR
+4794,Chacabuco 3169,La Plata,Buenos Aires,BA,1900,AR
+4795,Rivadavia 644,San Rafael,Mendoza,MZA,5600,AR
+4796,Alsina 4405,Mar del Plata,Buenos Aires,BA,7600,AR
+4797,Av. Pellegrini 3544,Bahía Blanca,Buenos Aires,BA,8000,AR
+4798,Güemes 4874,Mendoza,Mendoza,MZA,5500,AR
+4799,Entre Ríos 1930,Córdoba,Córdoba,CBA,5000,AR
+4800,Sarmiento 2683,La Plata,Buenos Aires,BA,1900,AR
+4801,Rivadavia 1964,Godoy Cruz,Mendoza,MZA,5501,AR
+4802,Moreno 1866,Córdoba,Córdoba,CBA,5000,AR
+4803,Av. San Martín 4564,Quilmes,Buenos Aires,BA,1878,AR
+4804,Av. Pellegrini 2954,Córdoba,Córdoba,CBA,5000,AR
+4805,Balcarce 771,Bahía Blanca,Buenos Aires,BA,8000,AR
+4806,Av. Colón 4160,La Plata,Buenos Aires,BA,1900,AR
+4807,España 1009,Rosario,Santa Fe,SF,2000,AR
+4808,Dorrego 4419,Rafaela,Santa Fe,SF,2300,AR
+4809,Sarmiento 4004,Rosario,Santa Fe,SF,2000,AR
+4810,Independencia 4833,Mar del Plata,Buenos Aires,BA,7600,AR
+4811,Independencia 1032,Quilmes,Buenos Aires,BA,1878,AR
+4812,Italia 1741,Córdoba,Córdoba,CBA,5000,AR
+4813,Balcarce 1357,Córdoba,Córdoba,CBA,5000,AR
+4814,Maipú 2949,Mendoza,Mendoza,MZA,5500,AR
+4815,Pueyrredón 4554,San Isidro,Buenos Aires,BA,1642,AR
+4816,Entre Ríos 3995,Rosario,Santa Fe,SF,2000,AR
+4817,Güemes 2760,Quilmes,Buenos Aires,BA,1878,AR
+4818,Moreno 1987,Rosario,Santa Fe,SF,2000,AR
+4819,Mitre 339,Mendoza,Mendoza,MZA,5500,AR
+4820,Pueyrredón 289,Córdoba,Córdoba,CBA,5000,AR
+4821,Brown 3956,Córdoba,Córdoba,CBA,5000,AR
+4822,España 932,Córdoba,Córdoba,CBA,5000,AR
+4823,Moreno 4229,Mar del Plata,Buenos Aires,BA,7600,AR
+4824,Rivadavia 2983,San Isidro,Buenos Aires,BA,1642,AR
+4825,Alsina 1982,Santa Fe,Santa Fe,SF,3000,AR
