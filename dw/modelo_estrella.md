@@ -145,4 +145,85 @@ erDiagram
         VARCHAR device
         BIGINT duration_seconds
     }
+    mart_nps_daily {
+        INTEGER date_id
+        DATE month_start
+        INTEGER channel_id
+        VARCHAR channel_code
+        BIGINT total_responses
+        BIGINT promoters
+        BIGINT passives
+        BIGINT detractors
+        DOUBLE nps_daily
+    }
+    mart_nps_monthly {
+        DATE month_start
+        INTEGER channel_id
+        VARCHAR channel_code
+        BIGINT total_responses
+        BIGINT promoters
+        BIGINT passives
+        BIGINT detractors
+        DOUBLE nps_monthly
+    }
+    mart_products_daily {
+        INTEGER date_id
+        DATE month_start
+        INTEGER channel_id
+        VARCHAR channel_code
+        VARCHAR province_name
+        INTEGER product_key
+        VARCHAR product_name
+        HUGEINT total_units
+        DECIMAL product_sales
+        BIGINT orders_with_product
+    }
+    mart_products_monthly {
+        DATE month_start
+        INTEGER channel_id
+        VARCHAR channel_code
+        VARCHAR province_name
+        INTEGER product_key
+        VARCHAR product_name
+        HUGEINT total_units
+        DECIMAL product_sales
+        BIGINT orders_with_product
+    }
+    mart_sales_daily {
+        INTEGER date_id
+        DATE month_start
+        INTEGER channel_id
+        VARCHAR channel_code
+        VARCHAR province_name
+        BIGINT total_orders
+        DECIMAL total_sales
+        DECIMAL avg_ticket_daily
+    }
+    mart_sales_monthly {
+        DATE month_start
+        INTEGER channel_id
+        VARCHAR channel_code
+        VARCHAR province_name
+        BIGINT total_orders
+        DECIMAL total_sales
+        DECIMAL avg_ticket_monthly
+    }
+    mart_web_activity_daily {
+        INTEGER date_id
+        DATE month_start
+        INTEGER customer_id
+        INTEGER active_customers_daily
+        BIGINT total_sessions
+        BIGINT anonymous_sessions
+        HUGEINT duration_sum_seconds
+        BIGINT duration_count
+    }
+    mart_web_activity_monthly {
+        DATE month_start
+        BIGINT active_customers_monthly
+        BIGINT total_sessions
+        BIGINT anonymous_sessions
+        HUGEINT duration_sum_seconds
+        BIGINT duration_count
+    }
 ```

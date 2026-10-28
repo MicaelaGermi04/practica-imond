@@ -1,5 +1,5 @@
 -- =====================================================================
--- 03_consultas.sql — Consultas para revisar el modelo y calcular KPIs
+-- 04_consultas.sql — Validaciones DW y 8 Data Marts (deprecated)
 -- =====================================================================
 -- Cada SELECT de este archivo se muestra en la terminal al ejecutar
 -- run_sql.py. Usalo para:
@@ -9,7 +9,7 @@
 --     ranking mensual por producto) usando las tablas del modelo estrella.
 -- =====================================================================
 
--- TU TURNO: agregá acá tus consultas.
+-- Consultas de control del Data Warehouse y de los Data Marts.
 
 -- =====================================================================
 -- 1. VALIDACION DE CARGAS: RAW VS DATA WAREHOUSE
@@ -211,4 +211,170 @@ SELECT year, month, producto, unidades_vendidas, ventas_productos_ars,
 FROM ventas_producto
 ORDER BY year, month, ranking_mensual, producto;
 
+-- =====================================================================
+-- 5. VALIDACIONES DE LOS 8 DATA MARTS (RAMA DEPRECATED)
+-- =====================================================================
+-- Los Marts diarios y mensuales se construyen por separado desde hechos.
+-- Evitar sumar promedios de ticket o NPS y usuarios unicos entre dias.
 
+-- 5.1 Ventas: totales de hechos, Mart diario y Mart mensual.
+-- Esperado: los tres conteos y los tres importes coinciden.
+SELECT
+    (SELECT COUNT(*) FROM fact_sales
+     WHERE status IN ('PAID', 'FULFILLED')) AS orders_fact,
+    (SELECT SUM(total_orders) FROM mart_sales_daily) AS orders_daily,
+    (SELECT SUM(total_orders) FROM mart_sales_monthly) AS orders_monthly,
+    (SELECT SUM(total_amount) FROM fact_sales
+     WHERE status IN ('PAID', 'FULFILLED')) AS sales_fact,
+    (SELECT SUM(total_sales) FROM mart_sales_daily) AS sales_daily,
+    (SELECT SUM(total_sales) FROM mart_sales_monthly) AS sales_monthly;
+
+-- 5.2 Ticket promedio global: calcular desde ventas y pedidos.
+-- Esperado: mismo ticket promedio en Mart diario y mensual.
+SELECT origen, pedidos, ventas,
+       ROUND(ventas / NULLIF(pedidos, 0), 2) AS ticket_promedio
+FROM (
+    SELECT 'DIARIO' AS origen, SUM(total_orders) AS pedidos,
+           SUM(total_sales) AS ventas
+    FROM mart_sales_daily
+    UNION ALL
+    SELECT 'MENSUAL', SUM(total_orders), SUM(total_sales)
+    FROM mart_sales_monthly
+) x;
+
+-- 5.3 Productos: mismas unidades e importes netos de linea.
+-- Esperado: coincidencia entre hechos, diario y mensual.
+SELECT
+    (SELECT SUM(quantity) FROM fact_sales_item
+     WHERE order_status IN ('PAID', 'FULFILLED')) AS units_fact,
+    (SELECT SUM(total_units) FROM mart_products_daily) AS units_daily,
+    (SELECT SUM(total_units) FROM mart_products_monthly) AS units_monthly,
+    (SELECT SUM(line_total) FROM fact_sales_item
+     WHERE order_status IN ('PAID', 'FULFILLED')) AS sales_items_fact,
+    (SELECT SUM(product_sales) FROM mart_products_daily) AS sales_items_daily,
+    (SELECT SUM(product_sales) FROM mart_products_monthly) AS sales_items_monthly;
+
+-- 5.4 Actividad web: ninguna sesion se pierde en las agregaciones.
+-- Esperado: mismas sesiones totales y anonimas en las 3 fuentes.
+SELECT
+    (SELECT COUNT(*) FROM fact_web_session) AS sessions_fact,
+    (SELECT SUM(total_sessions) FROM mart_web_activity_daily) AS sessions_daily,
+    (SELECT SUM(total_sessions) FROM mart_web_activity_monthly) AS sessions_monthly,
+    (SELECT COUNT(*) FROM fact_web_session WHERE customer_id IS NULL) AS anonymous_fact,
+    (SELECT SUM(anonymous_sessions) FROM mart_web_activity_daily) AS anonymous_daily,
+    (SELECT SUM(anonymous_sessions) FROM mart_web_activity_monthly) AS anonymous_monthly;
+
+-- 5.5 Usuarios estimados por mes: comparacion entre hechos y ambos Marts.
+-- Esperado: 0 filas. Las sesiones anonimas se cuentan como estimacion.
+WITH users_fact AS (
+    SELECT DATE_TRUNC('month', started_at)::DATE AS month_start,
+           COUNT(DISTINCT customer_id)
+             + COUNT(*) FILTER (WHERE customer_id IS NULL) AS usuarios
+    FROM fact_web_session
+    GROUP BY 1
+), users_daily AS (
+    SELECT month_start,
+           COUNT(DISTINCT customer_id) + SUM(anonymous_sessions) AS usuarios
+    FROM mart_web_activity_daily
+    GROUP BY 1
+), users_monthly AS (
+    SELECT month_start,
+           active_customers_monthly + anonymous_sessions AS usuarios
+    FROM mart_web_activity_monthly
+)
+SELECT COALESCE(f.month_start, d.month_start, m.month_start) AS month_start,
+       f.usuarios AS usuarios_fact,
+       d.usuarios AS usuarios_daily,
+       m.usuarios AS usuarios_monthly
+FROM users_fact f
+FULL OUTER JOIN users_daily d ON f.month_start = d.month_start
+FULL OUTER JOIN users_monthly m
+    ON COALESCE(f.month_start, d.month_start) = m.month_start
+WHERE f.usuarios IS DISTINCT FROM d.usuarios
+   OR f.usuarios IS DISTINCT FROM m.usuarios;
+
+-- 5.6 NPS: respuestas y NPS global ponderado por cantidad de respuestas.
+-- Esperado: coincidencia entre las tres fuentes.
+SELECT
+    (SELECT COUNT(*) FROM fact_nps) AS responses_fact,
+    (SELECT SUM(total_responses) FROM mart_nps_daily) AS responses_daily,
+    (SELECT SUM(total_responses) FROM mart_nps_monthly) AS responses_monthly,
+    (SELECT ROUND(100.0 * (
+        COUNT(*) FILTER (WHERE nps_category = 'PROMOTER')
+        - COUNT(*) FILTER (WHERE nps_category = 'DETRACTOR')
+    ) / NULLIF(COUNT(*), 0), 2) FROM fact_nps) AS nps_fact,
+    (SELECT ROUND(100.0 * (SUM(promoters) - SUM(detractors)) /
+        NULLIF(SUM(total_responses), 0), 2) FROM mart_nps_daily) AS nps_daily,
+    (SELECT ROUND(100.0 * (SUM(promoters) - SUM(detractors)) /
+        NULLIF(SUM(total_responses), 0), 2) FROM mart_nps_monthly) AS nps_monthly;
+
+-- 5.7 Unicidad del grano de cada Mart. Esperado: 0 duplicados.
+SELECT 'mart_sales_daily' AS tabla, COUNT(*) AS filas_duplicadas
+FROM (SELECT date_id, channel_id, province_name FROM mart_sales_daily
+      GROUP BY 1, 2, 3 HAVING COUNT(*) > 1) x
+UNION ALL
+SELECT 'mart_sales_monthly', COUNT(*)
+FROM (SELECT month_start, channel_id, province_name FROM mart_sales_monthly
+      GROUP BY 1, 2, 3 HAVING COUNT(*) > 1) x
+UNION ALL
+SELECT 'mart_products_daily', COUNT(*)
+FROM (SELECT date_id, channel_id, province_name, product_key
+      FROM mart_products_daily GROUP BY 1, 2, 3, 4 HAVING COUNT(*) > 1) x
+UNION ALL
+SELECT 'mart_products_monthly', COUNT(*)
+FROM (SELECT month_start, channel_id, province_name, product_key
+      FROM mart_products_monthly GROUP BY 1, 2, 3, 4 HAVING COUNT(*) > 1) x
+UNION ALL
+SELECT 'mart_web_activity_daily', COUNT(*)
+FROM (SELECT date_id, customer_id FROM mart_web_activity_daily
+      GROUP BY 1, 2 HAVING COUNT(*) > 1) x
+UNION ALL
+SELECT 'mart_web_activity_monthly', COUNT(*)
+FROM (SELECT month_start FROM mart_web_activity_monthly
+      GROUP BY 1 HAVING COUNT(*) > 1) x
+UNION ALL
+SELECT 'mart_nps_daily', COUNT(*)
+FROM (SELECT date_id, channel_id FROM mart_nps_daily
+      GROUP BY 1, 2 HAVING COUNT(*) > 1) x
+UNION ALL
+SELECT 'mart_nps_monthly', COUNT(*)
+FROM (SELECT month_start, channel_id FROM mart_nps_monthly
+      GROUP BY 1, 2 HAVING COUNT(*) > 1) x;
+
+-- =====================================================================
+-- 6. CONSULTAS ANALITICAS DESDE LOS MARTS MENSUALES
+-- =====================================================================
+
+-- 6.1 Ventas mensuales consolidadas.
+SELECT month_start,
+       SUM(total_orders) AS pedidos,
+       SUM(total_sales) AS ventas,
+       ROUND(SUM(total_sales) / NULLIF(SUM(total_orders), 0), 2)
+           AS ticket_promedio
+FROM mart_sales_monthly
+GROUP BY month_start
+ORDER BY month_start;
+
+-- 6.2 NPS mensual consolidado entre canales.
+SELECT month_start,
+       SUM(total_responses) AS respuestas,
+       ROUND(100.0 * (SUM(promoters) - SUM(detractors)) /
+             NULLIF(SUM(total_responses), 0), 2) AS nps_mensual
+FROM mart_nps_monthly
+GROUP BY month_start
+ORDER BY month_start;
+
+-- 6.3 Ranking mensual de productos por importe neto (sin IVA/envio).
+WITH ventas_producto AS (
+    SELECT month_start, product_key, product_name,
+           SUM(total_units) AS unidades,
+           SUM(product_sales) AS ventas_productos
+    FROM mart_products_monthly
+    GROUP BY month_start, product_key, product_name
+)
+SELECT month_start, product_name, unidades, ventas_productos,
+       DENSE_RANK() OVER (
+           PARTITION BY month_start ORDER BY ventas_productos DESC
+       ) AS ranking_mensual
+FROM ventas_producto
+ORDER BY month_start, ranking_mensual, product_name;
