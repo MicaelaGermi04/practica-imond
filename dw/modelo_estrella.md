@@ -145,4 +145,47 @@ erDiagram
         VARCHAR device
         BIGINT duration_seconds
     }
+    mart_nps {
+        INTEGER date_id
+        DATE month_start
+        INTEGER channel_id
+        VARCHAR channel_code
+        BIGINT total_responses
+        BIGINT promoters
+        BIGINT passives
+        BIGINT detractors
+        DOUBLE nps_daily
+    }
+    mart_products {
+        INTEGER date_id
+        DATE month_start
+        INTEGER channel_id
+        VARCHAR channel_code
+        VARCHAR province_name
+        INTEGER product_key
+        VARCHAR product_name
+        HUGEINT total_units
+        DECIMAL product_sales
+        BIGINT orders_with_product
+    }
+    mart_sales {
+        INTEGER date_id
+        DATE month_start
+        INTEGER channel_id
+        VARCHAR channel_code
+        VARCHAR province_name
+        BIGINT total_orders
+        DECIMAL total_sales
+        DECIMAL avg_ticket_daily
+    }
+    mart_web_activity {
+        INTEGER date_id
+        DATE month_start
+        INTEGER customer_id
+        INTEGER active_customers_daily
+        BIGINT total_sessions
+        BIGINT anonymous_sessions
+        HUGEINT duration_sum_seconds
+        BIGINT duration_count
+    }
 ```
