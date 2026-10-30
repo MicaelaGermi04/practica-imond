@@ -1,0 +1,93 @@
+name: Publicar EcoBottle AR en GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Preparar sitio estático
+    # También limita la ejecución manual a main.
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener archivos del repositorio
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Verificar archivos y preparar publicación
+        id: stage
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          marts=(mart_sales.csv mart_products.csv mart_web_activity.csv mart_nps.csv)
+          for source in web/index.html "${marts[@]/#/dw/}"; do
+            if [[ ! -s "$source" ]]; then
+              echo "::error file=$source::Falta el archivo requerido o está vacío: $source"
+              exit 1
+            fi
+          done
+          test -d web/css
+          test -d web/js
+
+          publish_dir="$(mktemp -d "$RUNNER_TEMP/ecobottle-pages.XXXXXX")"
+          mkdir -p "$publish_dir/web" "$publish_dir/dw"
+
+          # Lista explícita: no incluye pruebas, documentación ni otras capas del DW.
+          cp web/index.html "$publish_dir/web/index.html"
+          cp -R web/css web/js "$publish_dir/web/"
+          for mart in "${marts[@]}"; do
+            cp "dw/$mart" "$publish_dir/dw/$mart"
+          done
+
+          # Entrada raíz; conserva web/ y dw/ para las URL relativas de los módulos.
+          cat > "$publish_dir/index.html" <<'HTML'
+          <!doctype html>
+          <html lang="es-AR">
+            <head>
+              <meta charset="utf-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1">
+              <meta http-equiv="refresh" content="0; url=./web/">
+              <title>EcoBottle AR</title>
+              <script>
+                window.location.replace('./web/' + window.location.search + window.location.hash);
+              </script>
+            </head>
+            <body><p><a href="./web/">Abrir dashboard EcoBottle AR</a></p></body>
+          </html>
+          HTML
+
+          echo "path=$publish_dir" >> "$GITHUB_OUTPUT"
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir artefacto del sitio
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ steps.stage.outputs.path }}
+
+  deploy:
+    name: Desplegar en GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publicar sitio
+        id: deployment
+        uses: actions/deploy-pages@v4
