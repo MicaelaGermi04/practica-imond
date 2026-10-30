@@ -24,12 +24,11 @@ function showKpi(key, value, status) {
 }
 
 export async function initializeKpis() {
-  const notice = document.querySelector('.notice');
+  const errorMessage = document.querySelector('[data-load-error]');
   const badge = document.querySelector('.preview-badge');
   const retryButton = document.querySelector('[data-retry-load]');
-  notice.setAttribute('role', 'status');
-  notice.setAttribute('aria-live', 'polite');
-  notice.textContent = 'Cargando los cuatro Data Marts… Los filtros se habilitarán al terminar la carga.';
+  errorMessage.hidden = true;
+  errorMessage.textContent = '';
   badge.textContent = 'Cargando datos';
   for (const group of Object.values(groups)) for (const key of group.keys) showKpi(key, null, 'Cargando…');
   const results = await loadDataMarts();
@@ -57,11 +56,11 @@ export async function initializeKpis() {
     }
     badge.textContent = errors.length ? 'Carga incompleta' : 'Datos conectados';
     retryButton.hidden = !Object.values(results).some(result => result.status === 'rejected');
-    notice.textContent = [
-      errors.length ? `No se pudieron mostrar todos los indicadores. ${errors.join(' ')}` : 'Indicadores actualizados según los filtros. Actividad web: solo fecha. NPS: fecha y canal.',
+    errorMessage.textContent = [
+      errors.length ? `No se pudieron mostrar todos los indicadores. ${errors.join(' ')}` : '',
       empty.length ? `Archivos sin registros: ${empty.join(', ')}.` : '',
-      'Año y Mes compartidos entre vistas. Las comparaciones provinciales ignoran el filtro Provincia.',
     ].filter(Boolean).join(' ');
+    errorMessage.hidden = errorMessage.textContent === '';
   }
   const refreshFilters = initializeFilters(results, store);
   let retrying = false;

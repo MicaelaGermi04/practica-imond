@@ -118,7 +118,7 @@ assert.ok(controls.productos.every(control => !control.disabled && control.optio
 
 // Recorrido completo: carga -> controles -> filtrado -> tarjetas KPI.
 const element = () => ({ textContent: '', setAttribute() {} });
-const notice = element();
+const errorMessage = element();
 const badge = element();
 const retryButton = { ...element(), addEventListener(type, fn) { this[type] = fn; } };
 const cards = Object.fromEntries(['sales', 'ticket', 'users', 'nps', 'productSales', 'units'].map(key => {
@@ -126,7 +126,7 @@ const cards = Object.fromEntries(['sales', 'ticket', 'users', 'nps', 'productSal
   return [key, { value, status, querySelector(selector) { return selector === '.kpi-value' ? value : status; } }];
 }));
 document.querySelector = selector => {
-  if (selector === '.notice') return notice;
+  if (selector === '[data-load-error]') return errorMessage;
   if (selector === '.preview-badge') return badge;
   if (selector === '[data-retry-load]') return retryButton;
   return cards[selector.match(/data-kpi="([^"]+)"/)[1]];
@@ -135,6 +135,8 @@ globalThis.fetch = async url => ({ ok: true, text: () => readFile(url, 'utf8') }
 const { initializeKpis } = (await load('web/js/kpis.js')).namespace;
 await initializeKpis();
 assert.equal(cards.users.value.textContent, '73.828');
+assert.equal(errorMessage.hidden, true);
+assert.equal(errorMessage.textContent, '');
 const money = new Intl.NumberFormat('es-AR', { style: 'currency', currency: 'ARS', minimumFractionDigits: 2 });
 assert.equal(cards.sales.value.textContent, money.format(382410636));
 for (const [key, value] of [['year', '2025'], ['month', '09'], ['channel', 'ONLINE']]) {
@@ -160,7 +162,8 @@ globalThis.fetch = async url => url.pathname.endsWith('mart_sales.csv')
 const retrySession = await initializeKpis();
 assert.equal(cards.sales.status.textContent, 'Error de carga');
 assert.equal(cards.users.value.textContent, '73.828');
-assert.match(notice.textContent, /404/);
+assert.match(errorMessage.textContent, /404/);
+assert.equal(errorMessage.hidden, false);
 assert.ok(!select('productos', 'product').disabled);
 assert.equal(retryButton.hidden, false);
 select('resumen', 'year').value = '2025';
@@ -173,6 +176,7 @@ await retrySession.retry();
 assert.equal(calls.length, 1);
 assert.ok(calls[0].endsWith('mart_sales.csv'));
 assert.equal(retryButton.hidden, true);
+assert.equal(errorMessage.hidden, true);
 assert.equal(cards.sales.value.textContent, money.format(16646632.5));
 assert.equal(select('productos', 'year').value, '2025');
 assert.equal(select('productos', 'month').value, '09');

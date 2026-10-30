@@ -38,7 +38,7 @@ main { padding: 35px clamp(20px, 3vw, 48px) 0; max-width: 1720px; width: 100%; m
 h1 { margin: 0; color: var(--green); font-size: clamp(25px, 2.6vw, 34px); letter-spacing: -.8px; font-weight: 650; }
 .description { margin: 9px 0 0; color: var(--muted); font-size: 13px; line-height: 1.6; }
 .preview-badge { flex-shrink: 0; border: 1px solid #c9ded0; border-radius: 30px; padding: 8px 12px; background: #ecf5ef; color: var(--green); font-size: 11px; }
-.notice { background: #eaf3ed; color: #365e4c; border-left: 3px solid #89b79c; padding: 13px 16px; font-size: 12px; line-height: 1.7; border-radius: 4px 9px 9px 4px; margin-bottom: 22px; }
+.load-error { color: #8b3028; font-size: 12px; line-height: 1.7; margin: 0 0 16px; }
 .filters, .kpi, .chart-card { background: white; border: 1px solid var(--line); border-radius: 13px; }
 .filters { padding: 12px 16px; margin-bottom: 16px; }
 .filter-heading { display: flex; justify-content: space-between; gap: 12px; align-items: center; margin-bottom: 10px; }

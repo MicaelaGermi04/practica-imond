@@ -64,7 +64,7 @@
           <div><p class="eyebrow">ECOBOTTLE AR / MARKETING</p><h1 id="page-title">Resumen general</h1><p id="page-description" class="description">Una mirada integral a las ventas, la actividad web y la satisfacción.</p></div>
           <span class="preview-badge">Carga pendiente</span>
         </div>
-        <div class="notice" role="status" aria-live="polite">Los indicadores y gráficos se cargarán desde los Data Marts. Los filtros se habilitarán al completar la carga.</div>
+        <p class="load-error" data-load-error role="alert" hidden></p>
 
         <button class="retry-load reset-filters" type="button" data-retry-load hidden>Reintentar carga</button>
         <section id="view-resumen" aria-label="Resumen general">
@@ -115,7 +115,7 @@
           </div>
         </section>
         <footer class="page-footer"><span>EcoBottle AR · Dashboard de Marketing</span><span>Segunda etapa · Indicadores</span></footer>
-        <noscript><p class="notice">Habilitá JavaScript para cargar los indicadores y navegar entre las dos vistas.</p><style>#view-productos[hidden]{display:block!important}</style></noscript>
+        <noscript><p class="load-error">Habilitá JavaScript para cargar los indicadores y navegar entre las dos vistas.</p><style>#view-productos[hidden]{display:block!important}</style></noscript>
       </main>
     </div>
   </body>
