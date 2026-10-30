@@ -1,6 +1,16 @@
 # EcoBottle AR — Trabajo Práctico Final de Marketing
 
-Proyecto de análisis de ventas, actividad web y satisfacción de clientes mediante un **Data Warehouse dimensional** implementado en **DuckDB + SQL** y un **dashboard interactivo en Power BI**.
+Proyecto de análisis de ventas, actividad web y satisfacción de clientes de **EcoBottle AR**, desarrollado mediante un **Data Warehouse dimensional implementado con DuckDB y SQL**.
+
+La solución incluye dos herramientas de visualización que utilizan los mismos cuatro Data Marts:
+
+- **Power BI:** dashboard principal del trabajo práctico, con indicadores comerciales, análisis temporal y segmentadores.
+  📊 [Descargar informe de Power BI](./power_bi/EcoBottle_AR.pbix). El archivo contiene las dos páginas del dashboard y puede abrirse con Power BI Desktop.
+
+- **Dashboard web:** implementación interactiva complementaria desarrollada con HTML, CSS y JavaScript, publicada mediante GitHub Pages.
+  🌐 [Acceder al dashboard web interactivo](https://micaelagermi04.github.io/practica-imond/). Permite explorar los indicadores desde cualquier navegador, sin necesidad de instalar aplicaciones.
+
+Ambas herramientas permiten analizar ventas, ticket promedio, actividad web estimada, NPS y desempeño comercial por canal, provincia y producto.
 
 **Consigna de referencia:** [Marketing — TP Final](https://docs.google.com/document/d/1JCgZyAsmyaqTePgWyQQglX3ybYk7dVXykSRPnhQdoSg/edit?tab=t.0).
 
@@ -181,6 +191,7 @@ El informe tiene **dos páginas**, ambas alimentadas por los cuatro Marts defini
 - Series temporales: **Evolución diaria de ventas**, **Evolución diaria de usuarios activos estimados** y **Evolución del NPS**.
 - Comparación: **Ventas por provincia** mediante barras, para las ventas generales.
 - Segmentadores: Año, Mes, Canal de venta y Provincia.
+  ![Captura de resumen general](./assets/dashboard_power_bi.png)
 
 ### Página 2 — Análisis de productos
 
@@ -189,6 +200,7 @@ El informe tiene **dos páginas**, ambas alimentadas por los cuatro Marts defini
 - **Evolución de facturación por producto**.
 - **Ventas por provincia y producto**.
 - Segmentadores: Año, Mes, Canal, Provincia y Producto.
+  ![Captura de análisis por producto](./assets/dashboard_power_bi_2.png)
 
 ### Modelo y filtros del informe
 
@@ -235,7 +247,42 @@ DIVIDE(
 
 En NPS se omite el tercer argumento de `DIVIDE`: cuando no hay respuestas, el resultado es **BLANK**. En Ticket promedio, omitir el resultado alternativo también evita informar un ticket cero cuando no existen pedidos.
 
-## 7. Instalación y ejecución
+## 7. Dashboard web interactivo
+
+Como complemento al informe de Power BI, se desarrolló una versión web interactiva que utiliza los cuatro Data Marts exportados por el proceso ETL.
+
+**Acceso público:** https://micaelagermi04.github.io/practica-imond/
+![Captura de resumen general](./assets/dashboard_web.png)
+
+### Tecnologías utilizadas
+
+- HTML5 y CSS3 para la estructura y presentación.
+- JavaScript para la carga de datos, el cálculo de indicadores y la interacción.
+- Chart.js para la representación gráfica.
+- Archivos CSV generados por DuckDB como fuente de información.
+- GitHub Actions y GitHub Pages para el despliegue automático.
+
+### Funcionalidades
+
+El dashboard incluye dos vistas:
+
+**Resumen general:** ventas totales, ticket promedio, usuarios activos estimados, NPS, evolución temporal y comparación de ventas por provincia.
+
+**Análisis de productos:** facturación de productos, unidades vendidas, ranking mensual, evolución de facturación y análisis por provincia y producto.
+
+Se incorporan filtros interactivos, tablas de datos asociadas a los gráficos, un diseño adaptable a diferentes tamaños de pantalla y manejo de errores durante la carga.
+
+### Consistencia de los indicadores
+
+La versión web utiliza las mismas definiciones de negocio documentadas para el Data Warehouse y Power BI. Se respetan las reglas de granularidad y las limitaciones de filtrado de las fuentes de datos.
+
+### Publicación
+
+El sitio se publica mediante un workflow de GitHub Actions. Cada actualización incorporada a la rama `main` permite desplegar nuevamente el dashboard utilizando los archivos de `web/` y los cuatro CSV definitivos de `dw/`.
+
+El dashboard es una visualización de datos simulados con fecha de corte fija y no representa información comercial en tiempo real.
+
+## 8. Instalación y ejecución
 
 Se requiere **Python 3.9 o superior** y las dependencias indicadas en `requirements.txt`.
 

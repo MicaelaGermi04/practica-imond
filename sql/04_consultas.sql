@@ -9,12 +9,14 @@
 --     ranking mensual por producto) usando las tablas del modelo estrella.
 -- =====================================================================
 
+
 -- Consultas de control del Data Warehouse y de los Data Marts.
 
 -- =====================================================================
 -- 1. VALIDACION DE CARGAS: RAW VS DATA WAREHOUSE
 -- =====================================================================
 SELECT 'dim_product' AS tabla,
+
        (SELECT COUNT(*) FROM raw.product) AS registros_raw,
        (SELECT COUNT(*) FROM dim_product) AS registros_dw
 UNION ALL SELECT 'dim_channel', (SELECT COUNT(*) FROM raw.channel), (SELECT COUNT(*) FROM dim_channel)
