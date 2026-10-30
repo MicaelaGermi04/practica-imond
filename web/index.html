@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="es-AR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Dashboard de Marketing de EcoBottle AR. Resumen general y análisis de productos.">
+    <title>EcoBottle AR · Dashboard de Marketing</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <script type="module" src="./js/app.js"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#resumen" aria-label="EcoBottle AR, resumen general">
+        <span class="brand-mark" aria-hidden="true">e</span>
+        <span>EcoBottle <span class="brand-country">AR</span><small>MARKETING · BUSINESS INTELLIGENCE</small></span>
+      </a>
+      <span class="edition">Trabajo práctico final</span>
+    </header>
+
+    <div class="workspace">
+      <aside class="sidebar">
+        <p class="nav-label">DASHBOARD</p>
+        <nav aria-label="Vistas del dashboard">
+          <!--
+            Lucide Icons — https://lucide.dev — ISC License
+            Copyright (c) 2026 Lucide Icons and Contributors
+            Permission to use, copy, modify, and/or distribute this software for any
+            purpose with or without fee is hereby granted, provided that the above
+            copyright notice and this permission notice appear in all copies.
+            THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+            WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+            MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+            ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+            WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+            ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+            OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+          -->
+          <a class="nav-link" href="#resumen" data-view="resumen" aria-current="page">
+            <svg class="nav-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-lucide="chart-no-axes-combined">
+              <path d="M12 16v5" />
+              <path d="M16 14.639V21" />
+              <path d="M20 10.656V21" />
+              <path d="m22 3-8.646 8.646a.5.5 0 0 1-.708 0L9.354 8.354a.5.5 0 0 0-.707 0L2 15" />
+              <path d="M4 18.463V21" />
+              <path d="M8 14.656V21" />
+            </svg>
+            Resumen general
+          </a>
+          <a class="nav-link" href="#productos" data-view="productos">
+            <svg class="nav-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-lucide="package">
+              <path d="M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z" />
+              <path d="M12 22V12" />
+              <polyline points="3.29 7 12 12 20.71 7" />
+              <path d="m7.5 4.27 9 5.15" />
+            </svg>
+            Análisis de productos
+          </a>
+        </nav>
+        <div class="sidebar-note"><span class="status-dot" aria-hidden="true"></span> Dashboard interactivo<p>Indicadores y gráficos con datos reales.</p></div>
+      </aside>
+
+      <main id="main-content">
+        <div class="page-heading">
+          <div><p class="eyebrow">ECOBOTTLE AR / MARKETING</p><h1 id="page-title">Resumen general</h1><p id="page-description" class="description">Una mirada integral a las ventas, la actividad web y la satisfacción.</p></div>
+          <span class="preview-badge">Carga pendiente</span>
+        </div>
+        <div class="notice" role="status" aria-live="polite">Los indicadores y gráficos se cargarán desde los Data Marts. Los filtros se habilitarán al completar la carga.</div>
+
+        <button class="retry-load reset-filters" type="button" data-retry-load hidden>Reintentar carga</button>
+        <section id="view-resumen" aria-label="Resumen general">
+          <section class="filters" aria-label="Filtros del resumen general">
+            <div class="filter-heading"><h2>Filtros</h2><button class="reset-filters" type="button" data-reset-filters disabled>Restablecer filtros</button></div>
+            <div class="filter-grid">
+              <label>Año<select data-filter="year" disabled><option>Sin datos disponibles</option></select></label>
+              <label>Mes<select data-filter="month" disabled><option>Sin datos disponibles</option></select></label>
+              <label>Canal de venta<select data-filter="channel" disabled><option>Sin datos disponibles</option></select></label>
+              <label>Provincia<select data-filter="province" disabled><option>Sin datos disponibles</option></select></label>
+            </div>
+          </section>
+          <div class="kpi-grid">
+            <article class="kpi" data-kpi="sales"><h2>Ventas totales</h2><p class="kpi-value" aria-label="Sin datos">—</p><p class="kpi-note">ARS · Incluye IVA y envío</p><span class="empty-label">Sin datos</span></article>
+            <article class="kpi" data-kpi="ticket"><h2>Ticket promedio</h2><p class="kpi-value" aria-label="Sin datos">—</p><p class="kpi-note">ARS · Por pedido válido</p><span class="empty-label">Sin datos</span></article>
+            <article class="kpi" data-kpi="users"><h2>Usuarios activos estimados</h2><p class="kpi-value" aria-label="Sin datos">—</p><p class="kpi-note">Solo filtro de fechas</p><span class="empty-label">Sin datos</span></article>
+            <article class="kpi" data-kpi="nps"><h2>NPS</h2><p class="kpi-value" aria-label="Sin datos">—</p><p class="kpi-note">Puntos · Filtros de fecha y canal</p><span class="empty-label">Sin datos</span></article>
+          </div>
+          <div class="chart-grid">
+            <article class="chart-card"><header><h2>Evolución diaria de ventas</h2><p>Ventas totales · ARS</p></header><div class="chart-placeholder" data-chart="sales-daily"><span class="placeholder-icon" aria-hidden="true">↗</span><strong>Gráfico pendiente</strong><p>La evolución de ventas aparecerá aquí.</p></div></article>
+            <article class="chart-card"><header><h2>Ventas por provincia</h2><p>Ventas totales · ARS</p></header><div class="chart-placeholder" data-chart="sales-province"><span class="placeholder-icon" aria-hidden="true">▥</span><strong>Gráfico pendiente</strong><p>La comparación entre provincias aparecerá aquí.</p></div></article>
+            <article class="chart-card"><header><h2>Evolución diaria de usuarios activos estimados</h2><p>Solo filtro de fechas</p></header><div class="chart-placeholder" data-chart="users-daily"><span class="placeholder-icon" aria-hidden="true">↗</span><strong>Gráfico pendiente</strong><p>La actividad web estimada aparecerá aquí.</p></div></article>
+            <article class="chart-card"><header><h2>Evolución del NPS</h2><p>Puntos · Filtros de fecha y canal</p></header><div class="chart-placeholder" data-chart="nps"><span class="placeholder-icon" aria-hidden="true">↗</span><strong>Gráfico pendiente</strong><p>La evolución de satisfacción aparecerá aquí.</p></div></article>
+          </div>
+        </section>
+
+        <section id="view-productos" aria-label="Análisis de productos" hidden>
+          <section class="filters" aria-label="Filtros del análisis de productos">
+            <div class="filter-heading"><h2>Filtros</h2><button class="reset-filters" type="button" data-reset-filters disabled>Restablecer filtros</button></div>
+            <div class="filter-grid filter-grid-products">
+              <label>Año<select data-filter="year" disabled><option>Sin datos disponibles</option></select></label>
+              <label>Mes<select data-filter="month" disabled><option>Sin datos disponibles</option></select></label>
+              <label>Canal<select data-filter="channel" disabled><option>Sin datos disponibles</option></select></label>
+              <label>Provincia<select data-filter="province" disabled><option>Sin datos disponibles</option></select></label>
+              <label>Producto<select data-filter="product" disabled><option>Sin datos disponibles</option></select></label>
+            </div>
+          </section>
+          <div class="product-dashboard">
+          <div class="kpi-grid kpi-grid-products">
+            <article class="kpi" data-kpi="productSales"><h2>Facturación de productos</h2><p class="kpi-value" aria-label="Sin datos">—</p><p class="kpi-note">ARS · Sin IVA ni envío</p><span class="empty-label">Sin datos</span></article>
+            <article class="kpi" data-kpi="units"><h2>Unidades vendidas</h2><p class="kpi-value" aria-label="Sin datos">—</p><p class="kpi-note">Productos en pedidos válidos</p><span class="empty-label">Sin datos</span></article>
+          </div>
+          <div class="chart-grid">
+            <article class="chart-card"><header><h2>Evolución de facturación por producto</h2><p>Importe neto de productos · ARS</p></header><div class="chart-placeholder" data-chart="product-evolution"><span class="placeholder-icon" aria-hidden="true">↗</span><strong>Gráfico pendiente</strong><p>La evolución por producto aparecerá aquí.</p></div></article>
+            <article class="chart-card"><header><h2>Ranking mensual de productos</h2><p>Ordenado por importe de ventas · ARS</p></header><div class="chart-placeholder" data-chart="product-ranking"><span class="placeholder-icon" aria-hidden="true">▥</span><strong>Gráfico pendiente</strong><p>El ranking por facturación aparecerá aquí.</p></div></article>
+            <article class="chart-card chart-wide"><header><h2>Ventas por provincia y producto</h2><p>Facturación de productos · Sin IVA ni envío</p></header><div class="chart-placeholder" data-chart="product-province"><span class="placeholder-icon" aria-hidden="true">▥</span><strong>Gráfico pendiente</strong><p>La distribución por provincia y producto aparecerá aquí.</p></div></article>
+          </div>
+          </div>
+        </section>
+        <footer class="page-footer"><span>EcoBottle AR · Dashboard de Marketing</span><span>Segunda etapa · Indicadores</span></footer>
+        <noscript><p class="notice">Habilitá JavaScript para cargar los indicadores y navegar entre las dos vistas.</p><style>#view-productos[hidden]{display:block!important}</style></noscript>
+      </main>
+    </div>
+  </body>
+</html>
